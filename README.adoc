@@ -25,7 +25,7 @@ List of tech companies to help developers to find job.
 |https://cefalo.com/[Website]
 
 |Chumbok IT
-|*Remote*
+|**Remote**
 |Java, Spring Boot, Data JPA / Hibernate, AngularJS
 |https://chumbok.com[Website],
 https://www.facebook.com/ChumbokIT[Facebook],
@@ -91,8 +91,8 @@ https://github.com/ChumbokIT[Github]
 |MagnitoDigital
 |3rd Floor, House-7, Road-23/B, Gulshan-1, Dhaka, Bangladesh
 |
-|http://magnitodigital.com/[Website]
-https://www.facebook.com/magnitodigital[Facebook]
+|http://magnitodigital.com/[Website], 
+https://www.facebook.com/magnitodigital[Facebook], 
 https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
 |MonstarLab (Japan)
@@ -146,7 +146,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |SouthTech
 |Dhaka Square, Plot 1, Road 13, Sector 1, Uttara, Dhaka 1230
 |.Net, Java Spring, Android, AngularJS, Visual Basic
-|http://www.southtechgroup.com/[website]
+|http://www.southtechgroup.com/[website], 
 https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 
 |Therap (USA)
@@ -179,9 +179,9 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Widespace (Sweden)
 |
 |Java
-|https://www.widespace.com/[Website]
-https://www.facebook.com/WidespaceMobile[Facebook]
-https://twitter.com/WidespaceMobile[Twitter]
+|https://www.widespace.com/[Website], 
+https://www.facebook.com/WidespaceMobile[Facebook], 
+https://twitter.com/WidespaceMobile[Twitter], 
 https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |===
