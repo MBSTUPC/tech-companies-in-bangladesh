@@ -17,7 +17,7 @@ List of tech companies to help developers to find job.
 |BrainStation-23
 |8th floor, Plot#2, Amtoli, Bir Uttam AK Khandakar Rd Mohakhali Commercial Area, Dhaka-1212
 |Android, IOS, React, Xamarin, .Net, PHP, Python, Java
-|http://www.brainstation-23.com/
+|http://www.brainstation-23.com/[Website]
 
 |Cefalo Amravi Ltd (Norway)
 |House:12, Road:12, Dhanmondi, Dhaka
@@ -25,7 +25,7 @@ List of tech companies to help developers to find job.
 |https://cefalo.com/[Website]
 
 |Chumbok IT
-|Remote
+|*Remote*
 |Java, Spring Boot, Data JPA / Hibernate, AngularJS
 |https://chumbok.com[Website],
 https://www.facebook.com/ChumbokIT[Facebook],
@@ -40,11 +40,8 @@ https://github.com/ChumbokIT[Github]
 
 |DataSoft
 |Rupayan Shelford (20th floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
-Phone : 880-2-9110136, 880-2-9110169, 880-9609667788, 880-2-9117706
-Fax : +880-2-9114747
-Email : info@datasoft-bd.com
 |
-|http://datasoft-bd.com/
+|http://datasoft-bd.com/[Website]
 
 |Dynamic Solution Innovators (DSi)
 |Mohakhali DOHS, Dhaka
@@ -54,7 +51,7 @@ Email : info@datasoft-bd.com
 |Escenic (Norway)
 |Kaderia Tower, JA 28/8B Bir Uttam AK Khandakar Rd, Dhaka 1212
 |Java
-|http://www.escenic.com/
+|http://www.escenic.com/[Website]
 
 |===
 
@@ -66,7 +63,7 @@ Email : info@datasoft-bd.com
 |IBCS-Primax
 |House # 51, Road # 10A, Dhanmondi R/A, Dhaka-1209, Bangladesh
 |
-|http://www.ibcs-primax.com/ibcsonweb/
+|http://www.ibcs-primax.com/ibcsonweb/[Website]
 
 |===
 
@@ -75,16 +72,14 @@ Email : info@datasoft-bd.com
 |Company Name |Office location |Technologies | Web presence
 
 |Kaz Software
-|28/1 Eskaton Garden
-Dhaka
-Bangladesh
+|28/1 Eskaton Garden, Dhaka, Bangladesh
 |.Net, Java, PHP, AngularJS, React
-|http://kaz.com.bd/
+|http://kaz.com.bd/[Website]
 
 |LeadSoft
 |Rupayan trade Centre, 17th Floor, 114 Kazi Nazrul Islam Avenue, Bangla Motors, Dhaka 1000. (At Bangla Motor Roundabout).
 |
-|http://leads.com.bd/
+|http://leads.com.bd/[Website]
 
 
 |===
@@ -96,19 +91,19 @@ Bangladesh
 |MagnitoDigital
 |3rd Floor, House-7, Road-23/B, Gulshan-1, Dhaka, Bangladesh
 |
-|http://magnitodigital.com/
-https://www.facebook.com/magnitodigital
-https://www.linkedin.com/company/magnito-digital/?trk=tyah
+|http://magnitodigital.com/[Website]
+https://www.facebook.com/magnitodigital[Facebook]
+https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
 |MonstarLab (Japan)
 |Ahmed Tower (20th floor, Kemal Ataturk Avenue, Dhaka 1213
 |Java Spring, Laravel, Symfony, AngularJS, Amazon Web Services
-|https://monstar-lab.com/global/
+|https://monstar-lab.com/global/[Website]
 
 |Newscred (USA)
 |
 |Python, NodeJS, Angular2, Scala, MongoDB
-|https://www.newscred.com/
+|https://www.newscred.com/[Website]
 
 |===
 
@@ -118,15 +113,14 @@ https://www.linkedin.com/company/magnito-digital/?trk=tyah
 |Company Name |Office location |Technologies | Web presence
 
 |Pathao Ltd
-|Apt 3A, House 52, Road 2,
-Banani, Dhaka
+|Apt 3A, House 52, Road 2, Banani, Dhaka
 |Android
-|https://pathao.com/
+|https://pathao.com/[Website]
 
 |REVE Systems (Singapore)
 |REVE Centre, Plot-94, Purbachal Express Highway, Dumni, Khilkhet, Dhaka
 |Java
-|https://www.revesoft.com/
+|https://www.revesoft.com/[Website]
 
 |===
 
@@ -135,43 +129,35 @@ Banani, Dhaka
 |Company Name |Office location |Technologies | Web presence
 
 |Samsung R&D (Korea)
-|56, Seongchon-gil, Seocho-gu, Seoul, Republic of Korea
-111 Sonargaon Road, Dhaka 1205
+|56, Seongchon-gil, Seocho-gu, Seoul, Republic of Korea 111 Sonargaon Road, Dhaka 1205
 |IOS, Android, Tizen, C/C++, Swift, Machine Learning
-|https://research.samsung.com/srbd
+|https://research.samsung.com/srbd[Website]
 
 |Selise (Switzerland)
-|Secure Link Services AG
-Innovation Center
-Haldenstrasse 23
-8306 Brüttisellen
-Bangladesh office: Dhaka 1209
-Switzerland
+|Secure Link Services AG, Innovation Center, Haldenstrasse 23, 8306 Brüttisellen, Switzerland. Bangladesh office: Dhaka 1209
 |Android, IOS, AngularJS, NodeJS, Python, .Net
-|https://selise.ch/
+|https://selise.ch/[Website]
 
 |Streams Tech Inc.
 |House No 16, Suite F4 & F3, 23/B Road No 23/B, Dhaka 1213
 |ArcGIS-ESRI, AngularJS, .Net, SQL,MongoDB
-|https://streamstech.com.bd
+|https://streamstech.com.bd[Website]
 
 |SouthTech
-|
+|Dhaka Square, Plot 1, Road 13, Sector 1, Uttara, Dhaka 1230
 |.Net, Java Spring, Android, AngularJS, Visual Basic
-|
+|http://www.southtechgroup.com/[website]
+https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 
 |Therap (USA)
 |562 Watertown Avenue, Suite 3, Waterbury, CT 06708-2240, USA
 |Java, J2EE
-| https://therap.recruiterbox.com/
+|https://therap.recruiterbox.com/[Website]
 
 |TigerIT
-|Tiger IT Bangladesh Limited
-House 21, Road 28, Block-K, Banani Model Town
-Dhaka, 1213
-Bangladesh
+|House 21, Road 28, Block-K, Banani Model Town, Dhaka, 1213, Bangladesh
 |Java
-|http://www.tigerit.com/
+|http://www.tigerit.com/[Website]
 
 |===
 
@@ -181,23 +167,22 @@ Bangladesh
 |Company Name |Office location |Technologies | Web presence
 
 |Vantage Labs (USA)
-|6th Floor, Dynasty Tower, Begum Rokeya Avenue, Mirpur 11
-Dhaka, Bangladesh
+|6th Floor, Dynasty Tower, Begum Rokeya Avenue, Mirpur 11, Dhaka, Bangladesh
 |Java, PHP, AngularJS
-|https://www.facebook.com/VantageLabsDhaka/
+|https://www.facebook.com/VantageLabsDhaka/[Website]
 
 |Vizrt (Norway)
 |Kaderia Tower, 14 Floor, A 28/8B Mohakhali C/A, Dhaka-1212, Bangladesh
 |.Net, Java
-|http://www.vizrt.com/
+|http://www.vizrt.com/[Website]
 
 |Widespace (Sweden)
 |
 |Java
-|https://www.widespace.com/
-https://www.facebook.com/WidespaceMobile
-https://twitter.com/WidespaceMobile
-https://www.linkedin.com/company/widespace-ab
+|https://www.widespace.com/[Website]
+https://www.facebook.com/WidespaceMobile[Facebook]
+https://twitter.com/WidespaceMobile[Twitter]
+https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |===
 
