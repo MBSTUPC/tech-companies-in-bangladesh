@@ -3,6 +3,42 @@
 List of tech companies to help developers to find job.
 
 
+### How to add a new Company?
+
+* Fork the repository.
+* Add the company in alphabetical order.
+* Create pull request.
+
+
+#### Alphabetical Order: A - C
+|===
+|Company Name |Office location |Technologies | Web presence
+
+|Cefalo Amravi Ltd
+|House:12, Road:12, Dhanmondi, Dhaka
+|
+|https://cefalo.com/[Website]
+
+|Chumbok IT
+|Remote
+|Java, Spring Boot, Data JPA / Hibernate, AngularJS
+|https://chumbok.com[Website],
+https://www.facebook.com/ChumbokIT[Facebook],
+https://www.linkedin.com/company/chumbok-it[LinkedIn],
+https://github.com/ChumbokIT[Github]
+
+|===
+
+#### Alphabetical Order: D - F
+|===
+|Company Name |Office location |Technologies | Web presence
+
+|Dynamic Solution Innovators (DSi)
+|Mohakhali DOHS, Dhaka
+|Java, Spring, Hibernate, AngularJS, Android, iOS
+|http://www.dsinnovators.com[Website]
+
+|===
 
 ### Contribute
 
