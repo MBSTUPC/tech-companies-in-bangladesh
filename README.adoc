@@ -1,0 +1,14 @@
+# Tech Companies in Bangladesh
+
+List of tech companies to help developers to find job.
+
+
+
+### Contribute
+
+Contributions are always welcome! Create a pull request.
+
+
+### Copyright & License
+
+Licensed under the MIT License, see the link:LICENSE[LICENSE] file for details.
