@@ -14,6 +14,11 @@ List of tech companies to help developers to find job.
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|Augmedix Inc.
+|SS Steel Building, Suite 203, 17/C Panthapath, Dhaka
+|Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
+|https://www.augmedix.com/[Website]
+
 |BrainStation-23
 |
 |Android, IOS, React, Xamarin, .Net, PHP, Python, Java
