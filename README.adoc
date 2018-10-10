@@ -17,6 +17,11 @@ List of tech companies to help developers to find jobs.
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|Augmedix Inc.
+|SS Steel Building, Suite 203, 17/C Panthapath, Dhaka
+|Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
+|https://www.augmedix.com/[Website]
+
 |BrainStation-23
 |8th floor, Plot#2, Amtoli, Bir Uttam AK Khandakar Rd Mohakhali Commercial Area, Dhaka-1212
 |Android, IOS, React, Xamarin, .Net, PHP, Python, Java
@@ -146,6 +151,16 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |ArcGIS-ESRI, AngularJS, .Net, SQL,MongoDB
 |https://streamstech.com.bd[Website]
 
+|SoftwarePeople
+|3rd Floor, House# 76/A, Road# 11, Banani, Dhaka
+|.Net, Java, Spring, Hibernate, AngularJS
+|https://www.facebook.com/softwarepeoplewpp[Facebook]
+
+|Sonali Polaris FT Limited
+|Abedin Tower (7th Floor), 35 Kamal Ataturk Avenue, Banani C/A I Dhaka – 1213, 35 Kemal Ataturk Ave, Dhaka
+|Java, Oracle
+|http://www.spftl.com[Website]
+
 |SouthTech
 |Dhaka Square, Plot 1, Road 13, Sector 1, Uttara, Dhaka 1230
 |.Net, Java Spring, Android, AngularJS, Visual Basic
@@ -210,14 +225,19 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Android, JavaScript, Java EE, JSP, Servlet
 |
 
+|mPower Social Enterprises Limited
+|House No. 77, Block- M, 11 Rd No. 11, Dhaka
+|Java, Android, Python
+|https://www.mpower-social.com[Website]
+
 |===
 
 
 {nbsp} +
 {nbsp} +
 
-=== Contribute
 
+=== Contribute
 Contributions are always welcome! Create a pull request.
 
 
