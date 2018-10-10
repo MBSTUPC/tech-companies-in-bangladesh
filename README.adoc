@@ -1,16 +1,19 @@
-# Tech Companies in Bangladesh
+= Tech Companies in Bangladesh
 
-List of tech companies to help developers to find job.
+List of tech companies to help developers to find jobs.
 
 
-### How to add a new Company?
+=== How to add a new Company?
 
 * Fork the repository.
 * Add the company in alphabetical order.
 * Create pull request.
 
+{nbsp} +
+{nbsp} +
 
-#### Alphabetical Order: A - C
+
+==== Alphabetical Order: A - C
 |===
 |Company Name |Office location |Technologies | Web presence
 
@@ -25,7 +28,7 @@ List of tech companies to help developers to find job.
 |https://cefalo.com/[Website]
 
 |Chumbok IT
-|**Remote**
+|_Remote_
 |Java, Spring Boot, Data JPA / Hibernate, AngularJS
 |https://chumbok.com[Website],
 https://www.facebook.com/ChumbokIT[Facebook],
@@ -34,7 +37,7 @@ https://github.com/ChumbokIT[Github]
 
 |===
 
-#### Alphabetical Order: D - F
+==== Alphabetical Order: D - F
 |===
 |Company Name |Office location |Technologies | Web presence
 
@@ -56,7 +59,7 @@ https://github.com/ChumbokIT[Github]
 |===
 
 
-#### Alphabetical Order: G - I
+==== Alphabetical Order: G - I
 |===
 |Company Name |Office location |Technologies | Web presence
 
@@ -67,7 +70,7 @@ https://github.com/ChumbokIT[Github]
 
 |===
 
-#### Alphabetical Order: J - L
+==== Alphabetical Order: J - L
 |===
 |Company Name |Office location |Technologies | Web presence
 
@@ -84,7 +87,7 @@ https://github.com/ChumbokIT[Github]
 
 |===
 
-#### Alphabetical Order: M - O
+==== Alphabetical Order: M - O
 |===
 |Company Name |Office location |Technologies | Web presence
 
@@ -108,7 +111,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |===
 
 
-#### Alphabetical Order: P - R
+==== Alphabetical Order: P - R
 |===
 |Company Name |Office location |Technologies | Web presence
 
@@ -124,7 +127,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
 |===
 
-#### Alphabetical Order: S - U
+==== Alphabetical Order: S - U
 |===
 |Company Name |Office location |Technologies | Web presence
 
@@ -162,7 +165,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |===
 
 
-#### Alphabetical Order: V - Z
+==== Alphabetical Order: V - Z
 |===
 |Company Name |Office location |Technologies | Web presence
 
@@ -186,8 +189,9 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |===
 
+{nbsp} +
 
-#### Some other companies with IT section
+==== Some other companies with IT section
 |===
 |Company Name |Office location |Technologies | Web presence
 
@@ -209,10 +213,13 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |===
 
 
-### Contribute
+{nbsp} +
+{nbsp} +
+
+=== Contribute
 
 Contributions are always welcome! Create a pull request.
 
 
-### Copyright & License
+=== Copyright & License
 Licensed under the MIT License, see the link:LICENSE[LICENSE] file for details.
