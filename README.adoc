@@ -141,6 +141,16 @@ https://github.com/ChumbokIT[Github]
 |ArcGIS-ESRI, AngularJS, .Net, SQL,MongoDB
 |
 
+|SoftwarePeople
+|3rd Floor, House# 76/A, Road# 11, Banani, Dhaka
+|.Net, Java, Spring, Hibernate, AngularJS
+|https://www.facebook.com/softwarepeoplewpp[Facebook]
+
+|Sonali Polaris FT Limited
+|Abedin Tower (7th Floor), 35 Kamal Ataturk Avenue, Banani C/A I Dhaka – 1213, 35 Kemal Ataturk Ave, Dhaka
+|Java, Oracle
+|http://www.spftl.com[Website]
+
 |SouthTech
 |
 |.Net, Java Spring, Android, AngularJS, Visual Basic
@@ -199,6 +209,11 @@ https://github.com/ChumbokIT[Github]
 |
 |Android, JavaScript, Java EE, JSP, Servlet
 |
+
+|mPower Social Enterprises Limited
+|House No. 77, Block- M, 11 Rd No. 11, Dhaka
+|Java, Android, Python
+|https://www.mpower-social.com[Website]
 
 |===
 
