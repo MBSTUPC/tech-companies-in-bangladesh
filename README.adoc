@@ -104,8 +104,8 @@ https://github.com/ChumbokIT[Github]
 |MagnitoDigital
 |3rd Floor, House-7, Road-23/B, Gulshan-1, Dhaka, Bangladesh
 |
-|http://magnitodigital.com/[Website], 
-https://www.facebook.com/magnitodigital[Facebook], 
+|http://magnitodigital.com/[Website],
+https://www.facebook.com/magnitodigital[Facebook],
 https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
 |MonstarLab (Japan)
@@ -174,7 +174,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |SouthTech
 |Dhaka Square, Plot 1, Road 13, Sector 1, Uttara, Dhaka 1230
 |.Net, Java Spring, Android, AngularJS, Visual Basic
-|http://www.southtechgroup.com/[website], 
+|http://www.southtechgroup.com/[website],
 https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 
 |Therap (USA)
@@ -212,9 +212,9 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Widespace (Sweden)
 |
 |Java
-|https://www.widespace.com/[Website], 
-https://www.facebook.com/WidespaceMobile[Facebook], 
-https://twitter.com/WidespaceMobile[Twitter], 
+|https://www.widespace.com/[Website],
+https://www.facebook.com/WidespaceMobile[Facebook],
+https://twitter.com/WidespaceMobile[Twitter],
 https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |===
@@ -224,11 +224,6 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 ==== Some other companies with IT section
 |===
 |Company Name |Office location |Technologies | Web presence
-
-|Grameenphone IT
-|
-|
-|
 
 |Bits
 |
@@ -244,6 +239,11 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |House No. 77, Block- M, 11 Rd No. 11, Dhaka
 |Java, Android, Python
 |https://www.mpower-social.com[Website]
+
+|Telenor Health A\S
+|House No. 257, Block- B, Road 1, Bashundhara R/A, Dhaka-1229
+|PHP(Laravel, Drupal), Nodejs(Express, Socket.io), JavaScript(React), Python(Django), iOS, Android
+|https://telenorhealth.com
 
 |===
 
