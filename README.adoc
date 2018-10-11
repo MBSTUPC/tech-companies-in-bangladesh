@@ -30,7 +30,7 @@ List of tech companies to help developers to find jobs.
 |Brotecs Technologies Ltd (USA)
 |1330, West Auto Drive, Tempe, AZ 85284, USA / 28, Shahjalal Avenue, Sector-4, Uttara, Dhaka, BD
 |C, PHP, Android, iOS, .NET
-|http://www.brotecs.com
+|http://www.brotecs.com[Website]
 
 |Cefalo Amravi Ltd (Norway)
 |House:12, Road:12, Dhanmondi, Dhaka
@@ -212,7 +212,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |weDevs Ltd
 |Level-3, House - 1005, Avenue - 11, Road - 09, Mirpur DOHS, Dhaka 1216, Bangladesh
 |PHP, Wordpress, VueJs
-|https://wedevs.com
+|https://wedevs.com[Website]
 
 |Welldev (Switzerland)
 |546/2 Rd No 13, Baridhara, Dhaka
@@ -253,7 +253,7 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Telenor Health A\S
 |House No. 257, Block- B, Road 1, Bashundhara R/A, Dhaka-1229
 |PHP(Laravel, Drupal), Nodejs(Express, Socket.io), JavaScript(React), Python(Django), iOS, Android
-|https://telenorhealth.com
+|https://telenorhealth.com[Website]
 
 |===
 
