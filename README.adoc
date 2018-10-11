@@ -27,6 +27,11 @@ List of tech companies to help developers to find jobs.
 |Android, IOS, React, Xamarin, .Net, PHP, Python, Java
 |http://www.brainstation-23.com/[Website]
 
+|Brotecs Technologies Ltd (USA)
+|1330, West Auto Drive, Tempe, AZ 85284, USA | 28, Shahjalal Avenue, Sector-4, Uttara, Dhaka, BD
+|C, PHP, Android, iOS, .NET
+|http://www.brotecs.com
+
 |Cefalo Amravi Ltd (Norway)
 |House:12, Road:12, Dhanmondi, Dhaka
 |Android, .Net, Python, Rails, IOS
@@ -203,6 +208,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Kaderia Tower, 14 Floor, A 28/8B Mohakhali C/A, Dhaka-1212, Bangladesh
 |.Net, Java
 |http://www.vizrt.com/[Website]
+
+|weDevs Ltd
+|Level-3, House - 1005, Avenue - 11, Road - 09, Mirpur DOHS, Dhaka 1216, Bangladesh
+|PHP, Wordpress, VueJs
+|https://wedevs.com
 
 |Welldev (Switzerland)
 |546/2 Rd No 13, Baridhara, Dhaka
