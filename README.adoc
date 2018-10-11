@@ -195,8 +195,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |TechCare
 |450/A, Road 6A, Avenue 6, Mirpur DOHS, Dhaka 1216, Bangladesh
 |Android, Java, Node
-|https://www.techcarebd.com/[Website]
-|https://www.facebook.com/techcarebd/[Facebook]
+|https://www.techcarebd.com/[Website], https://www.facebook.com/techcarebd/[Facebook]
 
 |===
 
