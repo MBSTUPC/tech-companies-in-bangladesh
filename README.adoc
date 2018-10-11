@@ -56,6 +56,11 @@ https://github.com/ChumbokIT[Github]
 |Java, Spring, Hibernate, AngularJS, Android, iOS
 |http://www.dsinnovators.com[Website]
 
+|Dohatec New Media
+|43, Doha House, Purana Paltan Lane, Dhaka
+|.NET, Java, Spring, Python, AngularJS
+|http://www.dohatec.com/[Website]
+
 |Escenic (Norway)
 |Kaderia Tower, JA 28/8B Bir Uttam AK Khandakar Rd, Dhaka 1212
 |Java
@@ -107,6 +112,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Ahmed Tower (20th floor, Kemal Ataturk Avenue, Dhaka 1213
 |Java Spring, Laravel, Symfony, AngularJS, Amazon Web Services
 |https://monstar-lab.com/global/[Website]
+
+|Nascenia
+|6/14, Block A, Lalmatia, Dhaka
+|Ruby on Rails, Android, iOS, .NET, PHP
+|https://www.nascenia.com/[Website]
 
 |Newscred (USA)
 |
@@ -193,6 +203,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Kaderia Tower, 14 Floor, A 28/8B Mohakhali C/A, Dhaka-1212, Bangladesh
 |.Net, Java
 |http://www.vizrt.com/[Website]
+
+|Welldev (Switzerland)
+|546/2 Rd No 13, Baridhara, Dhaka
+|Ruby on Rails, Android, iOS, ReactJS
+|https://www.welldev.io/[Website]
 
 |Widespace (Sweden)
 |
