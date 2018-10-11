@@ -28,7 +28,7 @@ List of tech companies to help developers to find jobs.
 |http://www.brainstation-23.com/[Website]
 
 |Brotecs Technologies Ltd (USA)
-|1330, West Auto Drive, Tempe, AZ 85284, USA | 28, Shahjalal Avenue, Sector-4, Uttara, Dhaka, BD
+|1330, West Auto Drive, Tempe, AZ 85284, USA / 28, Shahjalal Avenue, Sector-4, Uttara, Dhaka, BD
 |C, PHP, Android, iOS, .NET
 |http://www.brotecs.com
 
