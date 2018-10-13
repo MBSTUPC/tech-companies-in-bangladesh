@@ -250,6 +250,14 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Android, JavaScript, Java EE, JSP, Servlet
 |
 
+
+|iPay Systems Ltd.
+|Silver Tower (Level 12), 52 Gulshan Avenue, Circle-1, Dhaka-1212, Bangladesh
+|Java, Python
+|https://www.ipay.com.bd/[Website]
+https://www.linkedin.com/company/ipay-systems-ltd./[LinkedIn]
+https://www.facebook.com/iPayBangladesh/[Facebook]
+
 |mPower Social Enterprises Limited
 |House No. 77, Block- M, 11 Rd No. 11, Dhaka
 |Java, Android, Python
