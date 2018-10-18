@@ -136,7 +136,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Company Name |Office location |Technologies | Web presence
 
 |Pathao Ltd
-|Apt 3A, House 52, Road 2, Banani, Dhaka
+|Road 49, Genetic Baro Bhuiyan Tower, Gulshan-2, Dhaka
 |Android, IOS, golang, PHP, kubernetes
 |https://pathao.com/[Website]
 
