@@ -37,6 +37,11 @@ List of tech companies to help developers to find jobs.
 |Android, .Net, Python, Rails, IOS
 |https://cefalo.com/[Website]
 
+|Computer Source InfoTech
+|49 Kawran Bazar Rd, Dhaka 1215
+|PHP, Oracle, Java
+|http://csinfotechbd.com/[Website]
+
 |Chumbok IT
 |_Remote_
 |Java, Spring Boot, Data JPA / Hibernate, AngularJS
