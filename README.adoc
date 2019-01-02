@@ -32,6 +32,11 @@ List of tech companies to help developers to find jobs.
 |C, PHP, Android, iOS, .NET
 |http://www.brotecs.com[Website]
 
+|Craftsmen
+|House# 448, Lane# 7,DOHS Baridhara, Dhaka 1206, Bangladesh
+|ES/TypeScript, Node.js, React/Vue.js, Redux, React Native, AWS, GCP, Serverless Framework.
+|https://www.craftsmenltd.com/[Website]
+
 |Cefalo Amravi Ltd (Norway)
 |House:12, Road:12, Dhanmondi, Dhaka
 |Android, .Net, Python, Rails, IOS
