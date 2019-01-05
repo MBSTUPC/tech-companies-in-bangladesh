@@ -27,6 +27,11 @@ List of tech companies to help developers to find jobs.
 |Android, IOS, React, Xamarin, .Net, PHP, Python, Java
 |http://www.brainstation-23.com/[Website]
 
+|BJIT Ltd.
+|House-07, Road-2/C, Block-J, Baridhara, Dhaka-1212, Bangladesh
+|Java, JEE, Groovy, PHP, C#, Android, iOS, IoT, Fintech, AI
+|http://bjitgroup.com[Website]
+
 |Brotecs Technologies Ltd (USA)
 |1330, West Auto Drive, Tempe, AZ 85284, USA / 28, Shahjalal Avenue, Sector-4, Uttara, Dhaka, BD
 |C, PHP, Android, iOS, .NET
