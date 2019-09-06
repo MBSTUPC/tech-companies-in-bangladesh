@@ -81,10 +81,22 @@ https://github.com/ChumbokIT[Github]
 |.NET, Java, Spring, Python, AngularJS
 |http://www.dohatec.com/[Website]
 
+|Enosis Solutions (USA)
+|House - 27 Rd No 8, Gulshan-1, Dhaka-1212
+|Java, PHP, Python, C#
+|http://enosisbd.com[Website]
+
 |Escenic (Norway)
 |Kaderia Tower, JA 28/8B Bir Uttam AK Khandakar Rd, Dhaka 1212
 |Java
 |http://www.escenic.com/[Website]
+
+|Fieldbuzz (Germany)
+|Azhar Comfort Complex (5th floor), Ga-130/A Progoti Shoroni, Middle Badda, Dhaka
+|Python, Django, Android, Java
+|https://field.buzz [Website]
+
+
 
 |===
 
@@ -98,6 +110,11 @@ https://github.com/ChumbokIT[Github]
 |
 |http://www.ibcs-primax.com/ibcsonweb/[Website]
 
+|iPay
+|52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
+|Android, Java, HTML, CSS, MongoDB, PostGreSQL
+|https://app.ipay.com.bd/career/categories/13 [Website]
+
 |Isratts Technologies
 |House # 58, Road # 05, O R Nizam Rd R/A, GEC, Chattogram, Bangladesh
 |
@@ -108,6 +125,11 @@ https://github.com/ChumbokIT[Github]
 ==== Alphabetical Order: J - L
 |===
 |Company Name |Office location |Technologies | Web presence
+
+|Joomshaper
+|Navana Newbury Place, 4/1/A Sobhanbag Rd, Dhaka-1205
+|Joomla, Wordpress, HTML5, CSS3, JavaScript
+|https://www.joomshaper.com [Website]
 
 |Kaz Software
 |28/1 Eskaton Garden, Dhaka, Bangladesh
@@ -164,6 +186,13 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |REVE Centre, Plot-94, Purbachal Express Highway, Dumni, Khilkhet, Dhaka
 |Java
 |https://www.revesoft.com/[Website]
+
+|Relisource (USA)
+| Building# 4A1, Road 139, Gulshan 1, Dhaka-1212
+|
+|http://www.relisource.com[Website]
+
+
 
 |===
 
