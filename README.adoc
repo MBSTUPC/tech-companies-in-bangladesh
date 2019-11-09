@@ -115,6 +115,11 @@ https://github.com/ChumbokIT[Github]
 |
 |http://www.ibcs-primax.com/ibcsonweb/[Website]
 
+|Infocrat Solutions Ltd.
+|Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
+|C#, .NET
+|https://www.infocratsolutions.com/[Website]
+
 |iPay
 |52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
 |Android, Java, HTML, CSS, MongoDB, PostGreSQL
