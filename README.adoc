@@ -37,6 +37,11 @@ List of tech companies to help developers to find jobs.
 |C, PHP, Android, iOS, .NET
 |http://www.brotecs.com[Website]
 
+|belivIT
+|30/A, Sattara Centre (14th floor), VIP Road, Naya Paltan, Dhaka-1000
+|Android, iOS, PHP, BI Solution
+|https://www.belivit.com[Website]
+
 |Craftsmen
 |House# 448, Lane# 7,DOHS Baridhara, Dhaka 1206, Bangladesh
 |ES/TypeScript, Node.js, React/Vue.js, Redux, React Native, AWS, GCP, Serverless Framework.
@@ -109,6 +114,11 @@ https://github.com/ChumbokIT[Github]
 |House # 51, Road # 10A, Dhanmondi R/A, Dhaka-1209, Bangladesh
 |
 |http://www.ibcs-primax.com/ibcsonweb/[Website]
+
+|Infocrat Solutions Ltd.
+|Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
+|C#, .NET
+|https://www.infocratsolutions.com/[Website]
 
 |iPay
 |52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
