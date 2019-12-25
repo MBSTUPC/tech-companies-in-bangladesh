@@ -192,6 +192,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Android, IOS, golang, PHP, kubernetes
 |https://pathao.com/[Website]
 
+|PixelNet Technologies Ltd
+|39 Purana Paltan, Level-5, Suite-B, Dhaka-1000, Bangladesh
+|PHP, MySQL, Magento, Rails, JavaScript, Ionic, MongoDB, Express, ReactJS, NodeJS
+|http://www.pixelnettech.com/[Website]
+
 |REVE Systems (Singapore)
 |REVE Centre, Plot-94, Purbachal Express Highway, Dumni, Khilkhet, Dhaka
 |Java
