@@ -197,6 +197,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |PHP, MySQL, Magento, Rails, JavaScript, Ionic, MongoDB, Express, ReactJS, NodeJS
 |http://www.pixelnettech.com/[Website]
 
+|Portonics Limited
+|House 18, Road No 6, 2nd Floor, Gulshan 1, Dhaka – 1212, Bangladesh.
+|Android, IOS, PHP, React, Docker, AWS, Nodejs, Python, PostgresSQL, MySQL
+|http://portonics.com/[Website]
+
 |REVE Systems (Singapore)
 |REVE Centre, Plot-94, Purbachal Express Highway, Dumni, Khilkhet, Dhaka
 |Java
