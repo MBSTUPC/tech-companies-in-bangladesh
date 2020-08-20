@@ -241,6 +241,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |http://www.southtechgroup.com/[website],
 https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 
+|Square Health Ltd.
+|House 18, Road 13, Uttara (Sector 7) Dhaka 1230, Bangladesh
+|Java, Angular, React, Android etc.
+|https://squarehealth.com.bd[website]
+
 |Therap (USA)
 |562 Watertown Avenue, Suite 3, Waterbury, CT 06708-2240, USA
 |Java, J2EE
