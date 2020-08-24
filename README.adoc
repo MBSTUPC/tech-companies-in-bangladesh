@@ -65,6 +65,11 @@ https://www.facebook.com/ChumbokIT[Facebook],
 https://www.linkedin.com/company/chumbok-it[LinkedIn],
 https://github.com/ChumbokIT[Github]
 
+|Commlink Info Tech Limited
+|House No: 3 Road No: 23/A  Gulshan-1, Dhaka-1212 BANGLADESH.
+|Java, Spring etc.
+|https://www.commlinkinfotech.com/[Website]
+
 |===
 
 ==== Alphabetical Order: D - F
@@ -250,6 +255,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |.Net, Java Spring, Android, AngularJS, Visual Basic
 |http://www.southtechgroup.com/[website],
 https://www.linkedin.com/company/southtechgroup/[LinkedIn]
+
+|Square Health Ltd.
+|House 18, Road 13, Uttara (Sector 7) Dhaka 1230, Bangladesh
+|Java, Angular, React, Android etc.
+|https://squarehealth.com.bd[website]
 
 |Therap (USA)
 |562 Watertown Avenue, Suite 3, Waterbury, CT 06708-2240, USA
