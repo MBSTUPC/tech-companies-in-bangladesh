@@ -337,6 +337,11 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 https://www.linkedin.com/company/ipay-systems-ltd./[LinkedIn]
 https://www.facebook.com/iPayBangladesh/[Facebook]
 
+|ME SOLshare Ltd.
+|LM Tower (2nd floor, Ka/87 Joar Shahara Bazar Rd, Dhaka
+|Java, Android, Python (Django), JavaScript (ReactJS)
+|https://me-solshare.com/[Website] https://www.linkedin.com/company/me-solshare/[Linkedin] https://www.facebook.com/mesolshare/[Facebook]
+
 |mPower Social Enterprises Limited
 |House No. 77, Block- M, 11 Rd No. 11, Dhaka
 |Java, Android, Python
