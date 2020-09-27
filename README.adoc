@@ -108,7 +108,7 @@ https://github.com/ChumbokIT[Github]
 
 |Fiftytwo
 |House # 04, Road # 9/B, Nikunja - 1, Dhaka - 1229
-|
+|C, C++, Angular, SQL etc.
 |https://www.fiftytwo.com[Website]
 
 
