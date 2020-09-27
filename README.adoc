@@ -106,6 +106,11 @@ https://github.com/ChumbokIT[Github]
 |Python, Django, Android, Java
 |https://field.buzz [Website]
 
+|Fiftytwo
+|House # 04, Road # 9/B, Nikunja - 1, Dhaka - 1229
+|C, C++, Angular, SQL etc.
+|https://www.fiftytwo.com[Website]
+
 
 
 |===
@@ -184,6 +189,16 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |
 |Python, NodeJS, Angular2, Scala, MongoDB
 |https://www.newscred.com/[Website]
+
+|NetCoden Inc
+|Suite: B-7 (7th Floor), 2/2, Pallabi (Main Road), Mirpur 11.5, Dhaka-1216 , Bangladesh
+|Node.js, Vue.js, React, C++, Android, Php, Laravel, SQL etc.
+|https://netcoden.com/[Website]
+
+|Orbund LLC
+|Bosila, Mohammadpur, Dhaka, Bangladesh
+|Java, Android, iOS etc.
+|https://www.orbund.com/[Website]
 
 |===
 
