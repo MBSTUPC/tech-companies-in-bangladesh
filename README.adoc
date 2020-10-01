@@ -130,6 +130,11 @@ https://github.com/ChumbokIT[Github]
 |C#, .NET
 |https://www.infocratsolutions.com/[Website]
 
+|Integrated Software and Technologies Ltd.
+|Avenue # 9, Road #9, House #1043 (2nd Floor) DOHS Mirpur, Dhaka, Bangladesh
+|C, Java, jQuery etc.
+|www.istlbd.com/[Website]
+
 |iPay
 |52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
 |Android, Java, HTML, CSS, MongoDB, PostGreSQL
@@ -222,6 +227,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |
 |http://www.relisource.com[Website]
 
+|Rokomari
+|2/1/E, Arambag, Eden Center, Motijheel, Dhaka-1000
+|Java, Spring
+|https://www.rokomari.com/[Website]
+
 
 
 |===
@@ -239,6 +249,16 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Secure Link Services AG, Innovation Center, Haldenstrasse 23, 8306 Brüttisellen, Switzerland. Bangladesh office: Dhaka 1209
 |Android, IOS, AngularJS, NodeJS, Python, .Net
 |https://selise.ch/[Website]
+
+|ServicEngine Ltd.
+|House# 8, Abbas Garden, DOHS Mohakhali, Dhaka - 1206
+|Groovy, Java, SQL, Spring etc.
+|https://sebpo.com/[Website]
+
+|Sheba Technologies Limited
+|8th Floor, Khawaja Tower, 95 Mohakhali C/A, Dhaka 1212
+| Java, C, C++, Android, ASP.NET
+|https://www.shebatech.com.bd/[Website]
 
 |Streams Tech Inc.
 |House No 16, Suite F4 & F3, 23/B Road No 23/B, Dhaka 1213
