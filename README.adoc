@@ -81,6 +81,11 @@ https://github.com/ChumbokIT[Github]
 |
 |http://datasoft-bd.com/[Website]
 
+|Dcastalia Limited
+|5B, House 91, Road 04, Block B, Banani, Dhaka 1213, Bangladesh
+|Web, Android and iOS
+|https://dcastalia.com/[Website]
+
 |Dynamic Solution Innovators (DSi)
 |Mohakhali DOHS, Dhaka
 |Java, Spring, Hibernate, AngularJS, Android, iOS
@@ -119,6 +124,11 @@ https://github.com/ChumbokIT[Github]
 ==== Alphabetical Order: G - I
 |===
 |Company Name |Office location |Technologies | Web presence
+
+|Golden Harvest InfoTech Ltd (GHIT)
+|Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
+|C#, ASP Dot Net, MVC, Web API, Dot Net Core, PHP, Java, Spring, MVC, Java EE Framework, MYSQL, MS-SQL Server, Oracle, Angular JS, React JS
+|http://ghitbd.com/[Website]
 
 |IBCS-Primax
 |House # 51, Road # 10A, Dhanmondi R/A, Dhaka-1209, Bangladesh
@@ -180,6 +190,11 @@ https://github.com/ChumbokIT[Github]
 https://www.facebook.com/magnitodigital[Facebook],
 https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
+|Millennium Information Solution Ltd.
+|49 Kawran Bazar Rd, Dhaka 1215, Bangladesh
+|Java, JEE, Spring,RESTful APIs
+|https://www.mislbd.com/[Website]
+
 |MonstarLab (Japan)
 |Ahmed Tower (20th floor, Kemal Ataturk Avenue, Dhaka 1213
 |Java Spring, Laravel, Symfony, AngularJS, Amazon Web Services
@@ -189,6 +204,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |6/14, Block A, Lalmatia, Dhaka
 |Ruby on Rails, Android, iOS, .NET, PHP
 |https://www.nascenia.com/[Website]
+
+|Newgen Technology Ltd.
+|Flat- 7B, Plot No- 3/1, Block- F, Lalmatia 1207 Dhaka, Dhaka Division, Bangladesh
+|Java, J2EE, Spring, Hibernate, Tomcat, Oracle, MySQL, MySQL-Server, JSP, JSTL
+|https://newgen-bd.com/[Website]
 
 |Newscred (USA)
 |
@@ -216,6 +236,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Road 49, Genetic Baro Bhuiyan Tower, Gulshan-2, Dhaka
 |Android, IOS, golang, PHP, kubernetes
 |https://pathao.com/[Website]
+
+|Renessa Info Systems Ltd.
+|Pritam Zaman Tower, 11th Floor, 37/2, Culvert Road, Purana Paltan, Dhaka-1000, Bangladesh.
+|PHP, Laravel, CodeIgniter, CakePHP, JavaScript and jQuery
+|http://www.renessainfosystems.com/[Website]
 
 |REVE Systems (Singapore)
 |REVE Centre, Plot-94, Purbachal Express Highway, Dumni, Khilkhet, Dhaka
@@ -337,6 +362,15 @@ https://twitter.com/WidespaceMobile[Twitter],
 https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |===
+
+==== Alphabetical Order: 1 - 9
+|===
+|Company Name |Office location |Technologies | Web presence
+
+|2A IT
+|Road-4, House- 54, Level- 3, Mohanagar Project, West Rampura Dhaka- 1219, Bangladesh
+|PHP, Laravel , Java, Android, jQuery, MySQL
+|http://2aitbd.com/[Website]
 
 {nbsp} +
 
