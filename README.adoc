@@ -382,7 +382,8 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |PHP, Laravel , Java, Android, jQuery, MySQL
 |http://2aitbd.com/[Website]
 
-{nbsp} +
+|===
+
 
 ==== Some other companies with IT section
 |===
