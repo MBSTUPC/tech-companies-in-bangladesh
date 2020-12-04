@@ -321,6 +321,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Java, Angular, React, Android etc.
 |https://squarehealth.com.bd[website]
 
+|TechnoVista Limited
+|House: 4, Road: 9/B, Nikunja–1, Khilkhet, Dhaka, Bangladesh.
+|.NET, C#, Java, J2EE, Spring, PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL, SQL Server, Oracle, HTML, SCSS, LESS, jQuery, VueJS, Android, Ionic
+|https://technovista.com.bd/[Website]
+
 |Therap (USA)
 |562 Watertown Avenue, Suite 3, Waterbury, CT 06708-2240, USA
 |Java, J2EE
