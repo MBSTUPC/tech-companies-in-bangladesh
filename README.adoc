@@ -140,6 +140,11 @@ https://github.com/ChumbokIT[Github]
 |
 |http://www.ibcs-primax.com/ibcsonweb/[Website]
 
+|InfancyIT 
+|2nd Floor, Elahi 8B, Surma Gate, Akhalia, Sylhet-3100, Bangladesh
+| PHP, Java, Android, iOS, Laravel, JavaScript, Node.js, Vue.js, React.js, React Native
+|http://www.infancyit.com[Website]
+
 |Infocrat Solutions Ltd.
 |Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
 |C#, .NET
