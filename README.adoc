@@ -114,7 +114,7 @@ https://github.com/ChumbokIT[Github]
 |Fieldbuzz (Germany)
 |Azhar Comfort Complex (5th floor), Ga-130/A Progoti Shoroni, Middle Badda, Dhaka
 |Python, Django, Android, Java
-|https://field.buzz [Website]
+|https://www.field.buzz[Website]
 
 |Fiftytwo
 |House # 04, Road # 9/B, Nikunja - 1, Dhaka - 1229
@@ -195,7 +195,7 @@ https://github.com/ChumbokIT[Github]
 
 |MagnitoDigital
 |3rd Floor, House-7, Road-23/B, Gulshan-1, Dhaka, Bangladesh
-|
+|Mobile app development, Web Design & Development, Digital Marketing , Analytics
 |http://magnitodigital.com/[Website],
 https://www.facebook.com/magnitodigital[Facebook],
 https://www.linkedin.com/company/magnito-digital/[LinkedIn]
@@ -264,12 +264,12 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
 |REVE Systems (Singapore)
 |REVE Centre, Plot-94, Purbachal Express Highway, Dumni, Khilkhet, Dhaka
-|Java
+|Java, IP & VoIP service, Cloud Computing
 |https://www.revesoft.com/[Website]
 
 |Relisource (USA)
 | Building# 4A1, Road 139, Gulshan 1, Dhaka-1212
-|
+| Desktop, Mobile, Web, System & Network, Cloud Computing, AWS, Azure & Open Source DevOps
 |http://www.relisource.com[Website]
 
 |Rokomari
@@ -410,9 +410,9 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |
 
 |bkash
-|
+|Shadhinata Tower, 1,Bir Sreshtha Shaheed Jahangir Gate, Dhaka Cantonment, Dhaka - 1206
 |Android, JavaScript, Java EE, JSP, Servlet
-|
+|https://www.bkash.com[Website]
 
 
 |iPay Systems Ltd.
