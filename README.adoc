@@ -38,7 +38,7 @@ List of tech companies to help developers to find jobs.
 |http://bjitgroup.com[Website]
 
 |Brotecs Technologies Ltd (USA)
-|1330, West Auto Drive, Tempe, AZ 85284, USA / 28, Shahjalal Avenue, Sector-4, Uttara, Dhaka, BD
+|28, Shahjalal Avenue, Sector-4, Uttara, Dhaka, BD
 |C, PHP, Android, iOS, .NET
 |http://www.brotecs.com[Website]
 
@@ -69,6 +69,11 @@ List of tech companies to help developers to find jobs.
 https://www.facebook.com/ChumbokIT[Facebook],
 https://www.linkedin.com/company/chumbok-it[LinkedIn],
 https://github.com/ChumbokIT[Github]
+
+|Codinism
+|J 152/1 Mohakhali WirelessGate, Dhaka -1212
+|iOS, Android, Web app
+|http://www.codinism.com[Website]
 
 |Commlink Info Tech Limited
 |House No: 3 Road No: 23/A  Gulshan-1, Dhaka-1212 BANGLADESH.
@@ -295,12 +300,12 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Company Name |Office location |Technologies | Web presence
 
 |Samsung R&D (Korea)
-|56, Seongchon-gil, Seocho-gu, Seoul, Republic of Korea 111 Sonargaon Road, Dhaka 1205
+|111 Bir Uttam CR Dutta Rd, Dhaka 1205
 |IOS, Android, Tizen, C/C++, Swift, Machine Learning
 |https://research.samsung.com/srbd[Website]
 
 |Selise (Switzerland)
-|Secure Link Services AG, Innovation Center, Haldenstrasse 23, 8306 Brüttisellen, Switzerland. Bangladesh office: Dhaka 1209
+|House 5, MIDAS Center, Secure Link Services BD Ltd, Rd No. 27, Dhaka 1209
 |Android, IOS, AngularJS, NodeJS, Python, .Net
 |https://selise.ch/[Website]
 
@@ -332,13 +337,13 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |SouthTech
 |Dhaka Square, Plot 1, Road 13, Sector 1, Uttara, Dhaka 1230
 |.Net, Java Spring, Android, AngularJS, Visual Basic
-|http://www.southtechgroup.com/[website],
+|https://www.southtechgroup.com/[Website],
 https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 
 |Square Health Ltd.
 |House 18, Road 13, Uttara (Sector 7) Dhaka 1230, Bangladesh
 |Java, Angular, React, Android etc.
-|https://squarehealth.com.bd[website]
+|https://squarehealth.com.bd[Website]
 
 |TechnoVista Limited
 |House: 4, Road: 9/B, Nikunja–1, Khilkhet, Dhaka, Bangladesh.
@@ -346,7 +351,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |https://technovista.com.bd/[Website]
 
 |Therap (USA)
-|562 Watertown Avenue, Suite 3, Waterbury, CT 06708-2240, USA
+|House 47, Road 4, Block C, Banani, Dhaka 1213
 |Java, J2EE
 |https://therap.recruiterbox.com/[Website]
 
@@ -359,6 +364,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |450/A, Road 6A, Avenue 6, Mirpur DOHS, Dhaka 1216, Bangladesh
 |Android, Java, Node
 |https://www.techcarebd.com/[Website], https://www.facebook.com/techcarebd/[Facebook]
+
+|Triva It Limited
+|38/1/1 Vagolpur Lane, Hazaribagh Park, Dhaka 1205
+|Graphic Design, UI/UX, Motion Graphics, Web Design
+|https://www.trivaitltd.com/[Website]
 
 |===
 
