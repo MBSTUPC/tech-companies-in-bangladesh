@@ -70,6 +70,11 @@ https://www.facebook.com/ChumbokIT[Facebook],
 https://www.linkedin.com/company/chumbok-it[LinkedIn],
 https://github.com/ChumbokIT[Github]
 
+|Codinism
+|J 152/1 Mohakhali WirelessGate, Dhaka -1212
+|iOS, Android, Web app
+|http://www.codinism.com[Website]
+
 |Commlink Info Tech Limited
 |House No: 3 Road No: 23/A  Gulshan-1, Dhaka-1212 BANGLADESH.
 |Java, Spring etc.
@@ -181,22 +186,10 @@ https://github.com/ChumbokIT[Github]
 |.Net, Java, PHP, AngularJS, React
 |http://kaz.com.bd/[Website]
 
-|Kinetik Care
-|_Remote_ 
-|Node.js, React, Redux, MongoDB, Angular
-|https://kinetik.care/[Website],
-https://www.linkedin.com/search/results/people/?currentCompany=%5B%2218354939%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH[LinkedIn]
-
 |LeadSoft
 |Rupayan trade Centre, 17th Floor, 114 Kazi Nazrul Islam Avenue, Bangla Motors, Dhaka 1000. (At Bangla Motor Roundabout).
 |
 |http://leads.com.bd/[Website]
-
-|LifeData 
-|_Remote_ 
-|iOS, Android
-|https://www.lifedatacorp.com/[Website],
-https://www.linkedin.com/search/results/people/?currentCompany=%5B%224861691%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH[LinkedIn]
 
 |LIILab 
 |House No. 2, 3rd Floor, Dorgah Gate, Dorgah Moholla, Sylhet, Bangladesh
@@ -400,7 +393,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |https://www.welldev.io/[Website]
 
 |Widespace (Sweden)
-|_Remote_
+|
 |Java
 |https://www.widespace.com/[Website],
 https://www.facebook.com/WidespaceMobile[Facebook],
