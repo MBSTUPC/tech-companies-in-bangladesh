@@ -272,7 +272,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Nybbles System Limited
 |House: 03, Road: 08, Shahida Khan Tower (1st & 2nd Floor), Section-6, Mirpur, Dhaka 1216
 |C#, Net Framework, Asp.Net MVC, Asp.Net Core
-|www.nybsys.com[Website]
+|https://www.nybsys.com[Website]
 
 |Orbund LLC
 |Bosila, Mohammadpur, Dhaka, Bangladesh
