@@ -62,6 +62,11 @@ List of tech companies to help developers to find jobs.
 |PHP, Oracle, Java
 |http://csinfotechbd.com/[Website]
 
+|Chaldal
+|Dhaka, Bangladesh
+|F#, Python, Scala, C#, SQL, React, React Native, and TypeScript
+|https://chaldal.com/t/Career[Website] , https://chaldal.tech/[Website]
+
 |Chumbok IT
 |_Remote_
 |Java, Spring Boot, Data JPA / Hibernate, AngularJS
@@ -120,6 +125,11 @@ https://github.com/ChumbokIT[Github]
 |Kaderia Tower, JA 28/8B Bir Uttam AK Khandakar Rd, Dhaka 1212
 |Java
 |http://www.escenic.com/[Website]
+
+|E-valy
+|House #8, Road # 14, Dhanmondi, Dhaka-1209
+|NodeJS / ExpressJS / Python / Django / GoLang, REST, Microservices, SQL, NoSQL, SQS, SNS MQTT, etc.
+|https://evaly.com.bd/career/[Website]
 
 |Fieldbuzz (Germany)
 |Azhar Comfort Complex (5th floor), Ga-130/A Progoti Shoroni, Middle Badda, Dhaka
