@@ -178,7 +178,7 @@ https://github.com/ChumbokIT[Github]
 |iPay
 |52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
 |Android, Java, HTML, CSS, MongoDB, PostGreSQL
-|https://app.ipay.com.bd/career/categories/13[Website]
+|https://www.ipay.com.bd/[Website]
 
 |Isratts Technologies
 |House # 58, Road # 05, O R Nizam Rd R/A, GEC, Chattogram, Bangladesh
