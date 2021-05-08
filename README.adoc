@@ -309,9 +309,9 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |===
 |Company Name |Office location |Technologies | Web presence
 
-|Samsung R&D (Korea)
+|Samsung R&D Institute Bangladesh, Ltd.(Korea)
 |111 Bir Uttam CR Dutta Rd, Dhaka 1205
-|IOS, Android, Tizen, C/C++, Swift, Machine Learning
+|Windows, IOS, Android, Tizen, C/C++, Java, Objective-C, Swift, C#, Kotlin, Spring, WPF, UWP, MFC, Machine Learning
 |https://research.samsung.com/srbd[Website]
 
 |Selise (Switzerland)
