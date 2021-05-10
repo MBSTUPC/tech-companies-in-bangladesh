@@ -248,7 +248,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |https://newgen-bd.com/[Website]
 
 |Newscred (USA)
-|
+|Green Grandeur (4th ,10th and 13th floor), Plot 58/E, Kemal Ataturk Avenue, Dhaka
 |Python, NodeJS, Angular2, Scala, MongoDB
 |https://www.newscred.com/[Website]
 
