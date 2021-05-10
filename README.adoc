@@ -141,7 +141,7 @@ https://github.com/ChumbokIT[Github]
 |C, C++, Angular, SQL etc.
 |https://www.fiftytwo.com[Website]
 
-|Frontier Semiconductor (FSM)
+|Frontier Semiconductor (FSM) (USA)
 |Wasi Tower (FL: 7 CD), ECB Chattar, Matikata Rd, Dhaka
 |C, C++, MFC, Open CV, Open GL
 |http://www.frontiersemi.com/center/home.php[Website]
