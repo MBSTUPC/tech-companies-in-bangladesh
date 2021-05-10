@@ -93,7 +93,7 @@ https://github.com/ChumbokIT[Github]
 
 |DataSoft
 |Rupayan Shelford (20th floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
-|
+|Java, Spring Boot, C#, .Net, Angular/Vue/JQuery
 |http://datasoft-bd.com/[Website]
 
 |Dream71
