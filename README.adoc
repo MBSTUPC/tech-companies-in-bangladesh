@@ -160,8 +160,13 @@ https://github.com/ChumbokIT[Github]
 
 |IBCS-Primax
 |House # 51, Road # 10A, Dhanmondi R/A, Dhaka-1209, Bangladesh
-|
+|Java, Spring
 |http://www.ibcs-primax.com/ibcsonweb/[Website]
+
+|IdeaScale Bangladesh
+|Quantum Mustafa Tower (Floor: 4&5) 18, Gaus-ul-Azam Avenue, Sector-13 Uttara, Dhaka
+|Java, Spring Framework, JPA, JMS, jQuery, ReactJS
+|https://ideascale.com/[Website]
 
 |InfancyIT 
 |2nd Floor, Elahi 8B, Surma Gate, Akhalia, Sylhet-3100, Bangladesh
@@ -177,6 +182,11 @@ https://github.com/ChumbokIT[Github]
 |Avenue # 9, Road #9, House #1043 (2nd Floor) DOHS Mirpur, Dhaka, Bangladesh
 |C, Java, jQuery etc.
 |https://www.istlbd.com/[Website]
+
+|Intellier Limited
+|House # 10, Road # 14, Sector # 01, Uttara, Dhaka 1230
+|Java, Spring, REST
+|https://intellier.com/[Website]
 
 |iPay
 |52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
@@ -204,6 +214,11 @@ https://github.com/ChumbokIT[Github]
 |.Net, Java, PHP, AngularJS, React
 |http://kaz.com.bd/[Website]
 
+|Kovair Software, Inc.
+|Dhaka
+|Java, JEE, Spring, Angular JS
+|https://www.kovair.com/[Website]
+
 |LeadSoft
 |Rupayan trade Centre, 17th Floor, 114 Kazi Nazrul Islam Avenue, Bangla Motors, Dhaka 1000. (At Bangla Motor Roundabout).
 |
@@ -227,6 +242,11 @@ https://github.com/ChumbokIT[Github]
 https://www.facebook.com/magnitodigital[Facebook],
 https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
+|Metafour Asia
+|Takia Center (7th Floor), 39 Sonargaon Janapath, Sector 7, Uttara, Dhaka 1230
+|Java, Spring
+|http://www.metafour.com[Website]
+
 |Millennium Information Solution Ltd.
 |49 Kawran Bazar Rd, Dhaka 1215, Bangladesh
 |Java, JEE, Spring,RESTful APIs
@@ -241,6 +261,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |6/14, Block A, Lalmatia, Dhaka
 |Ruby on Rails, Android, iOS, .NET, PHP
 |https://www.nascenia.com/[Website]
+
+|Netizen IT Limited.
+|House- 1303, Road- 18, Avenue-2, Mirpur DOHS, Dhaka-1216, Bangladesh.
+|Java, Kotlin, PHP, Ruby, Python, Spring, Android, MySQL, Oracle, ReactJS, Angular, AWS
+|https://www.netizenbd.com/[Website]
 
 |Newgen Technology Ltd.
 |Flat- 7B, Plot No- 3/1, Block- F, Lalmatia 1207 Dhaka, Dhaka Division, Bangladesh
@@ -257,10 +282,20 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Node.js, Vue.js, React, C++, Android, Php, Laravel, SQL etc.
 |https://netcoden.com/[Website]
 
+|Nybbles System Limited
+|House: 03, Road: 08, Shahida Khan Tower (1st & 2nd Floor), Section-6, Mirpur, Dhaka 1216
+|C#, Net Framework, Asp.Net MVC, Asp.Net Core
+|https://www.nybsys.com[Website]
+
 |Orbund LLC
 |Bosila, Mohammadpur, Dhaka, Bangladesh
 |Java, Android, iOS etc.
 |https://www.orbund.com/[Website]
+
+|Otto International Ltd.
+|Dhaka
+|PHP, WordPress, Flutter, React, Gatsby, SQL, NOSQL, AWS, MS Azure, Android, IOS, Node.js, Express.js, MySQL, MongoDB
+|https://www.ottoint.com/[Website]
 
 |===
 
@@ -358,6 +393,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Java, Angular, React, Android etc.
 |https://squarehealth.com.bd[Website]
 
+|Systems Solutions & Development Technologies Ltd. (SSD-TECH)
+|Uday Tower, Level 12, 57 & 57/A, Gulshan Avenue, Dhaka-1212, Bangladesh
+|C/C++, PHP, MySQL, Java, Node JS, Big Data, HTML, CSS, Linux
+|https://ssd-tech.io/[Website]
+
 |TechnoVista Limited
 |House: 4, Road: 9/B, Nikunja–1, Khilkhet, Dhaka, Bangladesh.
 |.NET, C#, Java, J2EE, Spring, PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL, SQL Server, Oracle, HTML, SCSS, LESS, jQuery, VueJS, Android, Ionic
@@ -400,6 +440,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |.Net, Java
 |http://www.vizrt.com/[Website]
 
+|Walton Hi-Tech Industries Ltd.
+|Chandra, Kaliakoir, Gazipur
+|PHP, Java, Spring, Android ReactJS, VueJS 
+|https://waltonbd.com/[Website]
+
 |weDevs Ltd
 |Level-3, House - 1005, Avenue - 11, Road - 09, Mirpur DOHS, Dhaka 1216, Bangladesh
 |PHP, Wordpress, VueJs
@@ -417,6 +462,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 https://www.facebook.com/WidespaceMobile[Facebook],
 https://twitter.com/WidespaceMobile[Twitter],
 https://www.linkedin.com/company/widespace-ab[LinkedIn]
+
+|Workspace InfoTech Limited
+|House-16, Road-12, Nikunja-2. (Ground & 1st floor), Nikunja-2, Khilkhet, Dhaka-1229
+|Java, Spring, Python, Django, Angular, ReactJS
+|https://www.workspaceit.com[Website]
 
 |===
 
