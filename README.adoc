@@ -93,7 +93,7 @@ https://github.com/ChumbokIT[Github]
 
 |DataSoft
 |Rupayan Shelford (20th floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
-|
+|Java, Spring Boot, C#, .Net, Angular/Vue/JQuery
 |http://datasoft-bd.com/[Website]
 
 |Dream71
@@ -141,7 +141,10 @@ https://github.com/ChumbokIT[Github]
 |C, C++, Angular, SQL etc.
 |https://www.fiftytwo.com[Website]
 
-
+|Frontier Semiconductor (FSM) (USA)
+|Wasi Tower (FL: 7 CD), ECB Chattar, Matikata Rd, Dhaka
+|C, C++, MFC, Open CV, Open GL
+|http://www.frontiersemi.com/center/home.php[Website]
 
 |===
 
@@ -178,7 +181,7 @@ https://github.com/ChumbokIT[Github]
 |iPay
 |52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
 |Android, Java, HTML, CSS, MongoDB, PostGreSQL
-|https://app.ipay.com.bd/career/categories/13[Website]
+|https://www.ipay.com.bd/[Website]
 
 |Isratts Technologies
 |House # 58, Road # 05, O R Nizam Rd R/A, GEC, Chattogram, Bangladesh
@@ -245,7 +248,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |https://newgen-bd.com/[Website]
 
 |Newscred (USA)
-|
+|Green Grandeur (4th ,10th and 13th floor), Plot 58/E, Kemal Ataturk Avenue, Dhaka
 |Python, NodeJS, Angular2, Scala, MongoDB
 |https://www.newscred.com/[Website]
 
@@ -309,9 +312,9 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |===
 |Company Name |Office location |Technologies | Web presence
 
-|Samsung R&D (Korea)
+|Samsung R&D Institute Bangladesh, Ltd.(Korea)
 |111 Bir Uttam CR Dutta Rd, Dhaka 1205
-|IOS, Android, Tizen, C/C++, Swift, Machine Learning
+|Windows, IOS, Android, Tizen, C/C++, Java, Objective-C, Swift, C#, Kotlin, Spring, WPF, UWP, MFC, Machine Learning
 |https://research.samsung.com/srbd[Website]
 
 |Selise (Switzerland)
