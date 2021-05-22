@@ -160,10 +160,16 @@ https://github.com/ChumbokIT[Github]
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|Genex Infosys Limited
+|Nitol Niloy Tower (Level 8), Nikunja C/A, Airport Road, Dhaka-1229
+|Artificial Intelligence and automation, Cyber security, SaaS, Digital marketing and content development
+|http://genexinfosys.com/[Website]
+
 |Golden Harvest InfoTech Ltd (GHIT)
 |Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
-|C#, ASP Dot Net, MVC, Web API, Dot Net Core, PHP, Java, Spring, MVC, Java EE Framework, MYSQL, MS-SQL Server, Oracle, Angular JS, React JS
+|C#, ASP Dot Net, MVC, Web API, Dot Net Core, PHP, Java, Spring, MVC, Java EE Framework, MYSQL, MS-SQL Server, Oracle, Angular >
 |http://ghitbd.com/[Website]
+
 
 |IBCS-Primax
 |House # 51, Road # 10A, Dhanmondi R/A, Dhaka-1209, Bangladesh
