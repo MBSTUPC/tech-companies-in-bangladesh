@@ -446,7 +446,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Vantage Labs (USA)
 |6th Floor, Dynasty Tower, Begum Rokeya Avenue, Mirpur 11, Dhaka, Bangladesh
 |Java, PHP, AngularJS
-|https://www.facebook.com/VantageLabsDhaka/[Website]
+|https://www.vantage.com/[Website],  https://www.facebook.com/VantageLabsDhaka/[Facebook]
 
 |Vizrt (Norway)
 |Kaderia Tower, 14 Floor, A 28/8B Mohakhali C/A, Dhaka-1212, Bangladesh
