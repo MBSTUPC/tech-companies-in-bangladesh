@@ -22,6 +22,13 @@ List of tech companies to help developers to find jobs.
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
 |https://www.augmedix.com/[Website]
 
+
+|Bdtask
+|B-25, Mannan Plaza, 4th Floor, Khilkhet, Dhaka-1229,Bangladesh
+|Android, Web, Wordpress
+|https://www.bdtask.com/[Website]
+
+
 |Braincraft Limited
 |House: 295, Road: 19/B, Mohakhali DOHS, Dhaka - 1206
 |Android, Java, Go, Javascript, AngularJS, NodeJS
@@ -153,10 +160,16 @@ https://github.com/ChumbokIT[Github]
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|Genex Infosys Limited
+|Nitol Niloy Tower (Level 8), Nikunja C/A, Airport Road, Dhaka-1229
+|Artificial Intelligence and automation, Cyber security, SaaS, Digital marketing and content development
+|http://genexinfosys.com/[Website]
+
 |Golden Harvest InfoTech Ltd (GHIT)
 |Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
 |C#, ASP Dot Net, MVC, Web API, Dot Net Core, PHP, Java, Spring, MVC, Java EE Framework, MYSQL, MS-SQL Server, Oracle, Angular JS, React JS
 |http://ghitbd.com/[Website]
+
 
 |IBCS-Primax
 |House # 51, Road # 10A, Dhanmondi R/A, Dhaka-1209, Bangladesh
@@ -433,7 +446,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Vantage Labs (USA)
 |6th Floor, Dynasty Tower, Begum Rokeya Avenue, Mirpur 11, Dhaka, Bangladesh
 |Java, PHP, AngularJS
-|https://www.facebook.com/VantageLabsDhaka/[Website]
+|https://www.vantage.com/[Website],  https://www.facebook.com/VantageLabsDhaka/[Facebook]
 
 |Vizrt (Norway)
 |Kaderia Tower, 14 Floor, A 28/8B Mohakhali C/A, Dhaka-1212, Bangladesh
