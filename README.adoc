@@ -17,6 +17,11 @@ List of tech companies to help developers to find jobs.
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|AppsCode Ltd.
+|Flat A2, House 4, Rd No. 10, Dhaka 1230
+|Golang, Docker, Kubernetes, Vue.js
+|https://www.appscode.com/[Website]
+
 |Augmedix Inc.
 |SS Steel Building, Suite 203, 17/C Panthapath, Dhaka
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
