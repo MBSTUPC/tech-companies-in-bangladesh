@@ -260,6 +260,11 @@ https://github.com/ChumbokIT[Github]
 https://www.facebook.com/magnitodigital[Facebook],
 https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
+|Mazegeek Technologies BD Ltd.
+|House:105, Road:13/A, Block: C, Banani, Dhaka-1213
+|PHP, Laravel, .Net, Android, iOS, Javascript, Node.js, Vue.js, Angular, React, Python, Ruby on rails, AWS, firebase, Docker
+|https://www.mazegeek.com
+
 |Metafour Asia
 |Takia Center (7th Floor), 39 Sonargaon Janapath, Sector 7, Uttara, Dhaka 1230
 |Java, Spring
