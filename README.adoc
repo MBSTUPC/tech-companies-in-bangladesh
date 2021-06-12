@@ -34,6 +34,12 @@ List of tech companies to help developers to find jobs.
 |https://www.bdtask.com/[Website]
 
 
+|Binate Solutions
+|House-1148 (1st, 3rd, & 4th floor), Road 9A(Old-48), Mirpur DOHS, Dhaka-1216, Bangladesh
+|Java, Python, Ruby, Wordpress, Magneto etc.
+|https://www.binate-solutions.com/[Website]
+
+
 |Braincraft Limited
 |House: 295, Road: 19/B, Mohakhali DOHS, Dhaka - 1206
 |Android, Java, Go, Javascript, AngularJS, NodeJS
