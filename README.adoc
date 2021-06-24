@@ -280,6 +280,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Ruby on Rails, Android, iOS, .NET, PHP
 |https://www.nascenia.com/[Website]
 
+|NeerLab  
+|140/10, Tootpara taltola hospital cross-road, Khulna, Bangladesh  
+|Web & software development, IoT, Graphics, Network & security
+|https://www.neerlab.com[Website]
+
 |Netizen IT Limited.
 |House- 1303, Road- 18, Avenue-2, Mirpur DOHS, Dhaka-1216, Bangladesh.
 |Java, Kotlin, PHP, Ruby, Python, Spring, Android, MySQL, Oracle, ReactJS, Angular, AWS
