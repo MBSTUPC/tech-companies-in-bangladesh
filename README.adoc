@@ -349,7 +349,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |http://portonics.com/[Website]
 
 |Progoti Systems Limited (SureCash Ltd.)
-|	51/B, Borak Mehnur, Kemal Ataturk Ave, Dhaka, Bangladesh
+|51/B, Borak Mehnur, Kemal Ataturk Ave, Dhaka, Bangladesh
 |Android, Spring-boot, Django, Docker, Python, PostgresSQL, MySQL
 |https://www.surecash.net/[Website]
 
