@@ -45,9 +45,9 @@ List of tech companies to help developers to find jobs.
 |Android, Java, Go, Javascript, AngularJS, NodeJS
 |https://www.braincraftapps.com[Website]
 
-|BrainStation-23
+|Brain Station 23
 |8th floor, Plot#2, Amtoli, Bir Uttam AK Khandakar Rd Mohakhali Commercial Area, Dhaka-1212
-|Android, IOS, React, Xamarin, .Net, PHP, Python, Java
+|Android, IOS, React, Xamarin, .Net, PHP, Python, Java, AEM, Sitecore
 |http://www.brainstation-23.com/[Website]
 
 |BJIT Ltd.
