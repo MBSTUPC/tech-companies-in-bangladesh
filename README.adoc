@@ -65,9 +65,9 @@ List of tech companies to help developers to find jobs.
 |Android, iOS, PHP, BI Solution
 |https://www.belivit.com[Website]
 
-|Craftsmen
-|House# 448, Lane# 7,DOHS Baridhara, Dhaka 1206, Bangladesh
-|ES/TypeScript, Node.js, React/Vue.js, Redux, React Native, AWS, GCP, Serverless Framework.
+|Craftsmen (EU)
+|House # 272 (1st Floor), Lane # 3 (Eastern Road), Dhaka 1206, Bangladesh
+|JavaScript/TypeScript, Node.js, Python, React/Vue.js, Redux, React Native, AWS, Serverless Framework, AI/Machine Learning
 |https://www.craftsmenltd.com/[Website]
 
 |Cefalo Amravi Ltd (Norway)
