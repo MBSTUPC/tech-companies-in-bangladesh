@@ -474,11 +474,6 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Java, PHP, AngularJS
 |https://www.vantage.com/[Website],  https://www.facebook.com/VantageLabsDhaka/[Facebook]
 
-|Vizrt (Norway)
-|Kaderia Tower, 14 Floor, A 28/8B Mohakhali C/A, Dhaka-1212, Bangladesh
-|.Net, Java
-|http://www.vizrt.com/[Website]
-
 |Walton Hi-Tech Industries Ltd.
 |Chandra, Kaliakoir, Gazipur
 |PHP, Java, Spring, Android ReactJS, VueJS 
