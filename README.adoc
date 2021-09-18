@@ -36,8 +36,13 @@ List of tech companies to help developers to find jobs.
 
 |Binate Solutions
 |House-1148 (1st, 3rd, & 4th floor), Road 9A(Old-48), Mirpur DOHS, Dhaka-1216, Bangladesh
-|Java, Python, Ruby, Wordpress, Magneto etc.
+|Java, Python, Ruby, Wordpress, Magento etc.
 |https://www.binate-solutions.com/[Website]
+
+|Brac IT Services (biTS)
+|Homaira Bhaban, House 115, Road 5, Block B, Niketan, Gulshan 1, Dhaka 1212, Bangladesh
+|Java, Android, PHP
+|https://www.bracits.com[Website]
 
 
 |Braincraft Limited
@@ -47,7 +52,7 @@ List of tech companies to help developers to find jobs.
 
 |Brain Station 23
 |8th floor, Plot#2, Amtoli, Bir Uttam AK Khandakar Rd Mohakhali Commercial Area, Dhaka-1212
-|Android, IOS, React, Xamarin, .Net, PHP, Python, Java, AEM, Sitecore
+|Android, IOS, React, React-Native, Odoo, Xamarin, .Net, PHP, Python, Java, AEM, Sitecore
 |http://www.brainstation-23.com/[Website]
 
 |BJIT Ltd.
@@ -72,10 +77,15 @@ List of tech companies to help developers to find jobs.
 https://www.linkedin.com/organization-guest/company/craftsmenltd[LinkedIn] +
 https://www.facebook.com/craftsmenltd/[Facebook]
 
-|Cefalo Amravi Ltd (Norway)
+|Cefalo Bangladesh
 |House:12, Road:12, Dhanmondi, Dhaka
-|Android, .Net, Python, Rails, IOS
+|Android, .Net, Python, Rails, React, IOS
 |https://cefalo.com/[Website]
+
+|Codemen Solutions
+|90/B, Uttara bank building (4th floor), Malibagh Chowdhury Para, 1219 DIT Road, Dhaka 1219
+|JavaScript, TypeScript, .NET, React, Node.js, MongoDB, AWS
+|http://www.codemen.com[Website]
 
 |Computer Source InfoTech
 |49 Kawran Bazar Rd, Dhaka 1215
@@ -146,9 +156,9 @@ https://github.com/ChumbokIT[Github]
 |Java
 |http://www.escenic.com/[Website]
 
-|E-valy
+|Evaly Limited
 |House #8, Road # 14, Dhanmondi, Dhaka-1209
-|NodeJS / ExpressJS / Python / Django / GoLang, REST, Microservices, SQL, NoSQL, SQS, SNS MQTT, etc.
+|NodeJS, ExpressJS, Python, Django, GoLang, REST, Microservices, SQL, NoSQL, SQS, SNS MQTT, etc.
 |https://evaly.com.bd/career/[Website]
 
 |Fieldbuzz (Germany)
@@ -182,6 +192,12 @@ https://github.com/ChumbokIT[Github]
 |Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
 |C#, ASP Dot Net, MVC, Web API, Dot Net Core, PHP, Java, Spring, MVC, Java EE Framework, MYSQL, MS-SQL Server, Oracle, Angular JS, React JS
 |http://ghitbd.com/[Website]
+
+
+|hSenid Mobile Solutions Limited
+|HR Bhaban (6th Floor), 100, Br Uttom A.K. Khandaker Sarak, Mohakhali C/A, Dhaka 1212
+|Java, Kotlin, NodeJS, Apache, Spring Framework, JUnit, Mokito, Mysql, Jenkins, AWS
+|https://www.hsenidmobile.com/[Website]
 
 
 |IBCS-Primax
@@ -219,6 +235,11 @@ https://github.com/ChumbokIT[Github]
 |Android, Java, HTML, CSS, MongoDB, PostGreSQL
 |https://www.ipay.com.bd/[Website]
 
+|Invento Software Limited
+|House no: 484 (4th Floor) , Road no 32, Mohakhali DOHS, Dhaka 1206
+|JavaScript, Python, Django, Wordpress, PHP
+|http://invento.com.bd/[Website]
+
 |Isratts Technologies
 |House # 58, Road # 05, O R Nizam Rd R/A, GEC, Chattogram, Bangladesh
 |
@@ -232,13 +253,18 @@ https://github.com/ChumbokIT[Github]
 
 |Joomshaper
 |Navana Newbury Place, 4/1/A Sobhanbag Rd, Dhaka-1205
-|Joomla, Wordpress, HTML5, CSS3, JavaScript
+|Joomla, Wordpress, HTML5, CSS3, JavaScript, React
 |https://www.joomshaper.com[Website]
 
 |Kaz Software
 |28/1 Eskaton Garden, Dhaka, Bangladesh
 |.Net, Java, PHP, AngularJS, React
 |http://kaz.com.bd/[Website]
+
+|Kona Software Lab
+|Police Plaza Concord, Tower-A, Plot-2, Road-144, Dhaka
+|Java, Spring, C++, JavaScript, Android, Kotlin, AI, Blockchain
+|https://konasl.com[Website]
 
 |Kovair Software, Inc.
 |Dhaka
@@ -261,7 +287,7 @@ https://github.com/ChumbokIT[Github]
 |===
 |Company Name |Office location |Technologies | Web presence
 
-|MagnitoDigital
+|Magnito Digital
 |3rd Floor, House-7, Road-23/B, Gulshan-1, Dhaka, Bangladesh
 |Mobile app development, Web Design & Development, Digital Marketing , Analytics
 |http://magnitodigital.com/[Website],
@@ -283,10 +309,20 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Java, JEE, Spring,RESTful APIs
 |https://www.mislbd.com/[Website]
 
+|Misfit Technologies
+|House-47 (Anthemion - BC1), Road-23, Banani, Dhaka-1213
+|Python, Django, Ruby, Ruby on Rails, JavaScript, React, PHP, Magento, Wordpress, Android, Artificial Intelligence, Machine Learning
+|https://misfit.tech/[Website]
+
 |MonstarLab (Japan)
 |Ahmed Tower (20th floor, Kemal Ataturk Avenue, Dhaka 1213
 |Java Spring, Laravel, Symfony, AngularJS, Amazon Web Services
 |https://monstar-lab.com/global/[Website]
+
+|mPower Social Enterprises Limited
+|Nur Empori | Level-10, House: 77 | Road: 11, Block: M | Banani, Dhaka-1213
+|JavaScript, React, Wordpress, PHP, MySQL
+|http://www.mpower-social.com/[Website]
 
 |Nascenia
 |6/14, Block A, Lalmatia, Dhaka
@@ -354,6 +390,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |House 18, Road No 6, 2nd Floor, Gulshan 1, Dhaka – 1212, Bangladesh.
 |Android, IOS, PHP, React, Docker, AWS, Nodejs, Python, PostgresSQL, MySQL
 |http://portonics.com/[Website]
+
+|Pridesys IT Limited
+|Level 6, 20/21 Garden Road, Kawranbazar, DHAKA – 1215, Bangladesh
+|PHP, Wordpress, JavaScript, MySQL, JQuery
+|https://pridesys.com[Website]
 
 |Progoti Systems Limited
 |51/B, Borak Mehnur, Kemal Ataturk Ave, Dhaka, Bangladesh
