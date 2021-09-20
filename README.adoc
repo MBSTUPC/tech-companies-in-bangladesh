@@ -17,6 +17,11 @@ List of tech companies to help developers to find jobs.
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|Appnap
+|Ranks Business Center (5th Floor), Ka-218/1, Pragati Sarani, Kuril, Dhaka-1229
+|iOS
+|https://www.appnap.io/[Website]
+
 |AppsCode Ltd.
 |Flat A2, House 4, Rd No. 10, Dhaka 1230
 |Golang, Docker, Kubernetes, Vue.js
@@ -69,6 +74,11 @@ List of tech companies to help developers to find jobs.
 |30/A, Sattara Centre (14th floor), VIP Road, Naya Paltan, Dhaka-1000
 |Android, iOS, PHP, BI Solution
 |https://www.belivit.com[Website]
+
+|Circle Fintech
+|89 Bir Uttam CR Datta Raod, Sonargaon Road, Dhaka 1205, Bangladesh
+|IOT, Blockchain, Artificial Intelligence, React, Javascript, Python, Node, Django
+|https://www.circlefintech.com/[Website]
 
 |Craftsmen (EU)
 |House # 272 (1st Floor), Lane # 3 (Eastern Road), DOHS Baridhara, Dhaka 1206, Bangladesh.
@@ -126,6 +136,11 @@ https://github.com/ChumbokIT[Github]
 |Java, Spring Boot, C#, .Net, Angular/Vue/JQuery
 |http://datasoft-bd.com/[Website]
 
+|Dingi Technologies
+|JavaScript, Java, React, Node, Google Maps, Firebase, Flutter
+|Floor 4, Wakil Tower, Ta 131, Gulshan Badda Link Road, Dhaka 1212, Bangladesh
+|https://www.dingi.tech/[Website]
+
 |Dream71
 |House No 16 (Level 4), Bashundhara R/A, Main Road, Block – A, Dhaka-1229, Bangladesh.
 |
@@ -171,6 +186,11 @@ https://github.com/ChumbokIT[Github]
 |C, C++, Angular, SQL etc.
 |https://www.fiftytwo.com[Website]
 
+|Flyte Solutions 
+|House 11, Level C1, The Reeve, Rd 33, Gulshan 1, Dhaka 1212, Bangladesh
+|JavaScript, Node, React, React Native, Android, iOS
+|https://flytesolutions.com[Website]
+
 |Frontier Semiconductor (FSM) (USA)
 |Wasi Tower (FL: 7 CD), ECB Chattar, Matikata Rd, Dhaka
 |C, C++, MFC, Open CV, Open GL
@@ -187,6 +207,11 @@ https://github.com/ChumbokIT[Github]
 |Nitol Niloy Tower (Level 8), Nikunja C/A, Airport Road, Dhaka-1229
 |Artificial Intelligence and automation, Cyber security, SaaS, Digital marketing and content development
 |http://genexinfosys.com/[Website]
+
+|Giga Tech Limited
+|SAM Tower (Level 7)House No. 4, Road No 22, Gulshan-1, Dhaka-1212,Bangladesh
+|Artificial Intelligence, Deep Learning, Blockchain, Java, Python, Django, JavaScript, .NET
+|https://gigatechltd.com/[Website]
 
 |Golden Harvest InfoTech Ltd (GHIT)
 |Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
@@ -205,6 +230,11 @@ https://github.com/ChumbokIT[Github]
 |Java, Spring
 |http://www.ibcs-primax.com/ibcsonweb/[Website]
 
+|IBOS Limited
+|6/2 Kazi Nazrul Islam Rd, Lalmatia, Dhaka 1207
+|JavaScript, React, Java, PHP, MySQL
+|https://www.ibos.io[Website]
+
 |IdeaScale Bangladesh
 |Quantum Mustafa Tower (Floor: 4&5) 18, Gaus-ul-Azam Avenue, Sector-13 Uttara, Dhaka
 |Java, Spring Framework, JPA, JMS, jQuery, ReactJS
@@ -219,6 +249,11 @@ https://github.com/ChumbokIT[Github]
 |Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
 |C#, .NET
 |https://www.infocratsolutions.com/[Website]
+
+|Instalogic
+|3rd Floor, House - 483, Road - 08, Baridhara DOHS, Dhaka-1206
+|PHP, Laravel, MySQL, Java, Python, Django, JavaScript, React, Drupal, Angular, Vue, Wordpress
+|https://instalogic.com.bd/[Website]
 
 |Integrated Software and Technologies Ltd.
 |Avenue # 9, Road #9, House #1043 (2nd Floor) DOHS Mirpur, Dhaka, Bangladesh
@@ -319,10 +354,6 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Java Spring, Laravel, Symfony, AngularJS, Amazon Web Services
 |https://monstar-lab.com/global/[Website]
 
-|mPower Social Enterprises Limited
-|Nur Empori | Level-10, House: 77 | Road: 11, Block: M | Banani, Dhaka-1213
-|JavaScript, React, Wordpress, PHP, MySQL
-|http://www.mpower-social.com/[Website]
 
 |Nascenia
 |6/14, Block A, Lalmatia, Dhaka
@@ -446,8 +477,13 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
 |Sheba Technologies Limited
 |8th Floor, Khawaja Tower, 95 Mohakhali C/A, Dhaka 1212
-| Java, C, C++, Android, ASP.NET
+|Java, C, C++, Android, ASP.NET
 |https://www.shebatech.com.bd/[Website]
+
+|Spring Rain IT
+|7th Floor, Commercial Cove, House 56/C , Road 132, Dhaka 1212, Bangladesh.
+|JavaScript, Node, React, React Native, Android
+|https://springrainit.com[Website]
 
 |Streams Tech Inc.
 |House No 16, Suite F4 & F3, 23/B Road No 23/B, Dhaka 1213
@@ -459,6 +495,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |.Net, Java, Spring, Hibernate, AngularJS
 |https://www.facebook.com/softwarepeoplewpp[Facebook]
 
+|Softzino Technologies
+|House-50, Level-04, Road-03, Sector-11, Uttara, Dhaka-1230 
+|Android, iOS, React, React Native, JavaScript, Vue, Flutter
+|https://softzino.com/[Website]
+
 |Sonali Polaris FT Limited
 |Abedin Tower (7th Floor), 35 Kamal Ataturk Avenue, Banani C/A I Dhaka – 1213, 35 Kemal Ataturk Ave, Dhaka
 |Java, Oracle
@@ -469,6 +510,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |.Net, Java Spring, Android, AngularJS, Visual Basic
 |https://www.southtechgroup.com/[Website],
 https://www.linkedin.com/company/southtechgroup/[LinkedIn]
+
+|SSL Wireless
+|93 B, New Eskaton Road, Dhaka-1000, Bangladesh
+|Java, JavaScript, PHP, Laravel, MySQL, JavaScript
+|https://www.sslwireless.com/[Website]
 
 |Square Health Ltd.
 |House 18, Road 13, Uttara (Sector 7) Dhaka 1230, Bangladesh
@@ -545,6 +591,11 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Java, Spring, Python, Django, Angular, ReactJS
 |https://www.workspaceit.com[Website]
 
+|Zaynax Limited
+|House #3, Road #20, Gulshan Circle 1, Bashati Dream Apartment, Suite #A-7, 7th Floor, Dhaka, Dhaka 1212, BD
+|JavaScript, Node, React, Next, MongoDB, Android, iOS 
+|http://www.zaynax.com[Website]
+
 |===
 
 ==== Alphabetical Order: 1 - 9
@@ -595,6 +646,11 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 |House No. 257, Block- B, Road 1, Bashundhara R/A, Dhaka-1229
 |PHP(Laravel, Drupal), Nodejs(Express, Socket.io), JavaScript(React), Python(Django), iOS, Android
 |https://telenorhealth.com[Website]
+
+|Bongo
+|Baridhara J Block, House 20 Rd No. 2/B, Dhaka 1212
+|JavaScript, Node, React, Android, iOS, SQL, Data Engineering, AI
+|https://bongobd.com/[Website]
 
 |===
 
