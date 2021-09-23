@@ -572,6 +572,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |HTML, CSS, JavaScript, Bootstrap
 |https://technext.it/[Website]
 
+|TechFlix  
+|6100, Rajshahi
+|Web development, hosting, google ads, ERP solutions
+|https://www.techflixbd.com[Website]
+
 |Triva It Limited
 |38/1/1 Vagolpur Lane, Hazaribagh Park, Dhaka 1205
 |Graphic Design, UI/UX, Motion Graphics, Web Design
