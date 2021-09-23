@@ -546,6 +546,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Android, Java, Node
 |https://www.techcarebd.com/[Website], https://www.facebook.com/techcarebd/[Facebook]
 
+|TechFlix  
+|6100, Rajshahi
+|Web development, hosting, google ads, ERP solutions
+|https://www.techflixbd.com[Website]
+
 |Triva It Limited
 |38/1/1 Vagolpur Lane, Hazaribagh Park, Dhaka 1205
 |Graphic Design, UI/UX, Motion Graphics, Web Design
