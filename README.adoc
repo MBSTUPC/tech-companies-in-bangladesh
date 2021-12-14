@@ -182,6 +182,11 @@ https://github.com/ChumbokIT[Github]
 |NodeJS, ExpressJS, Python, Django, GoLang, REST, Microservices, SQL, NoSQL, SQS, SNS MQTT, etc.
 |https://evaly.com.bd/career/[Website]
 
+|Exabyting Technologies
+|Remote
+|JAVA, Spring, PHP, Laravel, JavaScript, NodeJS, ExpressJS, Python, Django, REST, Microservices, SQL, NoSQL, SQS, SNS, etc.
+|http://exabyting.com/[Website]
+
 |Fieldbuzz (Germany)
 |Azhar Comfort Complex (5th floor), Ga-130/A Progoti Shoroni, Middle Badda, Dhaka
 |Python, Django, Android, Java
@@ -250,6 +255,11 @@ https://github.com/ChumbokIT[Github]
 |2nd Floor, Elahi 8B, Surma Gate, Akhalia, Sylhet-3100, Bangladesh
 | PHP, Java, Android, iOS, Laravel, JavaScript, Node.js, Vue.js, React.js, React Native
 |http://www.infancyit.com[Website]
+
+|Inflack Limited
+|H-36, B-A, R-1, Bashundhara Residential Area, Dhaka
+|PHP, Laravel, JAVA, Spring, JavaScript, Python, Django, REST, Microservices, SQL, NoSQL, SQS, SNS, etc.
+|http://inflack.com/[Website]
 
 |Infocrat Solutions Ltd.
 |Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
@@ -652,7 +662,7 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |bkash
 |Shadhinata Tower, 1,Bir Sreshtha Shaheed Jahangir Gate, Dhaka Cantonment, Dhaka - 1206
-|Android, JavaScript, Java EE, JSP, Servlet
+|Java, Spring, PHP Laravel, Android, JavaScript, Java EE, JSP, Servlet, AWS
 |https://www.bkash.com[Website]
 
 |Bongo
