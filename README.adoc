@@ -100,7 +100,7 @@ https://www.facebook.com/craftsmenltd/[Facebook]
 |COdesign
 |Level-8 Plot, Rangs Paramount, 11 Rd No 17, Dhaka 1213
 |Wordpress, HTML, CSS, React, PHP, MySQL
-|https://codesign.com.bd/
+|https://codesign.com.bd/[Website]
 
 |Codemen Solutions
 |90/B, Uttara bank building (4th floor), Malibagh Chowdhury Para, 1219 DIT Road, Dhaka 1219
@@ -353,7 +353,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Mazegeek Technologies BD Ltd.
 |House:105, Road:13/A, Block: C, Banani, Dhaka-1213
 |PHP, Laravel, .Net, Android, iOS, Javascript, Node.js, Vue.js, Angular, React, Python, Ruby on rails, AWS, firebase, Docker
-|https://www.mazegeek.com
+|https://www.mazegeek.com/[Website]
 
 |Metafour Asia
 |Takia Center (7th Floor), 39 Sonargaon Janapath, Sector 7, Uttara, Dhaka 1230
