@@ -143,8 +143,8 @@ https://github.com/ChumbokIT[Github]
 |http://datasoft-bd.com/[Website]
 
 |Dingi Technologies
-|JavaScript, Java, React, Node, Google Maps, Firebase, Flutter
 |Floor 4, Wakil Tower, Ta 131, Gulshan Badda Link Road, Dhaka 1212, Bangladesh
+|JavaScript, Java, React, Node, Google Maps, Firebase, Flutter
 |https://www.dingi.tech/[Website]
 
 |Dream71
