@@ -552,6 +552,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |C/C++, PHP, MySQL, Java, Node JS, Big Data, HTML, CSS, Linux
 |https://ssd-tech.io/[Website]
 
+|TAPPWARE Solutions Limited
+|SEL Trident Tower ( 14th Floor), 57, Purana Paltan Line, VIP Road, Dhaka, Bangladesh.
+|PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic
+|https://tappware.com/[Website]
+
 |TechnoVista Limited
 |House: 4, Road: 9/B, Nikunja–1, Khilkhet, Dhaka, Bangladesh.
 |.NET, C#, Java, J2EE, Spring, PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL, SQL Server, Oracle, HTML, SCSS, LESS, jQuery, VueJS, Android, Ionic
