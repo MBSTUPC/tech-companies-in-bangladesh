@@ -637,6 +637,12 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Java, Spring, Python, Django, Angular, ReactJS
 |https://www.workspaceit.com[Website]
 
+
+|WPDeveloper
+|House 592, Road 8 Avenue 5, Dhaka
+|PHP, Laravel, JavaScript, Vue.js, ReactJS
+|https://wpdeveloper.com[Website]
+
 |Xpeed Studio
 |Amigo 14 Square, House No :59/C-61/C Suite No : B-2, Level-2, Asad Avenue, Dhaka 1207
 |Joomla, Wordpress, Drupal, JavaScript, PHP, HTML, CSS
