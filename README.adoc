@@ -719,6 +719,11 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 |Java, Android, Python
 |https://www.mpower-social.com[Website]
 
+|Mamurjor IT
+|Astha vaban, 6th floor, Fall potti, Mirpur-10, Dhaka
+|C/C++, PHP, MySQL, Java, Node JS, Big Data, HTML, CSS, Linux
+|https://mamurjor.com/[Website]
+
 |Orbitax Bangladesh
 |113 Kazi Nazrul Islam Ave, Dhaka 1205
 |Java, JavaScript, Android, PHP
