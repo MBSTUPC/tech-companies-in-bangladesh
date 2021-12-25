@@ -640,7 +640,7 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |WPDeveloper
 |House 592, Road 8 Avenue 5, Dhaka
-|PHP, Laravel, JavaScript, Vue.js, ReactJS
+|PHP, Laravel, WordPress, JavaScript, Vue.js, ReactJS
 |https://wpdeveloper.com[Website]
 
 |Xpeed Studio
