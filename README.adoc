@@ -80,6 +80,11 @@ List of tech companies to help developers to find jobs.
 |Android, iOS, PHP, BI Solution
 |https://www.belivit.com[Website]
 
+|BlueBees Limited
+|Manama MS Toren, 8th Floor GA-99/3/A/B, Pragati Sarani, Middle Badda, Gulshan, Dhaka 1212, Bangladesh
+|PHP, .Net, Flutter, AngularJS, VueJS
+|https://bluebees.ventures[Website]
+
 |Circle Fintech
 |89 Bir Uttam CR Datta Raod, Sonargaon Road, Dhaka 1205, Bangladesh
 |IOT, Blockchain, Artificial Intelligence, React, Javascript, Python, Node, Django
