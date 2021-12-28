@@ -37,6 +37,10 @@ List of tech companies to help developers to find jobs.
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
 |https://www.augmedix.com/[Website]
 
+|authLab
+|24/a Shah Farid Rd, Sylhet, Bangladesh
+|WordPress, JavaScript, React, Vue, JQuery, AWS, PHP, Laravel
+|https://authlab.io/[Website]
 
 |Bdtask
 |B-25, Mannan Plaza, 4th Floor, Khilkhet, Dhaka-1229,Bangladesh
@@ -515,6 +519,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |7th Floor, Commercial Cove, House 56/C , Road 132, Dhaka 1212, Bangladesh.
 |JavaScript, Node, React, React Native, Android
 |https://springrainit.com[Website]
+
+|Strativ BD Ltd.
+|House: 684, Avenue: 06, Road: 9, Dhaka 1216, Bangladesh
+|Python, Django, JavaScript, React, React Native, VueJS, NodeJS, PHP, Magento, Wordpress, Android
+|https://strativ.se/en/[Website]
 
 |Streams Tech Inc.
 |House No 16, Suite F4 & F3, 23/B Road No 23/B, Dhaka 1213
