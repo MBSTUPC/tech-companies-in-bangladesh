@@ -432,6 +432,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Android, Spring-boot, Django, Docker, Python, PostgresSQL, MySQL
 |https://www.progoti.com/[Website]
 
+|Remotion IT
+|Rahman Amena, House-49(4th Floor), Road-13,Block-D,Banani,Dhaka,Bangladesh-1213
+|Web design,SEO,Social Media marketing, SMS marketing, Branding Design
+|https://www.remotionit.com[Website]
+
 |Renessa Info Systems Ltd.
 |Pritam Zaman Tower, 11th Floor, 37/2, Culvert Road, Purana Paltan, Dhaka-1000, Bangladesh.
 |PHP, Laravel, CodeIgniter, CakePHP, JavaScript and jQuery
