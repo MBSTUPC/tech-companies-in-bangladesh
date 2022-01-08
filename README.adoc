@@ -37,6 +37,10 @@ List of tech companies to help developers to find jobs.
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
 |https://www.augmedix.com/[Website]
 
+|authLab
+|24/a Shah Farid Rd, Sylhet, Bangladesh
+|WordPress, JavaScript, React, Vue, JQuery, AWS, PHP, Laravel
+|https://authlab.io/[Website]
 
 |Bdtask
 |B-25, Mannan Plaza, 4th Floor, Khilkhet, Dhaka-1229,Bangladesh
@@ -79,6 +83,11 @@ List of tech companies to help developers to find jobs.
 |30/A, Sattara Centre (14th floor), VIP Road, Naya Paltan, Dhaka-1000
 |Android, iOS, PHP, BI Solution
 |https://www.belivit.com[Website]
+
+|BlueBees Limited
+|Manama MS Toren, 8th Floor GA-99/3/A/B, Pragati Sarani, Middle Badda, Gulshan, Dhaka 1212, Bangladesh
+|PHP, .Net, Flutter, AngularJS, VueJS
+|https://bluebees.ventures[Website]
 
 |Circle Fintech
 |89 Bir Uttam CR Datta Raod, Sonargaon Road, Dhaka 1205, Bangladesh
@@ -521,6 +530,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |JavaScript, Node, React, React Native, Android
 |https://springrainit.com[Website]
 
+|Strativ BD Ltd.
+|House: 684, Avenue: 06, Road: 9, Dhaka 1216, Bangladesh
+|Python, Django, JavaScript, React, React Native, VueJS, NodeJS, PHP, Magento, Wordpress, Android
+|https://strativ.se/en/[Website]
+
 |Streams Tech Inc.
 |House No 16, Suite F4 & F3, 23/B Road No 23/B, Dhaka 1213
 |ArcGIS-ESRI, AngularJS, .Net, SQL,MongoDB
@@ -561,6 +575,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Uday Tower, Level 12, 57 & 57/A, Gulshan Avenue, Dhaka-1212, Bangladesh
 |C/C++, PHP, MySQL, Java, Node JS, Big Data, HTML, CSS, Linux
 |https://ssd-tech.io/[Website]
+
+|TAPPWARE Solutions Limited
+|SEL Trident Tower ( 14th Floor), 57, Purana Paltan Line, VIP Road, Dhaka, Bangladesh.
+|PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic
+|https://tappware.com/[Website]
 
 |TechnoVista Limited
 |House: 4, Road: 9/B, Nikunja–1, Khilkhet, Dhaka, Bangladesh.
@@ -642,6 +661,12 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Java, Spring, Python, Django, Angular, ReactJS
 |https://www.workspaceit.com[Website]
 
+
+|WPDeveloper
+|House 592, Road 8 Avenue 5, Dhaka
+|PHP, Laravel, WordPress, JavaScript, Vue.js, ReactJS
+|https://wpdeveloper.com[Website]
+
 |Xpeed Studio
 |Amigo 14 Square, House No :59/C-61/C Suite No : B-2, Level-2, Asad Avenue, Dhaka 1207
 |Joomla, Wordpress, Drupal, JavaScript, PHP, HTML, CSS
@@ -717,6 +742,11 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 |House No. 77, Block- M, 11 Rd No. 11, Dhaka
 |Java, Android, Python
 |https://www.mpower-social.com[Website]
+
+|Mamurjor IT
+|Astha vaban, 6th floor, Fall potti, Mirpur-10, Dhaka
+|C/C++, PHP, MySQL, Java, Node JS, Big Data, HTML, CSS, Linux
+|https://mamurjor.com/[Website]
 
 |Orbitax Bangladesh
 |113 Kazi Nazrul Islam Ave, Dhaka 1205
