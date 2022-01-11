@@ -657,6 +657,11 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |PHP, Laravel, WordPress, JavaScript, Vue.js, ReactJS
 |https://wpdeveloper.com[Website]
 
+|WPCommerz
+|Mirpur 12, Dhaka
+|PHP, Laravel, WordPress, JavaScript, Vue.js, ReactJS
+|https://wpcommerz.com/[Website]
+
 |Xpeed Studio
 |Amigo 14 Square, House No :59/C-61/C Suite No : B-2, Level-2, Asad Avenue, Dhaka 1207
 |Joomla, Wordpress, Drupal, JavaScript, PHP, HTML, CSS
@@ -767,11 +772,6 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 |Road 11, House 76/A [3rd Floor], Banani, Dhaka, Dhaka 1213, BD
 |JavaScript, HTML, CSS, React, Node, AWS
 |https://www.wundermanthompson.com/[Website]
-
-|WPCommerz
-|Mirpur 12, Dhaka
-|PHP, Laravel, WordPress, JavaScript, Vue.js, ReactJS
-|https://wpcommerz.com/[Website]
 
 
 
