@@ -216,6 +216,11 @@ https://github.com/ChumbokIT[Github]
 |C, C++, MFC, Open CV, Open GL
 |http://www.frontiersemi.com/center/home.php[Website]
 
+|Furqan Software
+|House 29 (Flat 4B), Road, 20 Rd 22, Block#K, Dhaka 1213
+|
+|https://furqansoftware.com/[Website]
+
 |===
 
 
@@ -466,6 +471,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |51/B, Borak Mehnur, Kemal Ataturk Ave, Dhaka, Bangladesh
 |Android, Spring-boot, Django, Docker, Python, PostgresSQL, MySQL
 |https://www.progoti.com/[Website]
+
+|Remotion IT
+|Rahman Amena, House-49(4th Floor), Road-13,Block-D,Banani,Dhaka,Bangladesh-1213
+|Web design,SEO,Social Media marketing, SMS marketing, Branding Design
+|https://www.remotionit.com[Website]
 
 |Renessa Info Systems Ltd.
 |Pritam Zaman Tower, 11th Floor, 37/2, Culvert Road, Purana Paltan, Dhaka-1000, Bangladesh.
