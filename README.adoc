@@ -166,10 +166,10 @@ https://github.com/ChumbokIT[Github]
 |Web, Android and iOS
 |https://dcastalia.com/[Website]
 
-|Dynamic Solution Innovators (DSi)
-|Mohakhali DOHS, Dhaka
-|Java, Spring, Hibernate, AngularJS, Android, iOS
-|http://www.dsinnovators.com[Website]
+|Dynamic Solution Innovators Ltd. (DSi)
+|House 177, Lane 2, New DOHS Mohakhali, Dhaka 1206, Bangladesh
+|Java, Springboot, Nodejs(hapi), Hibernate, ReactJs, NextJs, AngularJS, Android, iOS
+|http://www.dsinnovators.com[Website] https://www.linkedin.com/company/dsinnovators/[LinkedIn] https://www.facebook.com/DynamicSolutionInnovators/[Facebook]
 
 |Dohatec New Media
 |43, Doha House, Purana Paltan Lane, Dhaka
