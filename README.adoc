@@ -151,6 +151,16 @@ https://github.com/ChumbokIT[Github]
 |Java, Spring Boot, C#, .Net, Angular/Vue/JQuery
 |http://datasoft-bd.com/[Website]
 
+|Daffodil Software Limited (DSL)
+|DF Tower (Level: 11-A), House # 11, Road # 14, Dhanmondi, Dhaka-1209
+|Java, .NET, PHP, Android, iOS
+|http://daffodilsoft.com/[Website]
+
+|Databiz Software Limited
+|Mirpur DOHS Avenue #3. Road #12, House #860-861, Dhaka 1216
+|.NET, PHP, Android, iOS
+|http://www.databizsoftware.com/[Website]
+
 |Dingi Technologies
 |Floor 4, Wakil Tower, Ta 131, Gulshan Badda Link Road, Dhaka 1212, Bangladesh
 |JavaScript, Java, React, Node, Google Maps, Firebase, Flutter
@@ -243,6 +253,11 @@ https://github.com/ChumbokIT[Github]
 |C#, ASP Dot Net, MVC, Web API, Dot Net Core, PHP, Java, Spring, MVC, Java EE Framework, MYSQL, MS-SQL Server, Oracle, Angular JS, React JS
 |http://ghitbd.com/[Website]
 
+|Grameen Solutions Ltd
+|Grameen Bank Tower 12th Floor, Mirpur 2, Dhaka 1216
+|Java, PHP
+|https://www.grameensolutions.com/[Website]
+
 
 |hSenid Mobile Solutions Limited
 |HR Bhaban (6th Floor), 100, Br Uttom A.K. Khandaker Sarak, Mohakhali C/A, Dhaka 1212
@@ -304,6 +319,11 @@ https://github.com/ChumbokIT[Github]
 |House no: 484 (4th Floor) , Road no 32, Mohakhali DOHS, Dhaka 1206
 |JavaScript, Python, Django, Wordpress, PHP
 |http://invento.com.bd/[Website]
+
+|IPvision
+|House 57, Road 8, Block D, Niketon, Dhaka-1212
+|Java
+|http://ipvision.ca/[Website]
 
 |Isratts Technologies
 |House # 58, Road # 05, O R Nizam Rd R/A, GEC, Chattogram, Bangladesh
@@ -378,6 +398,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Takia Center (7th Floor), 39 Sonargaon Janapath, Sector 7, Uttara, Dhaka 1230
 |Java, Spring
 |http://www.metafour.com[Website]
+
+|Metatude Asia Ltd
+|Mark Mansion (Level 4 & 5), 36 Sonargaon Janapath, Sector #9, Uttara, Dhaka – 1230
+|Java, JavaScript, Angular, .NET, AWS
+|https://www.fellowdigitals.com/metatude[Website], https://www.linkedin.com/company/metatude-asia-ltd/[LinkedIn]
 
 |Millennium Information Solution Ltd.
 |49 Kawran Bazar Rd, Dhaka 1215, Bangladesh
