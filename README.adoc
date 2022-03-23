@@ -141,7 +141,7 @@ https://github.com/ChumbokIT[Github]
 |http://www.codinism.com[Website]
 
 |Commlink Info Tech Limited
-|House 3 Road 23/A, Gulshan-1, Dhaka-1212 Bangladesh.
+|House 3 Road 23/A, Gulshan-1, Dhaka-1212, Bangladesh.
 |Java, Spring
 |https://www.commlinkinfotech.com/[Website]
 
@@ -546,7 +546,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |https://research.samsung.com/srbd[Website]
 
 |SCT Bangla Limited
-|F-1, H14, Block-C, Main Road, Banasree, Rampura, Dhaka, Bangladesh
+|F-1, H 14, Block-C, Main Road, Banasree, Rampura, Dhaka, Bangladesh
 |PHP, Laravel, JavaScript, React, Angular, SQL, Flutter
 |https://www.sct-bangla.com/[Website]
 
