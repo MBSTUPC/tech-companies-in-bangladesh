@@ -32,6 +32,11 @@ List of tech companies to help developers to find jobs.
 |Golang, Docker, Kubernetes, Vue.js
 |https://www.appscode.com/[Website]
 
+|Apurba Technologies Ltd.
+|Road 22, House B/158, Flat 3(2nd Floor), Mohakhali New DOHS  Dhaka, Bangladesh
+|Java, Python, PHP, Docker, Kubernetes, Spring, JavaScript, AWS, Machine Learning
+|http://apurba.com.bd[Website]
+
 |Augmedix Inc.
 |SS Steel Building, Suite 203, 17/C Panthapath, Dhaka
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
