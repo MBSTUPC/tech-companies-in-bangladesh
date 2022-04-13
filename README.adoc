@@ -413,7 +413,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |*Bangladesh Office:* House: 25, Road: 4, Block: F, Banani, Dhaka 1213, Bangladesh + 
 *USA Office:*  54w 40th St, We Work Space - Medina Tech Limited, New York, NY 10018, USA
 |Python, Node.js, Django, PHP, React, Vue, AI, Machine Learning, Unity, Android, IOS, AWS 
-|http://www.medinatech.co//[Website]
+|https://www.medinatech.co//[Website]
 
 |Metafour Asia
 |Takia Center (7th Floor), 39 Sonargaon Janapath, Sector 7, Uttara, Dhaka 1230
