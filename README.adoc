@@ -119,8 +119,8 @@ https://www.facebook.com/craftsmenltd/[Facebook]
 |Chaldal Engineering
 |House 6, Road 9, Block C, Banani
 |.NET, F#, C#, TypeScript, JavaScript, Xamarin, Android, React, React Native, Microsoft Orleans
-|https://chaldal.tech/[Engineering Website]
-|https://chaldal.com/t/Career/[Career Website]
+|https://chaldal.tech/[Engineering Website],
+https://chaldal.com/t/Career/[Career Website]
 
 |Chumbok IT
 |_Remote_
