@@ -116,6 +116,19 @@ https://www.facebook.com/craftsmenltd/[Facebook]
 |Android, .Net, Python, Rails, React, IOS
 |https://cefalo.com/[Website]
 
+|Chaldal Engineering
+|House 6, Road 9, Block C, Banani
+|.NET, F#, C#, TypeScript, JavaScript, Xamarin, Android, React, React Native, Microsoft Orleans
+|https://chaldal.tech/[Website]
+
+|Chumbok IT
+|_Remote_
+|Java, Spring Boot, Data JPA / Hibernate, AngularJS
+|https://chumbok.com[Website],
+https://www.facebook.com/ChumbokIT[Facebook],
+https://www.linkedin.com/company/chumbok-it[LinkedIn],
+https://github.com/ChumbokIT[Github]
+
 |COdesign
 |Level-8 Plot, Rangs Paramount, 11 Rd No 17, Dhaka 1213
 |Wordpress, HTML, CSS, React, PHP, MySQL
@@ -130,15 +143,6 @@ https://www.facebook.com/craftsmenltd/[Facebook]
 |49 Kawran Bazar Rd, Dhaka 1215
 |PHP, Oracle, Java
 |http://csinfotechbd.com/[Website]
-
-
-|Chumbok IT
-|_Remote_
-|Java, Spring Boot, Data JPA / Hibernate, AngularJS
-|https://chumbok.com[Website],
-https://www.facebook.com/ChumbokIT[Facebook],
-https://www.linkedin.com/company/chumbok-it[LinkedIn],
-https://github.com/ChumbokIT[Github]
 
 |Codinism
 |J 152/1 Mohakhali WirelessGate, Dhaka -1212
