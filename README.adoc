@@ -119,7 +119,8 @@ https://www.facebook.com/craftsmenltd/[Facebook]
 |Chaldal Engineering
 |House 6, Road 9, Block C, Banani
 |.NET, F#, C#, TypeScript, JavaScript, Xamarin, Android, React, React Native, Microsoft Orleans
-|https://chaldal.tech/[Website]
+|https://chaldal.tech/[Engineering Website]
+|https://chaldal.com/t/Career/[Career Website]
 
 |Chumbok IT
 |_Remote_
@@ -769,11 +770,6 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Baridhara J Block, House 20 Rd No. 2/B, Dhaka 1212
 |JavaScript, Node, React, Android, iOS, SQL, Data Engineering, AI
 |https://bongobd.com/[Website]
-
-|Chaldal
-|Dhaka, Bangladesh
-|F#, Python, Scala, C#, SQL, React, React Native, and TypeScript
-|https://chaldal.com/t/Career[Website] , https://chaldal.tech/[Website]
 
 |Daraz Bangladesh
 |Asfia Tower, House 76, Road 11, Block M, Banani, Dhaka
