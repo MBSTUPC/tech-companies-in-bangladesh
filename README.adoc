@@ -581,6 +581,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Java, C, C++, Android, ASP.NET
 |https://www.shebatech.com.bd/[Website]
 
+|Silicon Orchard Limited
+|House 01, Avenue 01, Block D, Section 11, Mirpur, Dhaka 1216, Bangladesh
+|PHP, NodeJS, ReactJS, Block chain, Android, iOS
+|https://www.siliconorchard.com/[Website]
+
 |Spring Rain IT
 |7th Floor, Commercial Cove, House 56/C , Road 132, Dhaka 1212, Bangladesh.
 |JavaScript, Node, React, React Native, Android
@@ -813,6 +818,11 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 |113 Kazi Nazrul Islam Ave, Dhaka 1205
 |Java, JavaScript, Android, PHP
 |http://www.orbitax.com/[Website]
+
+|ShareTrip
+|5th Floor, Taneem Square, ShareTrip Ltd, Kemal Ataturk Ave, Dhaka 1213
+|PHP, NodeJS, ReactJS, Android, iOS 
+|https://sharetrip.net/[Website]
 
 |Shopup
 |B112, Road 06, Mohakhali DOHS, Dhaka-1206
