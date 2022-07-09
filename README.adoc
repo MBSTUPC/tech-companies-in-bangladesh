@@ -47,6 +47,11 @@ List of tech companies to help developers to find jobs.
 |WordPress, JavaScript, React, Vue, JQuery, AWS, PHP, Laravel
 |https://authlab.io/[Website]
 
+|Alchemy Software Limited
+|335, M.M Ali Road, Yahya Tower (6th Floor) Lalkhan Bazar, Chittagong, Bangladesh.
+|Java, Oracle, PHP, Wordpress, Laravel, .Net, Android
+|https://alchemy-bd.com/[Website]
+
 |Bdtask
 |B-25, Mannan Plaza, 4th Floor, Khilkhet, Dhaka-1229,Bangladesh
 |Android, Web, Wordpress
