@@ -657,6 +657,12 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |.NET, C#, Java, J2EE, Spring, PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL, SQL Server, Oracle, HTML, SCSS, LESS, jQuery, VueJS, Android, Ionic
 |https://technovista.com.bd/[Website]
 
+
+|ThemeXpert
+|Level - 12, Suite - 1202, SEL HUQ SKYPARK, 23/2 Mirpur Road, Dhaka 1207.
+|Joomla, PHP, Laravel, Codeigniter JavaScript, React.
+|https://www.themexpert.com/[Website]
+
 |Therap (USA)
 |House 47, Road 4, Block C, Banani, Dhaka 1213
 |Java, J2EE
