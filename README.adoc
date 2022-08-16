@@ -476,6 +476,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Python, NodeJS, Angular2, Scala, MongoDB
 |https://www.newscred.com/[Website]
 
+|Newroz Technologies Limited
+|Mirpur DOHS, House 140, Road 04 Avenue 4, Dhaka 1216
+|Java, Spring Boot, Flutter, Kotlin, React.
+|https://www.newroztech.com/[Website]
+
 |NetCoden Inc
 |Suite: B-7 (7th Floor), 2/2, Pallabi (Main Road), Mirpur 11.5, Dhaka-1216 , Bangladesh
 |Node.js, Vue.js, React, C++, Android, Php, Laravel, SQL
