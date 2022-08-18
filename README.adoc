@@ -377,7 +377,7 @@ https://github.com/ChumbokIT[Github]
 |JoulesLabs
 |A-6, 6th Floor, House 666/668, Road 09, Avenue 04, Dhaka 1216
 |Wordpress, HTML5, CSS3, JavaScript, React
-|https://jouleslabs.com/
+|https://jouleslabs.com/[Website]
 
 |Kaz Software
 |28/1 Eskaton Garden, Dhaka, Bangladesh
