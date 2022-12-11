@@ -761,7 +761,7 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |YOTECH Limited
 |Bangladesh Office9/A-2 8th floor, Ananda Tower Shopping Complex, Dhupadighir Uttor Par, Sylhet.
-|JavaScript, Node, React, Next, MongoDB, Android,Flutter, iOS 
+|JavaScript, Node, React, Next, MongoDB, Android, Flutter, iOS 
 |https://www.yotech.ltd[Website]
 
 
