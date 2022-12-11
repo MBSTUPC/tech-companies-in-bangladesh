@@ -68,11 +68,15 @@ List of tech companies to help developers to find jobs.
 |Java, Spring, .NET, JavaScript, jQuery, Python, TensorFlow, WordPress
 |https://www.bitmascot.com/[Website]
 
+|Bondstein Technologies Limited
+|Level 5, 138/1 Tejgaon I/A, Dhaka-1208.
+|IoT, JavaScript, Node, React, Angular, PHP, MySQL.
+|https://bondstein.com/[Website]
+
 |Brac IT Services (biTS)
 |Homaira Bhaban, House 115, Road 5, Block B, Niketan, Gulshan 1, Dhaka 1212, Bangladesh
 |Java, Android, PHP
 |https://www.bracits.com[Website]
-
 
 |Braincraft Limited
 |House: 295, Road: 19/B, Mohakhali DOHS, Dhaka - 1206
@@ -289,6 +293,10 @@ https://github.com/ChumbokIT[Github]
 |Java, Kotlin, NodeJS, Apache, Spring Framework, JUnit, Mokito, Mysql, Jenkins, AWS
 |https://www.hsenidmobile.com/[Website]
 
+|HypeScout
+|Banani, Road 2/1, Dhaka-1212.
+|JavaScript, React, Node, Mongoose, Flutter, Swift.
+|https://www.hypescout.co/[Website]
 
 |IBCS-Primax
 |House 51, Road 10A, Dhanmondi R/A, Dhaka-1209, Bangladesh
@@ -369,7 +377,7 @@ https://github.com/ChumbokIT[Github]
 |JoulesLabs
 |A-6, 6th Floor, House 666/668, Road 09, Avenue 04, Dhaka 1216
 |Wordpress, HTML5, CSS3, JavaScript, React
-|https://jouleslabs.com/
+|https://jouleslabs.com/[Website]
 
 |Kaz Software
 |28/1 Eskaton Garden, Dhaka, Bangladesh
@@ -471,11 +479,6 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Java, J2EE, Spring, Hibernate, Tomcat, Oracle, MySQL, MySQL-Server, JSP, JSTL
 |https://newgen-bd.com/[Website]
 
-|Newscred (USA)
-|Green Grandeur (4th ,10th and 13th floor), Plot 58/E, Kemal Ataturk Avenue, Dhaka
-|Python, NodeJS, Angular2, Scala, MongoDB
-|https://www.newscred.com/[Website]
-
 |Newroz Technologies Limited
 |Mirpur DOHS, House 140, Road 04 Avenue 4, Dhaka 1216
 |Java, Spring Boot, Flutter, Kotlin, React.
@@ -490,6 +493,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |House: 03, Road: 08, Shahida Khan Tower (1st & 2nd Floor), Section-6, Mirpur, Dhaka 1216
 |C#, Net Framework, Asp.Net MVC, Asp.Net Core
 |https://www.nybsys.com[Website]
+
+|Optimizely (formerly Newscred) (USA)
+|Green Grandeur (4th ,10th and 13th floor), Plot 58/E, Kemal Ataturk Avenue, Dhaka
+|Python, NodeJS, Angular2, Scala, MongoDB
+|https://www.optimizely.com/[Website]
 
 |Orbund LLC
 |Bosila, Mohammadpur, Dhaka, Bangladesh
@@ -507,6 +515,12 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 ==== Alphabetical Order: P - R
 |===
 |Company Name |Office location |Technologies | Web presence
+
+
+|Paperfly Ltd
+|SKS Tower, Level 5, Mohakhali, Dhaka-1212.
+|React, Vue, PHP, Laravel.
+|https://www.paperfly.com.bd/[Website]
 
 |Pathao Ltd
 |Road 49, Genetic Baro Bhuiyan Tower, Gulshan-2, Dhaka
@@ -656,6 +670,12 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |House: 4, Road: 9/B, Nikunja–1, Khilkhet, Dhaka, Bangladesh.
 |.NET, C#, Java, J2EE, Spring, PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL, SQL Server, Oracle, HTML, SCSS, LESS, jQuery, VueJS, Android, Ionic
 |https://technovista.com.bd/[Website]
+
+
+|ThemeXpert
+|Level - 12, Suite - 1202, SEL HUQ SKYPARK, 23/2 Mirpur Road, Dhaka 1207.
+|Joomla, PHP, Laravel, Codeigniter JavaScript, React.
+|https://www.themexpert.com/[Website]
 
 |Therap (USA)
 |House 47, Road 4, Block C, Banani, Dhaka 1213
