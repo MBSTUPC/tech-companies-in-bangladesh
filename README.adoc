@@ -778,6 +778,13 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |JavaScript, Node, React, Next, MongoDB, Android, iOS 
 |http://www.zaynax.com[Website]
 
+
+|YOTECH Limited
+|Bangladesh Office9/A-2 8th floor, Ananda Tower Shopping Complex, Dhupadighir Uttor Par, Sylhet.
+|JavaScript, Node, React, Next, MongoDB, Android, Flutter, iOS 
+|https://www.yotech.ltd[Website]
+
+
 |===
 
 ==== Alphabetical Order: 1 - 9
