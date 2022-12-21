@@ -467,7 +467,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |https://www.newscred.com/[Website]
 
 |New Technology Systems Limited
-|500 Al Madani Road, Sholok Bahar, Chittagong, Bangladesh, আল মাদানী সড়ক, Chattogram
+|500 Al Madani Road, Sholok Bahar, Chittagong, Bangladesh
 |PHP, MySQL, Oracle, Software development, MongoDB, JavaScript, React JS 
 |https://ntsctgbd.com[Website]
 
