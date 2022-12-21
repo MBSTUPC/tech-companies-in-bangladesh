@@ -484,6 +484,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Java, Spring Boot, Flutter, Kotlin, React.
 |https://www.newroztech.com/[Website]
 
+|New Technology Systems Limited
+|500 Al Madani Road, Sholok Bahar, Chittagong, Bangladesh
+|PHP, MySQL, Oracle, Software development, MongoDB, JavaScript, React JS 
+|https://ntsctgbd.com[Website]
+
 |NetCoden Inc
 |Suite: B-7 (7th Floor), 2/2, Pallabi (Main Road), Mirpur 11.5, Dhaka-1216 , Bangladesh
 |Node.js, Vue.js, React, C++, Android, Php, Laravel, SQL
