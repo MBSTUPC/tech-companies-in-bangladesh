@@ -215,6 +215,11 @@ https://github.com/ChumbokIT[Github]
 |.NET, Java, Spring, Python, AngularJS
 |http://www.dohatec.com/[Website]
 
+|Embedded Logic Operations (ELO)
+|39, Bir Uttam C.R Dutta Road, Dhaka [Remote First]
+|Node, React, Angular, Nextjs, Nestjs, PHP, Laravel, AWS, Docker, Mongo, PostgreSQL, MySQL/MariaDB, Google Firebase, Flutter, WordPress, Cypress, UI/UX
+|https://elobyte.com/[Website]
+
 |Enosis Solutions (USA)
 |House - 27 Rd No 8, Gulshan-1, Dhaka-1212
 |Java, PHP, Python, C#
