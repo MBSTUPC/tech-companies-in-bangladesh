@@ -368,6 +368,11 @@ https://github.com/ChumbokIT[Github]
 |
 |http://www.israttstech.com/[Website]
 
+|ITmedicus
+|Eastern Housing, Basherpool, Demra, Bangladesh
+|PHP, Laravel, Java, Kotlin, Dart
+|http://itmedicus.com/[Website]
+
 |===
 
 ==== Alphabetical Order: J - L
@@ -499,9 +504,9 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Node.js, Vue.js, React, C++, Android, Php, Laravel, SQL
 |https://netcoden.com/[Website]
 
-|Nybbles System Limited
+|Nybbles System Limited (NybSys)
 |House: 03, Road: 08, Shahida Khan Tower (1st & 2nd Floor), Section-6, Mirpur, Dhaka 1216
-|C#, Net Framework, Asp.Net MVC, Asp.Net Core
+|C#, .Net Framework, Asp.Net MVC, Asp.Net Core, Java, Kotlin, Swift, Objective C, Dart, Angular JS
 |https://www.nybsys.com[Website]
 
 |Optimizely (formerly Newscred) (USA)
