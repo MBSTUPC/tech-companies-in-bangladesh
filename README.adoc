@@ -571,6 +571,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Android, IOS, AngularJS, NodeJS, Python, .Net
 |https://selise.ch/[Website]
 
+
 |ServicEngine Ltd.
 |House 8, Abbas Garden, DOHS Mohakhali, Dhaka - 1206
 |Groovy, Java, SQL, Spring
@@ -585,6 +586,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |House 01, Avenue 01, Block D, Section 11, Mirpur, Dhaka 1216, Bangladesh
 |PHP, NodeJS, ReactJS, Block chain, Android, iOS
 |https://www.siliconorchard.com/[Website]
+
+|Singularity Limited
+|Level 5, House 147, Lane 1,Baridhara DOHS, Dhaka 1206, Bangladesh
+|Web and Mobile application,Virtual, Augmented and Mixed reality,Motion Graphics,Animation,Visual Effects
+|https://singularitybd.com/[Website]
 
 |Spring Rain IT
 |7th Floor, Commercial Cove, House 56/C , Road 132, Dhaka 1212, Bangladesh.
