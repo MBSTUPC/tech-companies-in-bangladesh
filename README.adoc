@@ -47,6 +47,11 @@ List of tech companies to help developers to find jobs.
 |WordPress, JavaScript, React, Vue, JQuery, AWS, PHP, Laravel
 |https://authlab.io/[Website]
 
+|Alchemy Software Limited
+|335, M.M Ali Road, Yahya Tower (6th Floor) Lalkhan Bazar, Chittagong, Bangladesh.
+|Java, Oracle, PHP, Wordpress, Laravel, .Net, Android
+|https://alchemy-bd.com/[Website]
+
 |Bdtask
 |B-25, Mannan Plaza, 4th Floor, Khilkhet, Dhaka-1229,Bangladesh
 |Android, Web, Wordpress
@@ -63,11 +68,15 @@ List of tech companies to help developers to find jobs.
 |Java, Spring, .NET, JavaScript, jQuery, Python, TensorFlow, WordPress
 |https://www.bitmascot.com/[Website]
 
+|Bondstein Technologies Limited
+|Level 5, 138/1 Tejgaon I/A, Dhaka-1208.
+|IoT, JavaScript, Node, React, Angular, PHP, MySQL.
+|https://bondstein.com/[Website]
+
 |Brac IT Services (biTS)
 |Homaira Bhaban, House 115, Road 5, Block B, Niketan, Gulshan 1, Dhaka 1212, Bangladesh
 |Java, Android, PHP
 |https://www.bracits.com[Website]
-
 
 |Braincraft Limited
 |House: 295, Road: 19/B, Mohakhali DOHS, Dhaka - 1206
@@ -119,8 +128,8 @@ https://www.facebook.com/craftsmenltd/[Facebook]
 |Chaldal Engineering
 |House 6, Road 9, Block C, Banani
 |.NET, F#, C#, SQL Server, TypeScript, JavaScript, Xamarin, Android, React, React Native, Microsoft Orleans
-|https://chaldal.tech/[Engineering Website],
-https://chaldal.com/t/Career/[Career Website]
+|https://chaldal.tech/[Engineering and Career Website],
+https://chaldal.com/[Main Website]
 
 |Chumbok IT
 |_Remote_
@@ -206,6 +215,11 @@ https://github.com/ChumbokIT[Github]
 |.NET, Java, Spring, Python, AngularJS
 |http://www.dohatec.com/[Website]
 
+|Embedded Logic Operations (ELO)
+|39, Bir Uttam C.R Dutta Road, Dhaka [Remote First]
+|Node, React, Angular, Nextjs, Nestjs, PHP, Laravel, AWS, Docker, Mongo, PostgreSQL, MySQL/MariaDB, Google Firebase, Flutter, WordPress, Cypress, UI/UX
+|https://elobyte.com/[Website]
+
 |Enosis Solutions (USA)
 |House - 27 Rd No 8, Gulshan-1, Dhaka-1212
 |Java, PHP, Python, C#
@@ -284,6 +298,10 @@ https://github.com/ChumbokIT[Github]
 |Java, Kotlin, NodeJS, Apache, Spring Framework, JUnit, Mokito, Mysql, Jenkins, AWS
 |https://www.hsenidmobile.com/[Website]
 
+|HypeScout
+|Banani, Road 2/1, Dhaka-1212.
+|JavaScript, React, Node, Mongoose, Flutter, Swift.
+|https://www.hypescout.co/[Website]
 
 |IBCS-Primax
 |House 51, Road 10A, Dhanmondi R/A, Dhaka-1209, Bangladesh
@@ -350,6 +368,11 @@ https://github.com/ChumbokIT[Github]
 |
 |http://www.israttstech.com/[Website]
 
+|ITmedicus
+|Eastern Housing, Basherpool, Demra, Bangladesh
+|PHP, Laravel, Java, Kotlin, Dart
+|http://itmedicus.com/[Website]
+
 |===
 
 ==== Alphabetical Order: J - L
@@ -364,7 +387,7 @@ https://github.com/ChumbokIT[Github]
 |JoulesLabs
 |A-6, 6th Floor, House 666/668, Road 09, Avenue 04, Dhaka 1216
 |Wordpress, HTML5, CSS3, JavaScript, React
-|https://jouleslabs.com/
+|https://jouleslabs.com/[Website]
 
 |Kaz Software
 |28/1 Eskaton Garden, Dhaka, Bangladesh
@@ -466,20 +489,30 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |Java, J2EE, Spring, Hibernate, Tomcat, Oracle, MySQL, MySQL-Server, JSP, JSTL
 |https://newgen-bd.com/[Website]
 
-|Newscred (USA)
-|Green Grandeur (4th ,10th and 13th floor), Plot 58/E, Kemal Ataturk Avenue, Dhaka
-|Python, NodeJS, Angular2, Scala, MongoDB
-|https://www.newscred.com/[Website]
+|Newroz Technologies Limited
+|Mirpur DOHS, House 140, Road 04 Avenue 4, Dhaka 1216
+|Java, Spring Boot, Flutter, Kotlin, React.
+|https://www.newroztech.com/[Website]
+
+|New Technology Systems Limited
+|500 Al Madani Road, Sholok Bahar, Chittagong, Bangladesh
+|PHP, MySQL, Oracle, Software development, MongoDB, JavaScript, React JS 
+|https://ntsctgbd.com[Website]
 
 |NetCoden Inc
 |Suite: B-7 (7th Floor), 2/2, Pallabi (Main Road), Mirpur 11.5, Dhaka-1216 , Bangladesh
 |Node.js, Vue.js, React, C++, Android, Php, Laravel, SQL
 |https://netcoden.com/[Website]
 
-|Nybbles System Limited
+|Nybbles System Limited (NybSys)
 |House: 03, Road: 08, Shahida Khan Tower (1st & 2nd Floor), Section-6, Mirpur, Dhaka 1216
-|C#, Net Framework, Asp.Net MVC, Asp.Net Core
+|C#, .Net Framework, Asp.Net MVC, Asp.Net Core, Java, Kotlin, Swift, Objective C, Dart, Angular JS
 |https://www.nybsys.com[Website]
+
+|Optimizely (formerly Newscred) (USA)
+|Green Grandeur (4th ,10th and 13th floor), Plot 58/E, Kemal Ataturk Avenue, Dhaka
+|Python, NodeJS, Angular2, Scala, MongoDB
+|https://www.optimizely.com/[Website]
 
 |Orbund LLC
 |Bosila, Mohammadpur, Dhaka, Bangladesh
@@ -497,6 +530,12 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 ==== Alphabetical Order: P - R
 |===
 |Company Name |Office location |Technologies | Web presence
+
+
+|Paperfly Ltd
+|SKS Tower, Level 5, Mohakhali, Dhaka-1212.
+|React, Vue, PHP, Laravel.
+|https://www.paperfly.com.bd/[Website]
 
 |Pathao Ltd
 |Road 49, Genetic Baro Bhuiyan Tower, Gulshan-2, Dhaka
@@ -653,6 +692,12 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |.NET, C#, Java, J2EE, Spring, PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL, SQL Server, Oracle, HTML, SCSS, LESS, jQuery, VueJS, Android, Ionic
 |https://technovista.com.bd/[Website]
 
+
+|ThemeXpert
+|Level - 12, Suite - 1202, SEL HUQ SKYPARK, 23/2 Mirpur Road, Dhaka 1207.
+|Joomla, PHP, Laravel, Codeigniter JavaScript, React.
+|https://www.themexpert.com/[Website]
+
 |Therap (USA)
 |House 47, Road 4, Block C, Banani, Dhaka 1213
 |Java, J2EE
@@ -754,6 +799,13 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |JavaScript, Node, React, Next, MongoDB, Android, iOS 
 |http://www.zaynax.com[Website]
 
+
+|YOTECH Limited
+|Bangladesh Office9/A-2 8th floor, Ananda Tower Shopping Complex, Dhupadighir Uttor Par, Sylhet.
+|JavaScript, Node, React, Next, MongoDB, Android, Flutter, iOS 
+|https://www.yotech.ltd[Website]
+
+
 |===
 
 ==== Alphabetical Order: 1 - 9
@@ -764,6 +816,11 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Road-4, House- 54, Level- 3, Mohanagar Project, West Rampura Dhaka- 1219, Bangladesh
 |PHP, Laravel , Java, Android, jQuery, MySQL
 |http://2aitbd.com/[Website]
+
+|6amTech
+|House 666/668, Road 09 Dhaka, 1216, Bangladesh
+|PHP, Laravel , Flutter, React, Wordpress
+|https://6amtech.com[Website]
 
 |===
 
