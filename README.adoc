@@ -509,6 +509,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |C#, .Net Framework, Asp.Net MVC, Asp.Net Core, Java, Kotlin, Swift, Objective C, Dart, Angular JS
 |https://www.nybsys.com[Website]
 
+|Ollyo
+|443/444, Dumni, Khilkhet, Dhaka,Bangladesh
+|Themeum, Joomshaper, Icofont
+|https://www.ollyo.com[Website]
+
 |Optimizely (formerly Newscred) (USA)
 |Green Grandeur (4th ,10th and 13th floor), Plot 58/E, Kemal Ataturk Avenue, Dhaka
 |Python, NodeJS, Angular2, Scala, MongoDB
