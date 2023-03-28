@@ -444,6 +444,7 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |https://www.medinatech.co//[Website],
 https://www.facebook.com/medinatech.co/[Facebook],
 https://www.linkedin.com/company/medina-tech/[LinkedIn]
+
 |Metafour Asia
 |Takia Center (7th Floor), 39 Sonargaon Janapath, Sector 7, Uttara, Dhaka 1230
 |Java, Spring
