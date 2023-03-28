@@ -438,10 +438,12 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |https://www.mazegeek.com/[Website]
 
 |Medina Tech Ltd.
-|*Bangladesh Office:* House: 25, Road: 4, Block: F, Banani, Dhaka 1213, Bangladesh + 
+|*Bangladesh Office:* 7th Floor, Wasi Tower, ECB Chattar, Matikata Road, Dhaka Cantonment, Dhaka-1206 + 
 *USA Office:*  54w 40th St, We Work Space - Medina Tech Limited, New York, NY 10018, USA
-|Python, Node.js, Django, PHP, React, Vue, AI, Machine Learning, Unity, Android, IOS, AWS 
-|https://www.medinatech.co//[Website]
+|Python, Node.js, Django, PHP, React, Next.js, Vue, AI, Machine Learning, Unity, AR, Android, IOS, React Native, AWS 
+|https://www.medinatech.co//[Website],
+https://www.facebook.com/medinatech.co/[Facebook],
+https://www.linkedin.com/company/medina-tech/[LinkedIn]
 
 |Metafour Asia
 |Takia Center (7th Floor), 39 Sonargaon Janapath, Sector 7, Uttara, Dhaka 1230
