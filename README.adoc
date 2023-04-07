@@ -501,6 +501,11 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |PHP, MySQL, Oracle, Software development, MongoDB, JavaScript, React JS 
 |https://ntsctgbd.com[Website]
 
+|Nextech Limited
+|20/2, West Panthopath, 2nd Floor Dhaka-1205, Bangladesh
+|MyBilling ISP ERP,E-Commerce Service,Network Solutions,Security Solutions
+|https://nextech.com.bd[Website]
+
 |NetCoden Inc
 |Suite: B-7 (7th Floor), 2/2, Pallabi (Main Road), Mirpur 11.5, Dhaka-1216 , Bangladesh
 |Node.js, Vue.js, React, C++, Android, Php, Laravel, SQL
