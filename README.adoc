@@ -503,7 +503,7 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 
 |Nextech Limited
 |20/2, West Panthopath, 2nd Floor Dhaka-1205, Bangladesh
-|MyBilling ISP ERP,E-Commerce Service,Network Solutions,Security Solutions
+|PHP, Laravel, Vue.js, SQL
 |https://nextech.com.bd[Website]
 
 |NetCoden Inc
