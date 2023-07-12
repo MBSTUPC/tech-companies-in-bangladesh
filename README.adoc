@@ -379,6 +379,11 @@ https://github.com/ChumbokIT[Github]
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|Jatri Services Limited
+|Road 24, House 15, Gulshan-02, Dhaka 1212
+|Web App, Mobile App, IoT
+|https://www.jatri.co[Website]
+
 |Joomshaper
 |Navana Newbury Place, 4/1/A Sobhanbag Rd, Dhaka-1205
 |Joomla, Wordpress, HTML5, CSS3, JavaScript, React
