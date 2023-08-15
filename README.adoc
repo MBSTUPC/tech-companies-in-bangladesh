@@ -22,6 +22,11 @@ List of tech companies to help developers to find jobs.
 |JavaScript, React, Wordpress
 |http://vumobile.biz/[Website]
 
+|Anchorblock Technology
+|Block C House, 57 Rd Number 4, Dhaka 1213
+|JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Andoid, Solidity, Smart Contact, Machine Learning, AWS
+|https://anchorblock.ai/[Website]
+
 |Appnap
 |Ranks Business Center (5th Floor), Ka-218/1, Pragati Sarani, Kuril, Dhaka-1229
 |iOS
