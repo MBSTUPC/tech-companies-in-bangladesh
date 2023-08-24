@@ -363,6 +363,11 @@ https://github.com/ChumbokIT[Github]
 |JavaScript, Python, Django, Wordpress, PHP
 |http://invento.com.bd/[Website]
 
+|Inverse.AI
+|11 th floor, Ananda Tower, Jail Rd, Sylhet 3100
+|Web, Android, iOS
+|https://inverseai.com/[Website]
+
 |IPvision
 |House 57, Road 8, Block D, Niketon, Dhaka-1212
 |Java
@@ -814,7 +819,7 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |YOTECH Limited
 |Bangladesh Office9/A-2 8th floor, Ananda Tower Shopping Complex, Dhupadighir Uttor Par, Sylhet.
-|JavaScript, Node, React, Next, MongoDB, Android, Flutter, iOS 
+|JavaScript, Node, Angular, React, Next, MongoDB, Android, Flutter, iOS 
 |https://www.yotech.ltd[Website]
 
 
