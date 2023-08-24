@@ -287,6 +287,12 @@ https://github.com/ChumbokIT[Github]
 |Artificial Intelligence and automation, Cyber security, SaaS, Digital marketing and content development
 |http://genexinfosys.com/[Website]
 
+
+|Genuity Systems Ltd
+|Mirpur 11 bus stand, Opposite to Shishu Academy, Mirpur, Dhaka.
+|Artificial Intelligence and automation, Fintech, SaaS, Mobile Development, Web Development
+|https://genusys.us/[Website]
+
 |Giga Tech Limited
 |SAM Tower (Level 7)House No. 4, Road No 22, Gulshan-1, Dhaka-1212,Bangladesh
 |Artificial Intelligence, Deep Learning, Blockchain, Java, Python, Django, JavaScript, .NET
