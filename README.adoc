@@ -42,6 +42,11 @@ List of tech companies to help developers to find jobs.
 |Java, Python, PHP, Docker, Kubernetes, Spring, JavaScript, AWS, Machine Learning
 |http://apurba.com.bd[Website]
 
+|Aqualink Bangladesh Ltd.
+|Road 28, House 26, Flat 2(2nd Floor), Block K, Banani  Dhaka, Bangladesh
+|Flutter, Machine Learning, Laravel, Embedded System, Python
+|https://aqualinkbangladesh.com[Website]
+
 |Augmedix Inc.
 |SS Steel Building, Suite 203, 17/C Panthapath, Dhaka
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
