@@ -246,7 +246,7 @@ https://github.com/ChumbokIT[Github]
 |https://evaly.com.bd/career/[Website]
 
 |Exabyting Technologies
-|Remote
+|8th Floor, House# 470, Road# 31, Mohakhali DOHS, Dhaka 1212, Bangladesh
 |JAVA, Spring, PHP, Laravel, JavaScript, NodeJS, ExpressJS, Python, Django, REST, Microservices, SQL, NoSQL, SQS, SNS
 |http://exabyting.com/[Website]
 
