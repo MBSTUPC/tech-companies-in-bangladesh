@@ -664,6 +664,11 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Java, C, C++, Android, ASP.NET
 |https://www.shebatech.com.bd/[Website]
 
+|ShellBeeHaken
+|Level 6 & 7, House 1077, Road 6A, Avenue 8, Mirpur DOHS, Dhaka 1216
+|Java, Javascript, React, Next.Js, Electron, React Native, Node, Spring Boot, Rest API, MongoDB, MySQL, Redis, AWS, Lambda, SQS, ElasticSearch
+|https://shellbeehaken.com/[Website]
+
 |Silicon Orchard Limited
 |House 01, Avenue 01, Block D, Section 11, Mirpur, Dhaka 1216, Bangladesh
 |PHP, NodeJS, ReactJS, Block chain, Android, iOS
