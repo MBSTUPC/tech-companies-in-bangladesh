@@ -666,7 +666,7 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 
 |ShellBeeHaken
 |Level 6 & 7, House 1077, Road 6A, Avenue 8, Mirpur DOHS, Dhaka 1216
-|Java, MERN, Scala, Ruby on Rails, Flutter, Typescript
+|Java, Javascript, React, Next.Js, Electron, React Native, Node, Spring Boot, Rest API, MongoDB, MySQL, Redis, AWS, Lambda, SQS, ElasticSearch
 |https://shellbeehaken.com/[Website]
 
 |Silicon Orchard Limited
