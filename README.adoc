@@ -931,8 +931,8 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 |http://www.orbitax.com/[Website]
 
 |ShareTrip
-|5th Floor, Taneem Square, ShareTrip Ltd, Kemal Ataturk Ave, Dhaka 1213
-|PHP, NodeJS, ReactJS, Android, iOS 
+|Plot 1136/A, JCX Business Tower, Japan Street, Block # I,Bashundhara R/A, Dhaka - 1229, Bangladesh
+|PHP, NodeJS, ReactJS, Android, iOS, DevOps, AWS, Docker
 |https://sharetrip.net/[Website]
 
 |Shopup
