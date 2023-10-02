@@ -47,6 +47,14 @@ List of tech companies to help developers to find jobs.
 |Flutter, Machine Learning, Laravel, Embedded System, Python
 |https://aqualinkbangladesh.com[Website]
 
+|Astha IT
+|Sel Rose N Dale, 116 Kazi Nazrul Islam Ave, Dhaka – 1205, Bangladesh.
+|Java, Spring Boot, JavaScript, React, Vue.js, Angular, HTML5, CSS, UI/UX, Android, AWS, Docker, Kubernetes, Selenium, Testsigma
+|https://www.asthait.com/[Website]
+https://www.linkedin.com/company/asthait/[LinkedIn]
+https://www.facebook.com/asthait[Facebook]
+https://twitter.com/AsthaIT[Twitter]
+
 |Augmedix Inc.
 |SS Steel Building, Suite 203, 17/C Panthapath, Dhaka
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
