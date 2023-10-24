@@ -27,6 +27,11 @@ List of tech companies to help developers to find jobs.
 |JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Andoid, Solidity, Smart Contact, Machine Learning, AWS
 |https://anchorblock.ai/[Website]
 
+|Apex DMIT
+|Catharsis Tower, (6th Floor) House #133, Road #12, Block - E, Banani, Dhaka, 1213
+|PHP, JavaScript, Python, Flutter
+|https://www.apexdmit.com/[Website]
+
 |Appnap
 |Ranks Business Center (5th Floor), Ka-218/1, Pragati Sarani, Kuril, Dhaka-1229
 |iOS
