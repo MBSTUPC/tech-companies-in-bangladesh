@@ -273,6 +273,11 @@ https://github.com/ChumbokIT[Github]
 |C, C++, Angular, SQL
 |https://www.fiftytwo.com[Website]
 
+|FIGLAB
+|Suite #3B, Haque Chamber, 89/2 West Panthapath, Dhaka, Bangladesh.
+|PHP, Database
+|https://figlab.io/[Website]
+
 |Flyte Solutions 
 |House 11, Level C1, The Reeve, Rd 33, Gulshan 1, Dhaka 1212, Bangladesh
 |JavaScript, Node, React, React Native, Android, iOS
