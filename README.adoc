@@ -273,6 +273,11 @@ https://github.com/ChumbokIT[Github]
 |C, C++, Angular, SQL
 |https://www.fiftytwo.com[Website]
 
+|FIGLAB
+|Suite #3B, Haque Chamber, 89/2 West Panthapath, Dhaka, Bangladesh.
+|PHP, Database
+|https://figlab.io/[Website]
+
 |Flyte Solutions 
 |House 11, Level C1, The Reeve, Rd 33, Gulshan 1, Dhaka 1212, Bangladesh
 |JavaScript, Node, React, React Native, Android, iOS
@@ -747,6 +752,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |SEL Trident Tower ( 14th Floor), 57, Purana Paltan Line, VIP Road, Dhaka, Bangladesh.
 |PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic
 |https://tappware.com/[Website]
+
+|TechnoNext
+|House-97, Sohrawardi Avenue, Baridhara Diplomatic Zone, Dhaka-1212
+|JavaScript, React, Golang, DevOps
+|https://www.digigate360.com/[Website]
 
 |TechnoVista Limited
 |House: 4, Road: 9/B, Nikunja–1, Khilkhet, Dhaka, Bangladesh.
