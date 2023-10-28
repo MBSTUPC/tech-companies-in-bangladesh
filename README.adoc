@@ -755,7 +755,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 
 |TechnoNext
 |House-97, Sohrawardi Avenue, Baridhara Diplomatic Zone, Dhaka-1212
-| JavaScript, React, Golang, DevOps
+|JavaScript, React, Golang, DevOps
 |https://www.digigate360.com/[Website]
 
 |TechnoVista Limited
