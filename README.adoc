@@ -865,6 +865,11 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Joomla, Wordpress, Drupal, JavaScript, PHP, HTML, CSS
 |https://xpeedstudio.com/[Website]
 
+|XpeedLab
+|1207, Mohammadia Housing Ltd, Road: 7, Dhaka 1207
+|nodeJS, ReactJS, Angular, Java, Flutter, mongoDB 
+|https://xpeedlab.tech/[Website]
+
 |Zaynax Limited
 |House 3, Road 20, Gulshan Circle 1, Bashati Dream Apartment, Suite A-7, 7th Floor, Dhaka 1212
 |JavaScript, Node, React, Next, MongoDB, Android, iOS 
