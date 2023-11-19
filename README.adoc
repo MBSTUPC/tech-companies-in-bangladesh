@@ -514,6 +514,10 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Java Spring, Laravel, Symfony, AngularJS, Amazon Web Services
 |https://monstar-lab.com/global/[Website]
 
+|Namespace IT
+|Lift 4, House 13, Road 11, Sector 11, Uttara, Dhaka
+|Laravel, React, Next.js, Django, Machine Learning
+|https://www.namespaceit.com/[Website]
 
 |Nascenia
 |6/14, Block A, Lalmatia, Dhaka
