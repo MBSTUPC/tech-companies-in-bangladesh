@@ -603,6 +603,11 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Android, IOS, golang, PHP, kubernetes
 |https://pathao.com/[Website]
 
+|Penta Global Ltd
+|Sheba House, 7th ﬂoor, Plot 34, Road 46, Gulshan-2, Dhaka-1212
+|Java, Python, React, Node, PostgreSQL, kubernetes
+|https://www.pentabd.com/[Website]
+
 |PixelNet Technologies Ltd
 |39 Purana Paltan, Level-5, Suite-B, Dhaka-1000, Bangladesh
 |PHP, MySQL, Magento, Rails, JavaScript, Ionic, MongoDB, Express, ReactJS, NodeJS
