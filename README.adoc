@@ -52,6 +52,11 @@ List of tech companies to help developers to find jobs.
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
 |https://www.augmedix.com/[Website]
 
+|Avenir IP Limited
+|Concord Honeydew, Office Suite 201, House-18, Road-101, Gulshan-2, Dhaka 1212
+|PHP, nodeJS,ReactJS, Android, Swift
+|https://aveniripltd.com/
+
 |authLab
 |24/a Shah Farid Rd, Sylhet, Bangladesh
 |WordPress, JavaScript, React, Vue, JQuery, AWS, PHP, Laravel
