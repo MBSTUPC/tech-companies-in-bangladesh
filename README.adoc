@@ -42,6 +42,11 @@ List of tech companies to help developers to find jobs.
 |Golang, Docker, Kubernetes, Vue.js
 |https://www.appscode.com/[Website]
 
+|Appstick
+|85, KDA Outer Bypass Rd, Khulna 9100
+|iOS, Android, Flutter, React Native
+|https://appstick.com.bd/[Website]
+
 |Apurba Technologies Ltd.
 |Road 22, House B/158, Flat 3(2nd Floor), Mohakhali New DOHS  Dhaka, Bangladesh
 |Java, Python, PHP, Docker, Kubernetes, Spring, JavaScript, AWS, Machine Learning
