@@ -263,6 +263,11 @@ https://github.com/ChumbokIT[Github]
 |Java
 |http://www.escenic.com/[Website]
 
+|E Soft Limited
+|Rangs Babylonia, Level 7, 246, Bir Uttam Mir Shawkat Road, Tejgaon I/A, Tejgaon, Dhaka-1208
+|Python, FastApi, Streamlit, PostgreSQL, Docker, Linux 
+|https://www.linkedin.com/company/esoftlimited/
+
 |Evaly Limited
 |House 8, Road 14, Dhanmondi, Dhaka-1209
 |NodeJS, ExpressJS, Python, Django, GoLang, REST, Microservices, SQL, NoSQL, SQS, SNS, MQTT
