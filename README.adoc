@@ -823,6 +823,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Web development, hosting, google ads, ERP solutions
 |https://www.techflixbd.com[Website]
 
+|Tekarsh
+|House# 259, Level - 2, Road# 19, Dhaka 1206
+|Java, Spring, JavaScript
+|https://tekarsh.com[Website]
+
 |Triva It Limited
 |38/1/1 Vagolpur Lane, Hazaribagh Park, Dhaka 1205
 |Graphic Design, UI/UX, Motion Graphics, Web Design
