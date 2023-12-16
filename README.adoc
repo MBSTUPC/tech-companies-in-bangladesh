@@ -417,6 +417,11 @@ https://github.com/ChumbokIT[Github]
 |Java
 |http://ipvision.ca/[Website]
 
+|IQVIA, Dhaka
+|51, 52 Bir Uttam AK Khandakar Road, Dhaka 1212
+|.Net, Python, Javascript, Angular
+|https://www.iqvia.com/[Website]
+
 |Isratts Technologies
 |House 58, Road 05, O R Nizam Rd R/A, GEC, Chattogram, Bangladesh
 |
