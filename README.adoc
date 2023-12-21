@@ -431,6 +431,11 @@ https://github.com/ChumbokIT[Github]
 |PHP, Laravel, Java, Kotlin, Dart
 |http://itmedicus.com/[Website]
 
+|iTech Soft Solution
+|118/2, Sheikh Para Main Road, Sonadanga, Khulna, Bangladesh -9100
+|PHP, Laravel, Python, Java, Kotlin
+|https://itech-softsolutions.com/[Website]
+
 |===
 
 ==== Alphabetical Order: J - L
