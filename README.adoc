@@ -782,6 +782,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic
 |https://tappware.com/[Website]
 
+|Technohaven Company Limited
+|Seleena Bhaban, House #169 (6th Floor), Road #03, Mohakhali DOHS, Dhaka 1206
+|NodeJS,Angular,Rust,React,Android,iOS,Machine Learning,Blockchain
+|https://technohaven.com[Website]
+
 |TechnoNext
 |House-97, Sohrawardi Avenue, Baridhara Diplomatic Zone, Dhaka-1212
 |JavaScript, React, Golang, DevOps
