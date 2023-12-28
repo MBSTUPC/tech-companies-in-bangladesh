@@ -677,6 +677,14 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Desktop, Mobile, Web, System & Network, Cloud Computing, AWS, Azure & Open Source DevOps
 |http://www.relisource.com[Website]
 
+|RiseUp Labs
+|Floor-14, Tropical Alauddin Tower, Plot No-32/C, Road-2, Sector-3, Uttara, Dhaka-1230  
+  
+B6-B7, Plot-35, Sonargaon Janapath Road,
+Sector-7, Uttara, Dhaka-1230, Bangladesh
+|Flutter,Swift,Kotlin,Typescript,React,Java,DJango,NodeJS,SQL etc.
+|https://riseuplabs.com[Website]
+
 |Rokomari
 |2/1/E, Arambag, Eden Center, Motijheel, Dhaka-1000
 |Java, Spring
