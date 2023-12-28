@@ -731,6 +731,15 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Web and Mobile application, Virtual, Augmented and Mixed reality, Motion Graphics, Animation, Visual Effects
 |https://singularitybd.com/[Website]
 
+|SJ Innovation
+|House - 281/A (Level - 1),
+Road - 19/C, New DOHS, Mohakhali, Dhaka - 1206  
+  
+AHIL-802 (7th Floor),
+Al-Hamra shopping city, Zindabazar, Sylhet.
+|React,Objective C,Java,Kotlin,Flutter,Swift,Blockchain
+|https://sjinnovation.com[Website]
+
 |Spring Rain IT
 |7th Floor, Commercial Cove, House 56/C , Road 132, Dhaka 1212, Bangladesh.
 |JavaScript, Node, React, React Native, Android
