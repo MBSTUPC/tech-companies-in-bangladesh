@@ -792,6 +792,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |.NET, C#, Java, J2EE, Spring, PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL, SQL Server, Oracle, HTML, SCSS, LESS, jQuery, VueJS, Android, Ionic
 |https://technovista.com.bd/[Website]
 
+|Telcobright Limited
+|Venus Complex (Level 5), Middle Badda, Dhaka-1212, Bangladesh
+|Java, Springboot, C#, .Net, JavaScript(React), Android
+|https://www.linkedin.com/company/telcobright-limited/[LinkedIn], https://www.facebook.com/telcobright[Facebook]
+
 |ThemeXpert
 |Level - 12, Suite - 1202, SEL HUQ SKYPARK, 23/2 Mirpur Road, Dhaka 1207.
 |Joomla, PHP, Laravel, Codeigniter JavaScript, React.
