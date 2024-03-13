@@ -347,6 +347,11 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn],
 |Java, PHP
 |https://www.grameensolutions.com/[Website]
 
+|Grit Technologies Limited
+|Level 4, Vision 2021 Tower, 49 Kawran Bazar, Dhaka 1215
+|Javascript, Python, Go, PHP, PostgreSQL, MongoDB, React Native, Figma, Cypress, Docker, AWS, Microservices, IoT, LLM, XR
+|https://www.grit0.com/[Website]
+
 |hSenid Mobile Solutions Limited
 |HR Bhaban (6th Floor), 100, Br Uttom A.K. Khandaker Sarak, Mohakhali C/A, Dhaka 1212
 |Java, Kotlin, NodeJS, Apache, Spring Framework, JUnit, Mokito, Mysql, Jenkins, AWS
