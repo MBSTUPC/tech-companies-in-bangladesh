@@ -679,9 +679,6 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 
 |RiseUp Labs
 |Floor-14, Tropical Alauddin Tower, Plot No-32/C, Road-2, Sector-3, Uttara, Dhaka-1230  
-  
-B6-B7, Plot-35, Sonargaon Janapath Road,
-Sector-7, Uttara, Dhaka-1230, Bangladesh
 |Flutter,Swift,Kotlin,Typescript,React,Java,DJango,NodeJS,SQL etc.
 |https://riseuplabs.com[Website]
 
@@ -742,9 +739,6 @@ Sector-7, Uttara, Dhaka-1230, Bangladesh
 |SJ Innovation
 |House - 281/A (Level - 1),
 Road - 19/C, New DOHS, Mohakhali, Dhaka - 1206  
-  
-AHIL-802 (7th Floor),
-Al-Hamra shopping city, Zindabazar, Sylhet.
 |React,Objective C,Java,Kotlin,Flutter,Swift,Blockchain
 |https://sjinnovation.com[Website]
 
