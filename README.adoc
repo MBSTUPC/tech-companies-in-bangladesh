@@ -442,11 +442,16 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn],
 |PHP, Laravel, Java, Kotlin, Dart
 |http://itmedicus.com/[Website]
 
+
 |Innovative Software
 |Behind Venus Auto, Chuknagar, Khulna Road Bangladesh
 |Java, Android, Python
 |http://innovativesoftware.eu/[Website]
 
+|IXORA Solution
+|Jahangir Tower (7th Floor), M-5, Section-14, Mirpur, Dhaka-1206.
+|React, Vue, TypeSCript, NodeJS, Django, SpringBoot, Flutter, Swift, SQL, MongoDB etc.
+|https://ixorasolution.com[Website]
 |===
 
 ==== Alphabetical Order: J - L
@@ -685,6 +690,11 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Desktop, Mobile, Web, System & Network, Cloud Computing, AWS, Azure & Open Source DevOps
 |http://www.relisource.com[Website]
 
+|RiseUp Labs
+|Floor-14, Tropical Alauddin Tower, Plot No-32/C, Road-2, Sector-3, Uttara, Dhaka-1230  
+|Flutter, Swift, Kotlin, Typescript, React, Java, DJango, NodeJS, SQL etc.
+|https://riseuplabs.com[Website]
+
 |Rokomari
 |2/1/E, Arambag, Eden Center, Motijheel, Dhaka-1000
 |Java, Spring
@@ -735,6 +745,12 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Level 5, House 147, Lane 1, Baridhara DOHS, Dhaka 1206, Bangladesh
 |Web and Mobile application, Virtual, Augmented and Mixed reality, Motion Graphics, Animation, Visual Effects
 |https://singularitybd.com/[Website]
+
+|SJ Innovation
+|House - 281/A (Level - 1),
+Road - 19/C, New DOHS, Mohakhali, Dhaka - 1206  
+|React, Objective C, Java, Kotlin, Flutter, Swift, Blockchain
+|https://sjinnovation.com[Website]
 
 |Spring Rain IT
 |7th Floor, Commercial Cove, House 56/C , Road 132, Dhaka 1212, Bangladesh.
@@ -791,6 +807,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |SEL Trident Tower ( 14th Floor), 57, Purana Paltan Line, VIP Road, Dhaka, Bangladesh.
 |PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic
 |https://tappware.com/[Website]
+
+|Technohaven Company Limited
+|Seleena Bhaban, House #169 (6th Floor), Road #03, Mohakhali DOHS, Dhaka 1206
+|NodeJS, Angular, Rust, React, Android, iOS, Machine Learning, Blockchain
+|https://technohaven.com[Website]
 
 |TechnoNext
 |House-97, Sohrawardi Avenue, Baridhara Diplomatic Zone, Dhaka-1212
