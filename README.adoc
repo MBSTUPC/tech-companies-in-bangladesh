@@ -236,6 +236,11 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn],
 |JavaScript, Java, React, Node, Google Maps, Firebase, Flutter
 |https://www.dingi.tech/[Website]
 
+|Dizi Nova Limited
+|House 19, Road 20, Sector 13, Dhaka, Dhaka 1230, Bangladesh
+|JavaScript, C#, React, .Net, Flutter
+|http://www.dizinova.com/[Website]
+
 |Dream71
 |House No 16 (Level 4), Bashundhara R/A, Main Road, Block – A, Dhaka-1229, Bangladesh.
 |PHP, Laravel, JavaScript, MYSQL, Andoid, Flutter, iOS
