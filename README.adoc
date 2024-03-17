@@ -539,6 +539,12 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Java, JavaScript, Angular, .NET, AWS
 |https://www.fellowdigitals.com/metatude[Website], https://www.linkedin.com/company/metatude-asia-ltd/[LinkedIn]
 
+|Mevrik Ltd.
+|_Bangladesh Office:_ House 337, Road 5, Avenue 3, Mirpur DOHS, Dhaka 1216, Bangladesh +
+_UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
+|Python, Django, FastAPI, PHP, Laravel, JavaScript, React, Tailwind CSS, AWS, Docker, Kubernetes, LLM, Redis, Kafka, Clickhouse, MySQL, PostgreSQL, MongoDB, Elasticsearch, Celery, Nginx, Gunicorn, GitHub
+|https://www.mevrik.com/[Website], https://www.linkedin.com/company/mevrik/[LinkedIn], https://twitter.com/mevrikdcx[Twitter], https://www.facebook.com/mevrikdcx[Facebook], https://www.facebook.com/lifeatmevrik[Life at Mevrik Dhaka], https://www.instagram.com/lifeatmevrik[Instagram], https://www.youtube.com/@mevrikdcx[YouTube], https://www.crunchbase.com/organization/mevrik[Crunchbase]
+
 |Millennium Information Solution Ltd.
 |49 Kawran Bazar Rd, Dhaka 1215, Bangladesh
 |Java, JEE, Spring,RESTful APIs
