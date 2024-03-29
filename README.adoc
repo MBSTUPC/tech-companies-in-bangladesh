@@ -804,6 +804,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Web development, hosting, google ads, ERP solutions
 |https://www.techflixbd.com[Website]
 
+|Themeperch Limited
+|House 346 (2nd floor), Road 25, New DOHS, Mohakhali, Dhaka 1206
+|HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Next js, PHP, WordPress
+|https://themeperch.net[Website]
+
 |Triva It Limited
 |38/1/1 Vagolpur Lane, Hazaribagh Park, Dhaka 1205
 |Graphic Design, UI/UX, Motion Graphics, Web Design
