@@ -20,6 +20,11 @@ List of tech companies to help developers to find jobs.
 |JavaScript, React, Wordpress
 |http://vumobile.biz/[Website]
 
+|Adventure Dhaka Limited 
+|Head Office: Autograph Tower, 67-68, Kemal Atarturk Avenue, Banani, 17th & 8th Floor, Dhaka, Dhaka 1213
+|Golang, JAVA, Swift, Flutter, Javascript, React, Nextjs, DevOps
+|https://adventurekk.com/company/about/[Website]
+
 |Anchorblock Technology
 |Block C House, 57 Rd Number 4, Dhaka 1213
 |JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Andoid, Solidity, Smart Contact, Machine Learning, AWS
