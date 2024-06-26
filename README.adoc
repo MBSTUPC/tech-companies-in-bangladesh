@@ -615,6 +615,11 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |Node.js, Vue.js, React, C++, Android, Php, Laravel, SQL
 |https://netcoden.com/[Website]
 
+|Nice Power & IT Solution Ltd.
+|49 Kawran Bazar, Vision 2021 Tower- 1 (Software Technology Park) 8th Floor, Dhaka-1215, Bangladesh.
+|Java, Spring, PHP, MySQL, JavaScript, jQuery, AJAX
+|https://www.nicegroupbd.com/[Website]
+
 | Nogor Solutions Limited
 | House No. 69 (2nd floor), Road No. 08, Block-D, Niketon, Gulshan-1, Dhaka-1212.
 | PHP(Laravel, cakePHP), Javascript(jQuery, Vue, VueX), MySQL, MongoDB, Docker
