@@ -43,7 +43,8 @@ List of tech companies to help developers to find jobs.
 |AppsCode Ltd.
 |Flat A2, House 4, Rd No. 10, Dhaka 1230
 |Golang, Docker, Kubernetes, Vue.js
-|https://www.appscode.com/[Website]
+|https://www.appscode.com/[Website] +
+https://www.linkedin.com/company/appscode/[LinkedIn]
 
 |Appstick
 |85, KDA Outer Bypass Rd, Khulna 9100
@@ -53,7 +54,8 @@ List of tech companies to help developers to find jobs.
 |Apurba Technologies Ltd.
 |Road 22, House B/158, Flat 3(2nd Floor), Mohakhali New DOHS Dhaka, Bangladesh
 |Java, Python, PHP, Docker, Kubernetes, Spring, JavaScript, AWS, Machine Learning
-|http://apurba.com.bd[Website]
+|http://apurba.com.bd[Website] +
+https://www.linkedin.com/company/apurba-technologies-ltd[LinkedIn]
 
 |Aqualink Bangladesh Ltd.
 |Road 28, House 26, Flat 2(2nd Floor), Block K, Banani Dhaka, Bangladesh
@@ -111,22 +113,25 @@ https://twitter.com/AsthaIT[Twitter]
 |Brac IT Services (biTS)
 |Homaira Bhaban, House 115, Road 5, Block B, Niketan, Gulshan 1, Dhaka 1212, Bangladesh
 |Java, Android, PHP
-|https://www.bracits.com[Website]
+|https://www.bracits.com[Website] +
+https://www.linkedin.com/company/bracits/[LinkedIn]
 
 |Braincraft Limited
 |House: 295, Road: 19/B, Mohakhali DOHS, Dhaka-1206
 |Android, Java, Go, Javascript, AngularJS, NodeJS
 |https://www.braincraftapps.com[Website]
 
-|Brain Station 23
+|Brain Station 23 PLC
 |8th floor, Plot 2, Amtoli, Bir Uttam AK Khandakar Rd Mohakhali Commercial Area, Dhaka-1212
 |Android, IOS, React, React-Native, Odoo, Xamarin, .Net, PHP, Python, Java, AEM, Sitecore
-|http://www.brainstation-23.com/[Website]
+|http://www.brainstation-23.com/[Website] +
+https://www.linkedin.com/company/brain-station-23-plc/[LinkedIn]
 
 |BJIT Ltd.
 |House-07, Road-2/C, Block-J, Baridhara, Dhaka-1212, Bangladesh
 |Java, JEE, Groovy, PHP, C#, Android, iOS, IoT, Fintech, AI
-|http://bjitgroup.com[Website]
+|http://bjitgroup.com[Website] +
+https://www.linkedin.com/company/bjit/[LinkedIn]
 
 |Brotecs Technologies Ltd (USA)
 |28, Shahjalal Avenue, Sector-4, Uttara, Dhaka, BD
@@ -620,7 +625,7 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |Java, Spring, PHP, MySQL, JavaScript, jQuery, AJAX
 |https://www.nicegroupbd.com/[Website]
 
-| Nogor Solutions Limited
+|Nogor Solutions Limited
 | House No. 69 (2nd floor), Road No. 08, Block-D, Niketon, Gulshan-1, Dhaka-1212.
 | PHP(Laravel, cakePHP), Javascript(jQuery, Vue, VueX), MySQL, MongoDB, Docker
 | https://www.nogorsolutions.com[Website]
@@ -633,12 +638,14 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |Ollyo
 |443/444, Dumni, Khilkhet, Dhaka, Bangladesh
 |Themeum, Joomshaper, Icofont
-|https://www.ollyo.com[Website]
+|https://www.ollyo.com[Website] +
+https://www.linkedin.com/company/ollyo/[LinkedIn]
 
 |Optimizely (formerly Newscred) (USA)
 |Green Grandeur (4th ,10th and 13th floor), Plot 58/E, Kemal Ataturk Avenue, Dhaka
 |Python, NodeJS, Angular2, Scala, MongoDB
-|https://www.optimizely.com/[Website]
+|https://www.optimizely.com/[Website] +
+https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |Orbund LLC
 |Bosila, Mohammadpur, Dhaka, Bangladesh
@@ -742,10 +749,11 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |PHP, Laravel, JavaScript, React, Angular, SQL, Flutter
 |https://www.sct-bangla.com/[Website]
 
-|Selise (Switzerland)
+|SELISE Digital Platforms (Switzerland)
 |House 5, MIDAS Center, Secure Link Services BD Ltd, Rd No. 27, Dhaka 1209
 |Android, IOS, AngularJS, NodeJS, Python, .Net
-|https://selise.ch/[Website]
+|https://selisegroup.com/[Website] +
+https://www.linkedin.com/company/selise/[LinkedIn]
 
 |ServicEngine Ltd.
 |House 8, Abbas Garden, DOHS Mohakhali, Dhaka-1206
@@ -822,7 +830,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Square Health Ltd.
 |House 18, Road 13, Uttara (Sector 7) Dhaka 1230, Bangladesh
 |Java, Angular, React, Android
-|https://squarehealth.com.bd[Website]
+https://career.squarehealth.com.bd/[Website]
 
 |Systems Solutions & Development Technologies Ltd. (SSD-TECH)
 |Uday Tower, Level 12, 57 & 57/A, Gulshan Avenue, Dhaka-1212, Bangladesh
@@ -859,15 +867,17 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Joomla, PHP, Laravel, Codeigniter JavaScript, React.
 |https://www.themexpert.com/[Website]
 
-|Therap (USA)
+|Therap (BD) Ltd.
 |House 47, Road 4, Block C, Banani, Dhaka 1213
 |Java, J2EE
-|https://therap.recruiterbox.com/[Website]
+|https://therap.recruiterbox.com/[Website] +
+https://www.linkedin.com/company/therapbd/[LinkedIn]
 
-|TigerIT
+|TigerIT Bangladesh Ltd.
 |House 21, Road 28, Block-K, Banani Model Town, Dhaka, 1213, Bangladesh
 |Java
-|http://www.tigerit.com/[Website]
+|http://www.tigerit.com/[Website] +
+https://www.linkedin.com/company/tigerit-bangladesh-limited/[LinkedIn]
 
 |TimeTackle (US)
 |Remote from Bangladesh
@@ -913,12 +923,16 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Vantage Labs (USA)
 |6th Floor, Dynasty Tower, Begum Rokeya Avenue, Mirpur 11, Dhaka, Bangladesh
 |Java, PHP, AngularJS
-|https://www.vantage.com/[Website] https://www.facebook.com/VantageLabsDhaka/[Facebook]
+|https://www.vantage.com/[Website] +
+https://www.facebook.com/VantageLabsDhaka/[Facebook]
 
-|Vivasoft
+|Vivasoft Limited
 |Floor 16, Ahmed Tower, 28, 30, Kemal Ataturk Ave, Banani, Dhaka 1213
 |Java, C#, React.js, GoLang, Python
-|https://www.vivasoftltd.com/[Website] https://www.facebook.com/VivasoftLtd[Facebook]
+|https://www.vivasoftltd.com/[Website] +
+https://www.facebook.com/VivasoftLtd[Facebook] +
+https://www.linkedin.com/company/vivasoftltd/[LinkedIn]
+
 
 |Walton Hi-Tech Industries Ltd.
 |Chandra, Kaliakoir, Gazipur
@@ -933,7 +947,8 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Welldev (Switzerland)
 |546/2 Rd No 13, Baridhara, Dhaka
 |Ruby on Rails, Android, iOS, ReactJS
-|https://www.welldev.io/[Website]
+|https://www.welldev.io/[Website] +
+https://www.linkedin.com/company/welldevintl/[LinkedIn]
 
 |Widespace (Sweden)
 |
@@ -1050,7 +1065,8 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 |Orbitax Bangladesh
 |113 Kazi Nazrul Islam Ave, Dhaka 1205
 |Java, JavaScript, Android, PHP
-|http://www.orbitax.com/[Website]
+|http://www.orbitax.com/[Website] +
+https://www.linkedin.com/company/orbitaxbd/[LinkedIn]
 
 |ShareTrip
 |Plot 1136/A, JCX Business Tower, Japan Street, Block # I, Bashundhara R/A, Dhaka-1229, Bangladesh
