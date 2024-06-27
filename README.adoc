@@ -704,7 +704,7 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |Retina Soft
 |House#4/A, Road#2 Metro Housing Rd, Dhaka 1207
 |iOS, Android, PHP, Javascript, React, Vue.js, Laravel 
-https://retinasoft.com.bd/[Website]
+|https://retinasoft.com.bd/[Website]
 
 |REVE Systems (Singapore)
 |REVE Centre, Plot-94, Purbachal Express Highway, Dumni, Khilkhet, Dhaka
