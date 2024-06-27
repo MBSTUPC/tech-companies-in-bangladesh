@@ -17,17 +17,17 @@ List of tech companies to help developers to find jobs.
 
 |Adplay Technologies (VU Mobile)
 |Head Office: 4th Floor, House- 114, Road-12, Block-E, Banani, Dhaka-1213
-|JavaScript, React, Wordpress
+|JavaScript, React, WordPress
 |http://vumobile.biz/[Website]
 
 |Adventure Dhaka Limited 
-|Head Office: Autograph Tower, 67-68, Kemal Atarturk Avenue, Banani, 17th & 8th Floor, Dhaka, Dhaka 1213
+|Head Office: Autograph Tower, 67-68, Kemal Ataturk Avenue, Banani, 17th & 8th Floor, Dhaka, Dhaka 1213
 |Golang, JAVA, Swift, Flutter, Javascript, React, Nextjs, DevOps
 |https://adventurekk.com/company/about/[Website]
 
 |Anchorblock Technology
 |Block C House, 57 Rd Number 4, Dhaka 1213
-|JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Andoid, Solidity, Smart Contact, Machine Learning, AWS
+|JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Android, Solidity, Smart Contact, Machine Learning, AWS
 |https://anchorblock.ai/[Website]
 
 |Apex DMIT
@@ -43,7 +43,7 @@ List of tech companies to help developers to find jobs.
 |AppsCode Ltd.
 |Flat A2, House 4, Rd No. 10, Dhaka 1230
 |Golang, Docker, Kubernetes, Vue.js
-|https://www.appscode.com/[Website] +
+|https://www.appscode.com/[Website]
 https://www.linkedin.com/company/appscode/[LinkedIn]
 
 |Appstick
@@ -54,7 +54,7 @@ https://www.linkedin.com/company/appscode/[LinkedIn]
 |Apurba Technologies Ltd.
 |Road 22, House B/158, Flat 3(2nd Floor), Mohakhali New DOHS Dhaka, Bangladesh
 |Java, Python, PHP, Docker, Kubernetes, Spring, JavaScript, AWS, Machine Learning
-|http://apurba.com.bd[Website] +
+|http://apurba.com.bd[Website]
 https://www.linkedin.com/company/apurba-technologies-ltd[LinkedIn]
 
 |Aqualink Bangladesh Ltd.
@@ -87,17 +87,17 @@ https://twitter.com/AsthaIT[Twitter]
 
 |Alchemy Software Limited
 |335, M.M Ali Road, Yahya Tower (6th Floor) Lalkhan Bazar, Chittagong, Bangladesh.
-|Java, Oracle, PHP, Wordpress, Laravel, .Net, Android
+|Java, Oracle, PHP, WordPress, Laravel, .Net, Android
 |https://alchemy-bd.com/[Website]
 
 |Bdtask
 |B-25, Mannan Plaza, 4th Floor, Khilkhet, Dhaka-1229, Bangladesh
-|Android, Web, Wordpress
+|Android, Web, WordPress
 |https://www.bdtask.com/[Website]
 
 |Binate Solutions
 |House-1148 (1st, 3rd, & 4th floor), Road 9A(Old-48), Mirpur DOHS, Dhaka-1216, Bangladesh
-|Java, Python, Ruby, Wordpress, Magento.
+|Java, Python, Ruby, WordPress, Magento.
 |https://www.binate-solutions.com/[Website]
 
 |Bit Mascot (Pvt.) Ltd.
@@ -113,7 +113,7 @@ https://twitter.com/AsthaIT[Twitter]
 |Brac IT Services (biTS)
 |Homaira Bhaban, House 115, Road 5, Block B, Niketan, Gulshan 1, Dhaka 1212, Bangladesh
 |Java, Android, PHP
-|https://www.bracits.com[Website] +
+|https://www.bracits.com[Website]
 https://www.linkedin.com/company/bracits/[LinkedIn]
 
 |Braincraft Limited
@@ -124,13 +124,13 @@ https://www.linkedin.com/company/bracits/[LinkedIn]
 |Brain Station 23 PLC
 |8th floor, Plot 2, Amtoli, Bir Uttam AK Khandakar Rd Mohakhali Commercial Area, Dhaka-1212
 |Android, IOS, React, React-Native, Odoo, Xamarin, .Net, PHP, Python, Java, AEM, Sitecore
-|http://www.brainstation-23.com/[Website] +
+|http://www.brainstation-23.com/[Website]
 https://www.linkedin.com/company/brain-station-23-plc/[LinkedIn]
 
 |BJIT Ltd.
 |House-07, Road-2/C, Block-J, Baridhara, Dhaka-1212, Bangladesh
 |Java, JEE, Groovy, PHP, C#, Android, iOS, IoT, Fintech, AI
-|http://bjitgroup.com[Website] +
+|http://bjitgroup.com[Website]
 https://www.linkedin.com/company/bjit/[LinkedIn]
 
 |Brotecs Technologies Ltd (USA)
@@ -156,8 +156,8 @@ https://www.linkedin.com/company/bjit/[LinkedIn]
 |Craftsmen (EU)
 |House 272 (1st Floor), Lane 3 (Eastern Road), DOHS Baridhara, Dhaka 1206, Bangladesh.
 |JavaScript/TypeScript, Node.js, Python, React/Vue.js, Redux, React Native, AWS, Serverless Framework, AI/Machine Learning, GCP, Azure, IBM Watson
-|https://www.craftsmenltd.com/[Website] +
-https://www.linkedin.com/organization-guest/company/craftsmenltd[LinkedIn] +
+|https://www.craftsmenltd.com/[Website]
+https://www.linkedin.com/organization-guest/company/craftsmenltd[LinkedIn]
 https://www.facebook.com/craftsmenltd/[Facebook]
 
 |Cefalo Bangladesh
@@ -181,7 +181,7 @@ https://github.com/ChumbokIT[Github]
 
 |COdesign
 |Level-8 Plot, Rangs Paramount, 11 Rd No 17, Dhaka 1213
-|Wordpress, HTML, CSS, React, PHP, MySQL
+|WordPress, HTML, CSS, React, PHP, MySQL
 |https://codesign.com.bd/[Website]
 
 |Codemen Solutions
@@ -253,7 +253,7 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 
 |Dream71
 |House No 16 (Level 4), Bashundhara R/A, Main Road, Block – A, Dhaka-1229, Bangladesh.
-|PHP, Laravel, JavaScript, MYSQL, Andoid, Flutter, iOS
+|PHP, Laravel, JavaScript, MYSQL, Android, Flutter, iOS
 |http://www.dream71.com/[Website]
 
 |Dcastalia Limited
@@ -424,16 +424,16 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 
 |iPay
 |52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
-|Android, Java, HTML, CSS, MongoDB, PostGreSQL
+|Android, Java, HTML, CSS, MongoDB, PostgreSQL
 |https://www.ipay.com.bd/[Website]
 
 |Invento Software Limited
-|House no: 484 (4th Floor) , Road no 32, Mohakhali DOHS, Dhaka 1206
-|JavaScript, Python, Django, Wordpress, PHP
+|House no: 484 (4th Floor), Road no 32, Mohakhali DOHS, Dhaka 1206
+|JavaScript, Python, Django, WordPress, PHP
 |http://invento.com.bd/[Website]
 
 |Inverse.AI
-|11 th floor, Ananda Tower, Jail Rd, Sylhet 3100
+|11th floor, Ananda Tower, Jail Rd, Sylhet 3100
 |Web, Android, iOS
 |https://inverseai.com/[Website]
 
@@ -465,7 +465,7 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 
 |IXORA Solution
 |Jahangir Tower (7th Floor), M-5, Section-14, Mirpur, Dhaka-1206.
-|React, Vue, TypeSCript, NodeJS, Django, SpringBoot, Flutter, Swift, SQL, MongoDB etc.
+|React, Vue, Typescript, NodeJS, Django, SpringBoot, Flutter, Swift, SQL, MongoDB
 |https://ixorasolution.com[Website]
 |===
 
@@ -480,12 +480,12 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 
 |Joomshaper
 |Navana Newbury Place, 4/1/A Sobhanbag Rd, Dhaka-1205
-|Joomla, Wordpress, HTML5, CSS3, JavaScript, React
+|Joomla, WordPress, HTML5, CSS3, JavaScript, React
 |https://www.joomshaper.com[Website]
 
 |JoulesLabs
 |A-6, 6th Floor, House 666/668, Road 09, Avenue 04, Dhaka 1216
-|Wordpress, HTML5, CSS3, JavaScript, React
+|WordPress, HTML5, CSS3, JavaScript, React
 |https://jouleslabs.com/[Website]
 
 |Kaz Software
@@ -526,14 +526,14 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 
 |Magnito Digital
 |3rd Floor, House-7, Road-23/B, Gulshan-1, Dhaka, Bangladesh
-|Mobile app development, Web Design & Development, Digital Marketing , Analytics
+|Mobile app development, Web Design & Development, Digital Marketing, Analytics
 |http://magnitodigital.com/[Website]
 https://www.facebook.com/magnitodigital[Facebook]
 https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 
 |Mazegeek Technologies BD Ltd.
 |House:105, Road:13/A, Block: C, Banani, Dhaka-1213
-|PHP, Laravel, .Net, Android, iOS, Javascript, Node.js, Vue.js, Angular, React, Python, Ruby on rails, AWS, firebase, Docker
+|PHP, Laravel, .Net, Android, iOS, Javascript, Node.js, Vue.js, Angular, React, Python, Ruby on Rails, AWS, firebase, Docker
 |https://www.mazegeek.com/[Website]
 
 |Medina Tech Ltd.
@@ -567,7 +567,7 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 
 |Misfit Technologies
 |House-47 (Anthemion-BC1), Road-23, Banani, Dhaka-1213
-|Python, Django, Ruby, Ruby on Rails, JavaScript, React, PHP, Magento, Wordpress, Android, Artificial Intelligence, Machine Learning
+|Python, Django, Ruby, Ruby on Rails, JavaScript, React, PHP, Magento, WordPress, Android, Artificial Intelligence, Machine Learning
 |https://misfit.tech/[Website]
 
 |MonstarLab (Japan)
@@ -627,7 +627,7 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 
 |Nogor Solutions Limited
 | House No. 69 (2nd floor), Road No. 08, Block-D, Niketon, Gulshan-1, Dhaka-1212.
-| PHP(Laravel, cakePHP), Javascript(jQuery, Vue, VueX), MySQL, MongoDB, Docker
+| PHP(Laravel, CakePHP), Javascript(jQuery, Vue, VueX), MySQL, MongoDB, Docker
 | https://www.nogorsolutions.com[Website]
 
 |Nybbles System Limited (NybSys)
@@ -638,13 +638,13 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |Ollyo
 |443/444, Dumni, Khilkhet, Dhaka, Bangladesh
 |Themeum, Joomshaper, Icofont
-|https://www.ollyo.com[Website] +
+|https://www.ollyo.com[Website]
 https://www.linkedin.com/company/ollyo/[LinkedIn]
 
 |Optimizely (formerly Newscred) (USA)
 |Green Grandeur (4th ,10th and 13th floor), Plot 58/E, Kemal Ataturk Avenue, Dhaka
 |Python, NodeJS, Angular2, Scala, MongoDB
-|https://www.optimizely.com/[Website] +
+|https://www.optimizely.com/[Website]
 https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |Orbund LLC
@@ -670,12 +670,12 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |Pathao Ltd
 |Road 49, Genetic Baro Bhuiyan Tower, Gulshan-2, Dhaka
-|Android, IOS, golang, PHP, kubernetes
+|Android, IOS, Go, PHP, Kubernetes
 |https://pathao.com/[Website]
 
 |Penta Global Ltd
 |Sheba House, 7th ﬂoor, Plot 34, Road 46, Gulshan-2, Dhaka-1212
-|Java, Python, React, Node, PostgreSQL, kubernetes
+|Java, Python, React, Node, PostgreSQL, Kubernetes
 |https://www.pentabd.com/[Website]
 
 |PixelNet Technologies Ltd
@@ -685,17 +685,17 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |Portonics Limited
 |House 18, Road No 6, 2nd Floor, Gulshan 1, Dhaka – 1212, Bangladesh.
-|Android, IOS, PHP, React, Docker, AWS, Nodejs, Python, PostgresSQL, MySQL
+|Android, IOS, PHP, React, Docker, AWS, Nodejs, Python, PostgreSQL, MySQL
 |http://portonics.com/[Website]
 
 |Pridesys IT Limited
 |Level 6, 20/21 Garden Road, Kawranbazar, DHAKA – 1215, Bangladesh
-|PHP, Wordpress, JavaScript, MySQL, JQuery
+|PHP, WordPress, JavaScript, MySQL, JQuery
 |https://pridesys.com[Website]
 
 |Progoti Systems Limited
 |51/B, Borak Mehnur, Kemal Ataturk Ave, Dhaka, Bangladesh
-|Android, Spring-boot, Django, Docker, Python, PostgresSQL, MySQL
+|Android, Spring-boot, Django, Docker, Python, PostgreSQL, MySQL
 |https://www.progoti.com/[Website]
 
 |Remotion IT
@@ -705,7 +705,7 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |Renessa Info Systems Ltd.
 |Pritam Zaman Tower, 11th Floor, 37/2, Culvert Road, Purana Paltan, Dhaka-1000, Bangladesh.
-|PHP, Laravel, CodeIgniter, CakePHP, JavaScript and jQuery
+|PHP, Laravel, CodeIgniter, CakePHP, JavaScript, jQuery
 |http://www.renessainfosystems.com/[Website]
 
 |Retina Soft
@@ -725,7 +725,7 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |RiseUp Labs
 |Floor-14, Tropical Alauddin Tower, Plot No-32/C, Road-2, Sector-3, Uttara, Dhaka-1230  
-|Flutter, Swift, Kotlin, Typescript, React, Java, DJango, NodeJS, SQL etc.
+|Flutter, Swift, Kotlin, Typescript, React, Java, Django, NodeJS, SQL
 |https://riseuplabs.com[Website]
 
 |Rokomari
@@ -752,7 +752,7 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 |SELISE Digital Platforms (Switzerland)
 |House 5, MIDAS Center, Secure Link Services BD Ltd, Rd No. 27, Dhaka 1209
 |Android, IOS, AngularJS, NodeJS, Python, .Net
-|https://selisegroup.com/[Website] +
+|https://selisegroup.com/[Website]
 https://www.linkedin.com/company/selise/[LinkedIn]
 
 |ServicEngine Ltd.
@@ -772,12 +772,12 @@ https://www.linkedin.com/company/selise/[LinkedIn]
 
 |Silicon Orchard Limited
 |House 01, Avenue 01, Block D, Section 11, Mirpur, Dhaka 1216, Bangladesh
-|PHP, NodeJS, ReactJS, Block chain, Android, iOS
+|PHP, NodeJS, ReactJS, Blockchain, Android, iOS
 |https://www.siliconorchard.com/[Website]
 
 |Singularity Limited
 |Level 5, House 147, Lane 1, Baridhara DOHS, Dhaka 1206, Bangladesh
-|Web and Mobile application, Virtual, Augmented and Mixed reality, Motion Graphics, Animation, Visual Effects
+|Web and Mobile application, Virtual, Augmented and Mixed Reality, Motion Graphics, Animation, Visual Effects
 |https://singularitybd.com/[Website]
 
 |SJ Innovation
@@ -793,7 +793,7 @@ Road-19/C, New DOHS, Mohakhali, Dhaka-1206
 
 |Strativ BD Ltd.
 |House: 684, Avenue: 06, Road: 9, Dhaka 1216, Bangladesh
-|Python, Django, JavaScript, React, React Native, VueJS, NodeJS, PHP, Magento, Wordpress, Android
+|Python, Django, JavaScript, React, React Native, VueJS, NodeJS, PHP, Magento, WordPress, Android
 |https://strativ.se/en/[Website]
 
 |Streams Tech Inc.
@@ -830,7 +830,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Square Health Ltd.
 |House 18, Road 13, Uttara (Sector 7) Dhaka 1230, Bangladesh
 |Java, Angular, React, Android
-https://career.squarehealth.com.bd/[Website]
+|https://career.squarehealth.com.bd/[Website]
 
 |Systems Solutions & Development Technologies Ltd. (SSD-TECH)
 |Uday Tower, Level 12, 57 & 57/A, Gulshan Avenue, Dhaka-1212, Bangladesh
@@ -839,7 +839,7 @@ https://career.squarehealth.com.bd/[Website]
 
 |TAPPWARE Solutions Limited
 |SEL Trident Tower ( 14th Floor), 57, Purana Paltan Line, VIP Road, Dhaka, Bangladesh.
-|PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic
+|PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, Django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic
 |https://tappware.com/[Website]
 
 |Technohaven Company Limited
@@ -870,13 +870,13 @@ https://career.squarehealth.com.bd/[Website]
 |Therap (BD) Ltd.
 |House 47, Road 4, Block C, Banani, Dhaka 1213
 |Java, J2EE
-|https://therap.recruiterbox.com/[Website] +
+|https://therap.recruiterbox.com/[Website]
 https://www.linkedin.com/company/therapbd/[LinkedIn]
 
 |TigerIT Bangladesh Ltd.
 |House 21, Road 28, Block-K, Banani Model Town, Dhaka, 1213, Bangladesh
 |Java
-|http://www.tigerit.com/[Website] +
+|http://www.tigerit.com/[Website]
 https://www.linkedin.com/company/tigerit-bangladesh-limited/[LinkedIn]
 
 |TimeTackle (US)
@@ -923,14 +923,14 @@ https://www.linkedin.com/company/tigerit-bangladesh-limited/[LinkedIn]
 |Vantage Labs (USA)
 |6th Floor, Dynasty Tower, Begum Rokeya Avenue, Mirpur 11, Dhaka, Bangladesh
 |Java, PHP, AngularJS
-|https://www.vantage.com/[Website] +
+|https://www.vantage.com/[Website]
 https://www.facebook.com/VantageLabsDhaka/[Facebook]
 
 |Vivasoft Limited
 |Floor 16, Ahmed Tower, 28, 30, Kemal Ataturk Ave, Banani, Dhaka 1213
 |Java, C#, React.js, GoLang, Python
-|https://www.vivasoftltd.com/[Website] +
-https://www.facebook.com/VivasoftLtd[Facebook] +
+|https://www.vivasoftltd.com/[Website]
+https://www.facebook.com/VivasoftLtd[Facebook]
 https://www.linkedin.com/company/vivasoftltd/[LinkedIn]
 
 
@@ -941,13 +941,13 @@ https://www.linkedin.com/company/vivasoftltd/[LinkedIn]
 
 |weDevs Ltd
 |Level-3, House-1005, Avenue-11, Road-09, Mirpur DOHS, Dhaka 1216, Bangladesh
-|PHP, Wordpress, VueJs
+|PHP, WordPress, VueJs
 |https://wedevs.com[Website]
 
 |Welldev (Switzerland)
 |546/2 Rd No 13, Baridhara, Dhaka
 |Ruby on Rails, Android, iOS, ReactJS
-|https://www.welldev.io/[Website] +
+|https://www.welldev.io/[Website]
 https://www.linkedin.com/company/welldevintl/[LinkedIn]
 
 |Widespace (Sweden)
@@ -975,12 +975,12 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |Xpeed Studio
 |Amigo 14 Square, House No :59/C-61/C Suite No : B-2, Level-2, Asad Avenue, Dhaka 1207
-|Joomla, Wordpress, Drupal, JavaScript, PHP, HTML, CSS
+|Joomla, WordPress, Drupal, JavaScript, PHP, HTML, CSS
 |https://xpeedstudio.com/[Website]
 
 |XpeedLab
 |1207, Mohammadia Housing Ltd, Road: 7, Dhaka 1207
-|nodeJS, ReactJS, Angular, Java, Flutter, mongoDB
+|nodeJS, ReactJS, Angular, Java, Flutter, MongoDB
 |https://xpeedlab.tech/[Website]
 
 |Zaynax Limited
@@ -1001,12 +1001,12 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |2A IT
 |Road-4, House- 54, Level- 3, Mohanagar Project, West Rampura Dhaka- 1219, Bangladesh
-|PHP, Laravel , Java, Android, jQuery, MySQL
+|PHP, Laravel, Java, Android, jQuery, MySQL
 |http://2aitbd.com/[Website]
 
 |6amTech
 |House 666/668, Road 09 Dhaka, 1216, Bangladesh
-|PHP, Laravel , Flutter, React, Wordpress
+|PHP, Laravel, Flutter, React, WordPress
 |https://6amtech.com[Website]
 
 |===
@@ -1049,7 +1049,7 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 
 |Meghna Group of Industries (MGI)
 |House 15, Road 34, Gulshan 2, Gulshan, Dhaka
-|Java, Android, iOS, PHP, mySQL
+|Java, Android, iOS, PHP, MySQL
 |https://www.mgi.org/[Website]
 
 |mPower Social Enterprises Limited
@@ -1065,7 +1065,7 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 |Orbitax Bangladesh
 |113 Kazi Nazrul Islam Ave, Dhaka 1205
 |Java, JavaScript, Android, PHP
-|http://www.orbitax.com/[Website] +
+|http://www.orbitax.com/[Website]
 https://www.linkedin.com/company/orbitaxbd/[LinkedIn]
 
 |ShareTrip
@@ -1085,7 +1085,7 @@ https://www.linkedin.com/company/orbitaxbd/[LinkedIn]
 
 |TruckLagbe
 |House 221 (3rd Floor), Road 15, New DOHS, Mohakhali, Dhaka – 1206, Bangladesh
-|JavaScript, Node, Angular, Flutter, SQL, PostGreSQL
+|JavaScript, Node, Angular, Flutter, SQL, PostgreSQL
 |https://trucklagbe.com[Website]
 
 |UPAY (UCB Fintech)
