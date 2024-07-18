@@ -186,8 +186,8 @@ https://www.linkedin.com/company/chumbok-it[LinkedIn]
 https://github.com/ChumbokIT[Github]
 
 |COdesign
-|Level-8 Plot, Rangs Paramount, 11 Rd No 17, Dhaka 1213
-|WordPress, HTML, CSS, React, PHP, MySQL
+|Level-8 Plot, Rangs Paramount, House 11, Rd No 17, Banani C/A, Dhaka 1213
+|Nuxt, Django Rest Framework
 |https://codesign.com.bd/[Website]
 
 |Codemen Solutions
