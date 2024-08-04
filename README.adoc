@@ -639,7 +639,7 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |Nova Labs LTD
 | Level 8B, House 10 (Fairview), Road-1, Block-B, Niketon.
 | Unity (Android, IOS), Unreal (PC, Android, IOS), AR (Meta Spark)
-| https://novalabs.gg/[Website]
+| https://novalabs.gg/[Website] https://www.linkedin.com/company/novalabsgg[LinkedIn] 
 
 |Nybbles System Limited (NybSys)
 |House: 03, Road: 08, Shahida Khan Tower (1st & 2nd Floor), Section-6, Mirpur, Dhaka 1216
