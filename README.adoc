@@ -499,6 +499,11 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |.Net, Java, PHP, AngularJS, React
 |http://kaz.com.bd/[Website]
 
+|Kite Games Studio
+|House No. 283, Road No. 19/C, Mohakhali DOHS, Dhaka, Bangladesh
+|Swift, React, Kotline, PyTorch
+|https://www.kitegamesstudio.com[Website] https://www.linkedin.com/company/kite-games-studio/mycompany[LinkedIn]
+
 |Kona Software Lab
 |Police Plaza Concord, Tower-A, Plot-2, Road-144, Dhaka
 |Java, Spring, C++, JavaScript, Android, Kotlin, AI, Blockchain
