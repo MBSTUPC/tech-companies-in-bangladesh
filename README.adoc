@@ -413,6 +413,11 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |C#, .NET
 |https://www.infocratsolutions.com/[Website]
 
+|Inovace Technologies
+|4nd Floor,  18 Kazi Nazrul Islam Ave, Dhaka 1205
+|PHP, Laravel, MySQL, Java, MQTT, Python, Spring boot, Kafka, JavaScript, Bootstrap, PostgreSQL, Angular, Vue, Wordpress
+|https://inovacetech.com/[Website]
+
 |Instalogic
 |3rd Floor, House-483, Road-08, Baridhara DOHS, Dhaka-1206
 |PHP, Laravel, MySQL, Java, Python, Django, JavaScript, React, Drupal, Angular, Vue, Wordpress
