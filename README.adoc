@@ -673,6 +673,11 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 |Java, Android, iOS
 |https://www.orbund.com/[Website]
 
+|Orange Toolz
+|House 77 (9th Floor), Road 13, Sector 10, Uttara, Dhaka -1230
+|Laravel, Android, iOS, .NET, AngularJS, React Native, NodeJS, CakePHP, Zend, Azure, AWS, Google Cloud, Xamarin 
+|https://orangetoolz.com/[Website]
+
 |Otto International Ltd.
 |Dhaka
 |PHP, WordPress, Flutter, React, Gatsby, SQL, NOSQL, AWS, MS Azure, Android, IOS, Node.js, Express.js, MySQL, MongoDB
