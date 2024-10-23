@@ -153,6 +153,12 @@ https://www.linkedin.com/company/bjit/[LinkedIn]
 |IOT, Blockchain, Artificial Intelligence, React, Javascript, Python, Node, Django
 |https://www.circlefintech.com/[Website]
 
+|Code Prophet
+|Khulna, Bangladesh.
+|JavaScript, Node.js, Python, React, Redux, Java, Spring Boot, Postgres, PHP
+|https://codeprophet.tech/[Website]
+https://www.linkedin.com/company/code-prophet[LinkedIn]
+
 |CodersTrust
 |House-82, Road-19/A, Block-E, Banani, Dhaka-1213, Bangladesh
 |Wordpress, PHP, Javascript/Typescript, Python, Scala, Kubernetes, Lambda, AWS
