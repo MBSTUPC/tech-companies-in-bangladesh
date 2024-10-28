@@ -838,6 +838,11 @@ Road-19/C, New DOHS, Mohakhali, Dhaka-1206
 |.Net, Java, Spring, Hibernate, AngularJS
 |https://www.facebook.com/softwarepeoplewpp[Facebook]
 
+|Software Lighthouse
+|7B, 23/25,Section:12, Pallabi, Mirpur 12, Dhaka,Bangladesh. 01758561131
+|Flutter, Android, iOS, Unity, GoLang, JavaScript, PHP, MySQL, WordPress
+|https://softlh.com[Website]
+
 |Softzino Technologies
 |House-50, Level-04, Road-03, Sector-11, Uttara, Dhaka-1230
 |Android, iOS, React, React Native, JavaScript, Vue, Flutter
