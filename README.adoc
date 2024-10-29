@@ -64,7 +64,7 @@ https://www.linkedin.com/company/apurba-technologies-ltd[LinkedIn]
 
 |Astha IT
 |Sel Rose N Dale, 116 Kazi Nazrul Islam Ave, Dhaka – 1205, Bangladesh.
-|Java, Spring Boot, JavaScript, React, Vue.js, Angular, HTML5, CSS, UI/UX, Android, AWS, Docker, Kubernetes, Selenium, Testsigma
+|C#, dotnet, Java, Spring Boot, JavaScript, React, Vue.js, Angular, HTML5, CSS, UI/UX, Flutter, Android, AWS, Docker, Kubernetes, Selenium, Testsigma, GO
 |https://www.asthait.com/[Website]
 https://www.linkedin.com/company/asthait/[LinkedIn]
 https://www.facebook.com/asthait[Facebook]
