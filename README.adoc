@@ -762,7 +762,7 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |Rokomari
 |2/1/E, Arambag, Eden Center, Motijheel, Dhaka-1000
-|Java, Spring
+|Andorid, Flutter, Java, Spring, NextJS, Python
 |https://www.rokomari.com/[Website]
 
 |===
