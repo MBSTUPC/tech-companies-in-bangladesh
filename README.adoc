@@ -143,7 +143,7 @@ https://www.linkedin.com/company/bracits/[LinkedIn]
 
 |Brain Station 23 PLC
 |8th floor, Plot 2, Amtoli, Bir Uttam AK Khandakar Rd Mohakhali Commercial Area, Dhaka-1212
-|Android, IOS, React, React-Native, Odoo, Xamarin, .Net, PHP, Python, Java, AEM, Sitecore
+|Android, IOS, React, React-Native, Odoo, Xamarin, .Net, PHP, Python, Java, AEM, Sitecore, Flutter
 |http://www.brainstation-23.com/[Website]
 https://www.linkedin.com/company/brain-station-23-plc/[LinkedIn]
 |Please update
@@ -1035,7 +1035,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 
 |TAPPWARE Solutions Limited
 |SEL Trident Tower ( 14th Floor), 57, Purana Paltan Line, VIP Road, Dhaka, Bangladesh.
-|PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, Django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic
+|PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, Django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic, Flutter
 |https://tappware.com/[Website]
 |Please update
 
@@ -1047,7 +1047,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 
 |TechnoNext
 |House-97, Sohrawardi Avenue, Baridhara Diplomatic Zone, Dhaka-1212
-|JavaScript, React, Golang, DevOps
+|JavaScript, React, Golang, DevOps, Flutter
 |https://www.digigate360.com/[Website]
 |Please update
 
@@ -1140,7 +1140,7 @@ https://www.facebook.com/VantageLabsDhaka/[Facebook]
 
 |Vivasoft Limited
 |Floor 16, Ahmed Tower, 28, 30, Kemal Ataturk Ave, Banani, Dhaka 1213
-|Java, C#, React.js, GoLang, Python
+|Java, C#, React.js, GoLang, Python, Flutter
 |https://www.vivasoftltd.com/[Website]
 https://www.facebook.com/VivasoftLtd[Facebook]
 https://www.linkedin.com/company/vivasoftltd/[LinkedIn]
@@ -1154,7 +1154,7 @@ https://www.linkedin.com/company/vivasoftltd/[LinkedIn]
 
 |weDevs Ltd
 |Level-3, House-1005, Avenue-11, Road-09, Mirpur DOHS, Dhaka 1216, Bangladesh
-|PHP, WordPress, VueJs
+|PHP, WordPress, VueJs , Flutter
 |https://wedevs.com[Website]
 |Please update
 
