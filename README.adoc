@@ -1234,6 +1234,12 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |https://6amtech.com[Website]
 |Please update
 
+|6sense Technologies
+|House 15, Block G, Road 3/A, Dhaka 1219, Bangladesh
+|Figma, Java, Socket, Docker, React, Next Js, Node Js, Mongo DB, AWS
+|https://6sensehq.com/[Website]
+|15-20
+
 |===
 
 ==== Some other companies with IT section
