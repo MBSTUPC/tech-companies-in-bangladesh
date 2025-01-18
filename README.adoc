@@ -1027,6 +1027,12 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |https://career.squarehealth.com.bd/[Website]
 |Please update
 
+|SoftBD Ltd.
+|8th, 11th & 13th Floor, 52/1 Hasan Holdings, New Eskaton Road
+|Unknown
+|https://softbdltd.com/[Website]
+|Please update
+
 |Systems Solutions & Development Technologies Ltd. (SSD-TECH)
 |Uday Tower, Level 12, 57 & 57/A, Gulshan Avenue, Dhaka-1212, Bangladesh
 |C/C++, PHP, MySQL, Java, Node JS, Big Data, HTML, CSS, Linux
