@@ -1024,6 +1024,13 @@ Road-19/C, New DOHS, Mohakhali, Dhaka-1206
 https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Please update
 
+|SovWare
+|139, TPL Complex, Signboard, Narayanganj
+|PHP, Laravel, WordPress, JavaScript, ReactJS, Flutter
+|https://www.sovware.com/[Website]
+https://www.linkedin.com/company/sovware/[LinkedIn]
+|Please update
+
 |SSL Wireless
 |93 B, New Eskaton Road, Dhaka-1000, Bangladesh
 |Java, JavaScript, PHP, Laravel, MySQL, JavaScript
