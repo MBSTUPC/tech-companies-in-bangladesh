@@ -113,6 +113,12 @@ https://www.facebook.com/ATI.LIMITED/[Facebook]
 |https://alchemy-bd.com/[Website]
 |Please update
 
+|Bangladesh Software Solution
+|House No: 95, Floor: 1st(A1), Road - 9/A, Dhanmondi, Dhaka-1209
+|C#, ASP.Net, VueJS, SQA
+|https://bssoln.com/[Website]
+|Please update
+
 |Bdtask
 |B-25, Mannan Plaza, 4th Floor, Khilkhet, Dhaka-1229, Bangladesh
 |Android, Web, WordPress
@@ -155,7 +161,7 @@ https://www.linkedin.com/company/bracits/[LinkedIn]
 |Android, IOS, React, React-Native, Odoo, Xamarin, .Net, PHP, Python, Java, AEM, Sitecore, Flutter
 |http://www.brainstation-23.com/[Website]
 https://www.linkedin.com/company/brain-station-23-plc/[LinkedIn]
-|Please update
+|500+
 
 |BJIT Ltd.
 |House-07, Road-2/C, Block-J, Baridhara, Dhaka-1212, Bangladesh
@@ -297,7 +303,7 @@ https://github.com/ChumbokIT[Github]
 |Java, Spring Boot, Javascript, React, NextJs, Android, IOS, Flutter
 |https://dhrubokinfotech.com/[Website]
 https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
-|Please update
+|<10
 
 |Divine IT Limited
 |House 29, Road 12, Sector 10, Uttara, Dhaka-1230
@@ -1153,7 +1159,7 @@ https://www.facebook.com/VantageLabsDhaka/[Facebook]
 |https://www.vivasoftltd.com/[Website]
 https://www.facebook.com/VivasoftLtd[Facebook]
 https://www.linkedin.com/company/vivasoftltd/[LinkedIn]
-|Please update
+|200+
 
 |Walton Hi-Tech Industries Ltd.
 |Chandra, Kaliakoir, Gazipur
