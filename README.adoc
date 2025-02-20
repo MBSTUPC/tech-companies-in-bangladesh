@@ -1237,6 +1237,12 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |https://www.yotech.ltd[Website]
 |Please update
 
+|W3 Engineers Ltd
+|1212 4th Floor, 77 Rd No. 11, Dhaka, 1212
+|JavaScript, HTML, CSS, React, Next, Django, Flask, Golang, Beego, PostgreSQL, Android, Flutter, Automation, AI Agent
+|https://w3engineers.com[Website]
+|80-100
+
 |===
 
 ==== Alphabetical Order: 1 - 9
