@@ -292,6 +292,12 @@ https://github.com/ChumbokIT[Github]
 |http://daffodilsoft.com/[Website]
 |Please update
 
+|Danpite.Tech
+|1008/R, Lift-9, Sha Ali Plaza, Mirpur-10, Dhaka-1216
+|PHP, Laravel, Flutter, ReactJS
+|https://danpite.tech/[Website]
+|27
+
 |Databiz Software Limited
 |Mirpur DOHS Avenue 3. Road 12, House 860-861, Dhaka 1216
 |.NET, PHP, Android, iOS
