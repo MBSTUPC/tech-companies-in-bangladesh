@@ -279,9 +279,9 @@ https://github.com/ChumbokIT[Github]
 
 |Danpite.Tech
 |1008/R, Lift-9, Sha Ali Plaza, Mirpur-10, Dhaka-1216
-|PHP, Laravel
+|PHP, Laravel, Flutter, ReactJS
 |https://danpite.tech/[Website]
-|Please update
+|27
 
 |Databiz Software Limited
 |Mirpur DOHS Avenue 3. Road 12, House 860-861, Dhaka 1216
