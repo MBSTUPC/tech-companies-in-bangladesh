@@ -725,6 +725,12 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |https://monstar-lab.com/global/[Website]
 |Please update
 
+|MononSoft Ltd. (A Concern of JMI Group)
+|TMC Building (6th Floor),52 New Eskaton Road, Dhaka 1000.
+|PHP, Laravel, Oracle, RESTful APIs, VueJS
+|https://mononsoft.org/[Website]
+|Please update
+
 |Namespace IT
 |Lift 4, House 13, Road 11, Sector 11, Uttara, Dhaka
 |Laravel, React, Next.js, Django, Machine Learning
