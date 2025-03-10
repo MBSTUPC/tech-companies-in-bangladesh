@@ -413,6 +413,12 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |https://flytesolutions.com[Website]
 |Please update
 
+|Fringecore
+|2nd Floor, House 2, Road 96, Gulshan 2, Dhaka - 1212, Bangladesh
+|JavaScript, React, React Native, Node, SQL, Machine Learning, Linux
+|https://fringecore.sh/[Website]
+|Please update
+
 |Frontier Semiconductor (FSM) (USA)
 |Wasi Tower (FL: 7 CD), ECB Chattar, Matikata Rd, Dhaka
 |C, C++, MFC, Open CV, Open GL
