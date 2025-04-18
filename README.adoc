@@ -58,6 +58,12 @@ https://www.linkedin.com/company/appscode/[LinkedIn]
 |https://appstick.com.bd/[Website]
 |Please update
 
+|Appyfilab
+|Akhter shoping city, 5th floor, Modina Market, Sylhet 3100
+|ReactJS, VueJS, Nuxt, NodeJS, Flutter, Laravel
+|https://www.appifylab.com/[Website]
+|50+
+
 |Apurba Technologies Ltd.
 |Road 22, House B/158, Flat 3(2nd Floor), Mohakhali New DOHS Dhaka, Bangladesh
 |Java, Python, PHP, Docker, Kubernetes, Spring, JavaScript, AWS, Machine Learning
