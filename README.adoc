@@ -443,6 +443,12 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
 
+|GeekSSort
+|Level 9, Mojumdar Tower, Block-C, Rayerbag, Dhaka
+|Laravel, Flutter, ReactJs, VueJS, NextJS, Test Automation, WordPress, Shopify, PHP, Digital Marketing, E Commerce Solutions, UI/UX
+|https://geekssort.com/[Website]
+|10+
+
 |Genex Infosys Limited
 |Nitol Niloy Tower (Level 8), Nikunja C/A, Airport Road, Dhaka-1229
 |Artificial Intelligence and automation, Cyber security, SaaS, Digital marketing and content development
