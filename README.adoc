@@ -1147,10 +1147,10 @@ https://www.linkedin.com/company/tigerit-bangladesh-limited/[LinkedIn]
 |Please update
 
 |Technext Limited
-|1/C Shyamoli Rd 1, Dhaka 1216
-|HTML, CSS, JavaScript, Bootstrap
+|Dhaka Branch : 1/C Shyamoli Rd 1, Dhaka 1216 , Sylhet Branch : Medical Road, Kajolshah, Sylhet - 3100, Bangladesh. (google maps : 24°54'02.9"N 91°51'20.0"E)
+|HTML, CSS, JavaScript, Bootstrap , React , Next.js , .net core
 |https://technext.it/[Website]
-|Please update
+|67
 
 |TechFlix
 |6100, Rajshahi
