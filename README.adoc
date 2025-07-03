@@ -1208,8 +1208,6 @@ https://www.linkedin.com/company/vivasoftltd/[LinkedIn]
 |https://www.wafisolutions.com/[Website]
 |Please update
 
-
-
 |Walton Hi-Tech Industries Ltd.
 |Chandra, Kaliakoir, Gazipur
 |PHP, Java, Spring, Android ReactJS, VueJS
