@@ -1203,6 +1203,12 @@ https://www.facebook.com/VivasoftLtd[Facebook]
 https://www.linkedin.com/company/vivasoftltd/[LinkedIn]
 |200+
 
+|Wafi Solutions.
+|House #313, Road #21, Mohakhali DOHS, Dhaka, Bangladesh
+|ASP.NET, .NET Core, Django
+|https://www.wafisolutions.com/[Website]
+|Please update
+
 |Walton Hi-Tech Industries Ltd.
 |Chandra, Kaliakoir, Gazipur
 |PHP, Java, Spring, Android ReactJS, VueJS
