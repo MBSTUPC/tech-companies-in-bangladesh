@@ -27,6 +27,12 @@ List of tech companies to help developers to find jobs.
 |https://adventurekk.com/company/about/[Website]
 |Please update
 
+|All Generation tech
+|54 A 132 Road, Dhaka 1212
+|Javascript, Python, Go, MongoDB, Docker,  Azure, Unqork
+|https://allgentech.bamboohr.com/careers[Website]
+|Please update
+
 |Anchorblock Technology
 |Block C House, 57 Rd Number 4, Dhaka 1213
 |JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Android, Solidity, Smart Contact, Machine Learning, AWS
@@ -497,6 +503,18 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 |HR Bhaban (6th Floor), 100, Br Uttom A.K. Khandaker Sarak, Mohakhali C/A, Dhaka 1212
 |Java, Kotlin, NodeJS, Apache, Spring Framework, JUnit, Mokito, Mysql, Jenkins, AWS
 |https://www.hsenidmobile.com/[Website]
+|Please update
+
+|HawarIT
+|BSCIC Electronics Complex Level-8, Plot-1/1 Road Number 3, Mirpur-11, Dhaka 1216
+|Please update
+|https://www.hawarit.com/career-at-hawarit/[Website]
+|Please update
+
+|Hogarth Dhaka
+|Road 11, House 76/A [3rd Floor], Banani, Dhaka, Dhaka 1213, BD
+|JavaScript, HTML, CSS, React, Node, AWS
+|https://www.hogarth.com/careers[Website]
 |Please update
 
 |HypeScout
