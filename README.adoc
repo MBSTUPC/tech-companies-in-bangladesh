@@ -27,6 +27,12 @@ List of tech companies to help developers to find jobs.
 |https://adventurekk.com/company/about/[Website]
 |Please update
 
+|All Generation tech
+|54 A 132 Road, Dhaka 1212
+|C#, dotnet, Python, Go, MongoDB, Docker,  Azure, Unqork
+|https://allgentech.bamboohr.com/careers[Website]
+|100+
+
 |Anchorblock Technology
 |Block C House, 57 Rd Number 4, Dhaka 1213
 |JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Android, Solidity, Smart Contact, Machine Learning, AWS
@@ -369,7 +375,7 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |House-27 Rd No 8, Gulshan-1, Dhaka-1212
 |Java, PHP, Python, C#
 |http://enosisbd.com[Website]
-|Please update
+|350+
 
 |Escenic (Norway)
 |Kaderia Tower, JA 28/8B Bir Uttam AK Khandakar Rd, Dhaka 1212
@@ -498,6 +504,18 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 |Java, Kotlin, NodeJS, Apache, Spring Framework, JUnit, Mokito, Mysql, Jenkins, AWS
 |https://www.hsenidmobile.com/[Website]
 |Please update
+
+|HawarIT
+|BSCIC Electronics Complex Level-8, Plot-1/1 Road Number 3, Mirpur-11, Dhaka 1216
+|C#, dotnet.
+|https://www.hawarit.com/career-at-hawarit/[Website]
+|30+
+
+|Hogarth Dhaka
+|Road 11, House 76/A [3rd Floor], Banani, Dhaka, Dhaka 1213, BD
+|JavaScript, HTML, CSS, React, Node, AWS
+|https://www.hogarth.com/careers[Website]
+|100+
 
 |HypeScout
 |Banani, Road 2/1, Dhaka-1212.
@@ -1409,12 +1427,6 @@ https://www.linkedin.com/company/orbitaxbd/[LinkedIn]
 |Level 16, Plot-CWS(A)-1, Road-34, Gulshan Avenue, Dhaka-1212, Dhaka, 1212, Bangladesh
 |Blockchain, Python, Django, Flask, JavaScript, React, Node, Android, iOS
 |https://www.upaybd.com/[Website]
-|Please update
-
-|Wunderman Thompson Dhaka
-|Road 11, House 76/A [3rd Floor], Banani, Dhaka, Dhaka 1213, BD
-|JavaScript, HTML, CSS, React, Node, AWS
-|https://www.wundermanthompson.com/[Website]
 |Please update
 
 |===
