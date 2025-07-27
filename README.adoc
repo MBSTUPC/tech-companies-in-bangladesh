@@ -679,6 +679,14 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 |https://konasl.com[Website]
 |Please update
 
+|Kompass Technologies Limited
+|Flat 2A, House 118, Road 2, Block A Niketan, Gulshan, Dhaka-1212, Bangladesh
+|Web Development, Mobile Development
+|https://hellokompass.com/[Website]
+https://www.linkedin.com/company/kompass-technologies-limited/posts/?feedView=all[LinkedIn]
+https://www.facebook.com/hellokompass[Facebook]
+|2-10
+
 |Kovair Software, Inc.
 |Dhaka
 |Java, JEE, Spring, Angular JS
