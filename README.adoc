@@ -771,11 +771,11 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |https://misfit.tech/[Website]
 |Please update
 
-|MonstarLab (Japan)
-|Ahmed Tower (20th floor, Kemal Ataturk Avenue, Dhaka 1213
-|Java Spring, Laravel, Symfony, AngularJS, Amazon Web Services
-|https://monstar-lab.com/global/[Website]
-|Please update
+|MonstarLab Bangladesh
+|Plot No. 5, Paragon House, Dhaka 1212
+|Java Spring, Laravel, Symfony, NextJS, NestJS, Flutter, Amazon Web Services
+|https://monstar-lab.com/bd/[Website]
+|20-30
 
 |MononSoft Ltd. (A Concern of JMI Group)
 |TMC Building (6th Floor),52 New Eskaton Road, Dhaka 1000.
