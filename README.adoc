@@ -170,6 +170,11 @@ https://github.com/ChumbokIT[Github]
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|Data Edge Limited
+|Sadharan Bima Bhaban-2 (11th & 13th floor) 139 Motijheel C.A, Dhaka-1000, Corporate Office: House # 10, Road # 3 Baridhara J Block, Dhaka 1212
+|C#, .NET Framework, ASP.NET(WebForms), Microsoft SQL, SQL Server, React
+|https://www.data-edge.com/[Website]
+
 |DataSoft
 |Rupayan Shelford (20th floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
 |Java, Spring Boot, C#, .Net, Angular/Vue/JQuery
