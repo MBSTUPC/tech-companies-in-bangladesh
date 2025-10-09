@@ -992,7 +992,7 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 |Robust Research And Development Ltd.
 |House 5, Road 1, Block C, Bonosree, Dhaka- 1219
 |Flutter, Kotlin, Swift, C#, Unity3D, Typescript, NextJS, Python
-|https://rrad.ltd/[Website]
+|https://rrad.ltd/[Website] https://www.linkedin.com/company/rrad-bd/[LinkedIn]
 |20+
 
 |===
