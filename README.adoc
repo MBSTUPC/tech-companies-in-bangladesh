@@ -125,6 +125,12 @@ https://www.facebook.com/ATI.LIMITED/[Facebook]
 |https://alchemy-bd.com/[Website]
 |Please update
 
+|AlgorixIT LTD.
+|7/A, Dhanmondi, Dhaka-1209, Bangladesh
+|Android, iOS, Flutter, Web, iOT
+|https://algorixit.com/[Website]
+|12
+
 |Bangladesh Software Solution
 |House No: 95, Floor: 1st(A1), Road - 9/A, Dhanmondi, Dhaka-1209
 |C#, ASP.Net, VueJS, SQA
