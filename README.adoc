@@ -127,7 +127,7 @@ https://www.facebook.com/ATI.LIMITED/[Facebook]
 
 |AlgorixIT LTD.
 |7/A, Dhanmondi, Dhaka-1209, Bangladesh
-|Android, iOS, Web, iOT
+|Android, iOS, Flutter, Web, iOT
 |https://algorixit.com/[Website]
 |12
 
