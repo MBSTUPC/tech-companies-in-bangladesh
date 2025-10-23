@@ -114,7 +114,7 @@ https://www.facebook.com/ATI.LIMITED/[Facebook]
 |Please update
 
 |authLab
-|24/a Shah Farid Rd, Sylhet, Bangladesh
+|24/A Shah Farid Road, Jalalabad R/A, Sylhet - 3100, Bangladesh
 |WordPress, JavaScript, React, Vue, JQuery, AWS, PHP, Laravel
 |https://authlab.io/[Website]
 https://www.linkedin.com/company/authlab-io/[LinkedIn]
