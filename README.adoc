@@ -117,7 +117,9 @@ https://www.facebook.com/ATI.LIMITED/[Facebook]
 |24/a Shah Farid Rd, Sylhet, Bangladesh
 |WordPress, JavaScript, React, Vue, JQuery, AWS, PHP, Laravel
 |https://authlab.io/[Website]
-|Please update
+https://www.linkedin.com/company/authlab-io/[LinkedIn]
+https://www.facebook.com/authLab/[Facebook]
+|120+
 
 |Alchemy Software Limited
 |335, M.M Ali Road, Yahya Tower (6th Floor) Lalkhan Bazar, Chittagong, Bangladesh.
