@@ -657,6 +657,12 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 |https://www.jatri.co[Website]
 |Please update
 
+|JB Connect Ltd.(Japan Bangladesh Connect Ltd.)
+|Road 27, House 61, Banani, Dhaka 1213
+| Web Development, Cross-Platform Mobile App Development, E-Commerce Development, DevOps, Digital Marketing, Data Analytics, Artificial Intelligence
+|https://www.jbc-ltd.com/en[Website]
+|Please update
+
 |Joomshaper
 |Navana Newbury Place, 4/1/A Sobhanbag Rd, Dhaka-1205
 |Joomla, WordPress, HTML5, CSS3, JavaScript, React
