@@ -161,7 +161,10 @@ https://www.facebook.com/authLab/[Facebook]
 |Level 5, 138/1 Tejgaon I/A, Dhaka-1208.
 |IoT, JavaScript, Node, React, Angular, PHP, MySQL.
 |https://bondstein.com/[Website]
-|Please update
+https://www.linkedin.com/company/bondstein/[LinkedIn]
+https://www.facebook.com/bondsteinbd/[Facebook]
+https://x.com/bondsteinbd/[Twitter]
+|60+
 
 |Brac IT Services (biTS)
 |Homaira Bhaban, House 115, Road 5, Block B, Niketan, Gulshan 1, Dhaka 1212, Bangladesh
