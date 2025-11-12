@@ -910,6 +910,12 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 |https://orangetoolz.com/[Website]
 |Please update
 
+|OrvionSoft
+|1/1, Momin Soroni, North Ibrahimpur, Kafrul, Dhaka - 1216
+|C#, ASP.NET Core, Angular, React, NextJS, PHP, Laravel, Android App, NodeJS
+|https://www.orvionsoft.com/[Website]
+|5
+
 |Otto International Ltd.
 |Dhaka
 |PHP, WordPress, Flutter, React, Gatsby, SQL, NOSQL, AWS, MS Azure, Android, IOS, Node.js, Express.js, MySQL, MongoDB
