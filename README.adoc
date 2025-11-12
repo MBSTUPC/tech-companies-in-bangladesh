@@ -1101,10 +1101,10 @@ Road-19/C, New DOHS, Mohakhali, Dhaka-1206
 |Please update
 
 |Software Lighthouse
-|7B, 23/25,Section:12, Pallabi, Mirpur 12, Dhaka,Bangladesh. 01758561131
-|Flutter, Surrealdb, Android, iOS, Unity, Go, JavaScript, PHP, MySQL, WordPress 
+|https://maps.app.goo.gl/zzyezJTjAi7hVZt89[Flat#1-B, House#12, Road# 2/A, Diabari, Uttara, Dhaka - 1230, Bangladesh].  01758561131 
+|Go, Flutter, Android, iOS, Unity, Firebase, PostgresSQL, JavaScript, Oracle, Node, PHP, MySQL, WordPress 
 |https://softlh.com[Website] https://www.facebook.com/softlh2020[Facebook]  https://basis.org.bd/company-profile/23-04-021[Basis] https://www.linkedin.com/company/91137876/[linkedin]
-|Team: Software Developer: 6, SQA: 2, PM & HR:2 (Male:Female: 4:6)
+|Team: 13 Software Developer: 8, SQA: 2, Designer: 1, PM & HR: 2 (Male:Female: 7:6)
 
 |Softzino Technologies
 |House-50, Level-04, Road-03, Sector-11, Uttara, Dhaka-1230
