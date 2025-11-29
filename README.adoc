@@ -881,7 +881,7 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |Onecodesoft  
 |SR Plaza, 137/10, Mazar Road, 7th Floor, Flat - 7A, Mirpur 1, Dhaka, Dhaka Division, 1216  
 |Laravel, PHP, Javascript, Python, Flutter, NodeJs, ReactJS  
-|[Website](https://onecodesoft.com/) [Facebook](https://www.facebook.com/onecodesoft) [Instagram](https://www.instagram.com/onecodesoft) [Twitter](https://twitter.com/onecodesoft) [LinkedIn](https://www.linkedin.com/company/onecodesoft/)
+|https://onecodesoft.com[Website] https://www.linkedin.com/company/onecodesoft[LinkedIn]
 |10+
 
 |Ollyo
