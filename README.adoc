@@ -594,6 +594,12 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 |https://intellier.com/[Website]
 |Please update
 
+|Inument
+|House# 527 (3rd floor), Road# 10 (East), Baridhara DOHS
+|Dotnet, Javascript, Java, NodeJS, PHP, React, Flutter, AI/ML, NopCommerce
+|https://inument.com/careers/#available-jobs[Website]
+|Please update
+
 |iPay
 |52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
 |Android, Java, HTML, CSS, MongoDB, PostgreSQL
