@@ -748,6 +748,21 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 |https://www.mazegeek.com/[Website]
 |Please update
 
+|Mediusware Ltd.
+|_Bangladesh Office:_ 24/1, Taj Mahal Road, Shiya Masjid Mor, Floor - 8th & 9th, Ring Road, Dhaka 1207, Bangladesh +
+
+_USA Office:_ Mount Pleasant, South Carolina 29464, USA
+|Frontend: JavaScript, TypeScript, React, Next.js, Vue.js, Angular, HTML5, CSS3, Tailwind, UI/UX Design
+Backend: Node.js, Django, PHP, Laravel, Python, REST, GraphQL, Microservices
+Mobile & AR/VR: Android, iOS, React Native, Flutter, Unity
+DevOps & Cloud: AWS, Docker, Kubernetes, CI/CD, Terraform
+Databases & Storage: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+Messaging & Streaming: RabbitMQ, Kafka
+|https://www.mediusware.com/[Website]
+https://www.facebook.com/mediusware/[Facebook]
+https://www.linkedin.com/company/mediusware/[LinkedIn]
+|100+
+
 |Medina Tech Ltd.
 |_Bangladesh Office:_ 7th Floor, Wasi Tower, ECB Chattar, Matikata Road, Dhaka Cantonment, Dhaka-1206 +
 _USA Office:_ 54w 40th St, We Work Space-Medina Tech Limited, New York, NY 10018, USA
