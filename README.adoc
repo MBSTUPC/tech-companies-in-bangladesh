@@ -648,6 +648,12 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 |https://ixorasolution.com[Website]
 |Please update
 
+|IMpulse (BD) Ltd
+|House 168 (3rd Floor), Eastern Road, DOHS Baridhara, Dhaka 1206
+|.Net, JavaScript, PostgreSQL
+|https://www.impulsebdltd.com[Website]
+|10
+
 |===
 
 ==== Alphabetical Order: J - L
