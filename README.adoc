@@ -426,6 +426,12 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 |https://www.field.buzz[Website]
 |Please update
 
+|Fieldnation (USA)
+|Sector 12, Uttara, Dhaka, Bangladesh, at 23 Shah Madum Avenue, 1230.
+|AWS, Docker, Kubernetes, PHP, React, NodeJS , TypeScript
+|https://jobs.lever.co/fieldnation?location=Dhaka[Website]
+|118
+
 |Fiftytwo
 |House 04, Road 9/B, Nikunja-1, Dhaka-1229
 |C, C++, Angular, SQL
@@ -957,9 +963,9 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |Pathao Ltd
 |Road 49, Genetic Baro Bhuiyan Tower, Gulshan-2, Dhaka
-|Android, IOS, Go, PHP, Kubernetes
+|Android, IOS, Go, PHP, Kubernetes, Nodejs
 |https://pathao.com/[Website]
-|Please update
+|176
 
 |Penta Global Ltd
 |Sheba House, 7th ﬂoor, Plot 34, Road 46, Gulshan-2, Dhaka-1212
