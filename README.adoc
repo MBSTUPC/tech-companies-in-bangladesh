@@ -1133,6 +1133,12 @@ Road-19/C, New DOHS, Mohakhali, Dhaka-1206
 |https://www.facebook.com/softwarepeoplewpp[Facebook]
 |Please update
 
+|SOFTBOFFIN
+|Vaivai Market, Challabon,Dakshinkhan, Dhaka
+|PHP, Laravel, Wordpress, Reactjs, NextJS
+|https://www.softboffin.com [Website]
+|Please update
+
 |Software Lighthouse
 |https://maps.app.goo.gl/zzyezJTjAi7hVZt89[Flat#1-B, House#12, Road# 2/A, Diabari, Uttara, Dhaka - 1230, Bangladesh].  01758561131 
 |Go, Flutter, Android, iOS, Unity, Firebase, PostgresSQL, JavaScript, Oracle, Node, PHP, MySQL, WordPress 
@@ -1164,6 +1170,12 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |https://www.sovware.com/[Website]
 https://www.linkedin.com/company/sovware/[LinkedIn]
 |20+
+
+|SPeeddigit PVT.Ltd
+|House: 8, Road: 13/A, Sector: 06, Uttara, Dhaka 1230
+|PHP, Laravel, Wordpress, Reactjs, NextJS
+|https://www.speeddigit.com [Website]
+|Please update
 
 |SSL Wireless
 |93 B, New Eskaton Road, Dhaka-1000, Bangladesh
