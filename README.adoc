@@ -317,7 +317,7 @@ https://github.com/ChumbokIT[Github]
 
 |Danpite.Tech
 |1008/R, Lift-9, Sha Ali Plaza, Mirpur-10, Dhaka-1216
-|PHP, Laravel, Flutter, ReactJS
+|PHP, Laravel, Flutter, React
 |https://danpite.tech/[Website]
 |27
 
@@ -329,7 +329,7 @@ https://github.com/ChumbokIT[Github]
 
 |Dhrubok Infotech Services Ltd.
 |Sara Aftab Tower (11th floor), 29 Ring Road, Shyamoli, Dhaka 1207
-|Java, Spring Boot, Javascript, React, NextJs, Android, IOS, Flutter
+|Java, Spring Boot, JavaScript, React, Next.js, Android, iOS, Flutter
 |https://dhrubokinfotech.com/[Website]
 https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |<10
@@ -366,7 +366,7 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 
 |Dynamic Solution Innovators Ltd. (DSi)
 |House 177, Lane 2, New DOHS Mohakhali, Dhaka 1206, Bangladesh
-|Java, Springboot, Nodejs(hapi), Hibernate, ReactJs, NextJs, AngularJS, Android, iOS
+|Java, Spring Boot, Node.js (Hapi), Hibernate, React, Next.js, AngularJS, Android, iOS
 |http://www.dsinnovators.com[Website] https://www.linkedin.com/company/dsinnovators/[LinkedIn] https://www.facebook.com/DynamicSolutionInnovators/[Facebook]
 |Please update
 
@@ -378,7 +378,7 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 
 |Embedded Logic Operations (ELO)
 |39, Bir Uttam C.R Dutta Road, Dhaka [Remote First]
-|Node, React, Angular, Nextjs, Nestjs, PHP, Laravel, AWS, Docker, Mongo, PostgreSQL, MySQL/MariaDB, Google Firebase, Flutter, WordPress, Cypress, UI/UX
+|Node, React, Angular, Next.js, NestJS, PHP, Laravel, AWS, Docker, Mongo, PostgreSQL, MySQL/MariaDB, Google Firebase, Flutter, WordPress, Cypress, UI/UX
 |https://elobyte.com/[Website]
 |Please update
 
@@ -396,19 +396,19 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 
 |E Soft Limited
 |Rangs Babylonia, Level 7, 246, Bir Uttam Mir Shawkat Road, Tejgaon I/A, Tejgaon, Dhaka-1208
-|Python, FastApi, Streamlit, PostgreSQL, Docker, Linux
+|Python, FastAPI, Streamlit, PostgreSQL, Docker, Linux
 |https://www.linkedin.com/company/esoftlimited/[LinkedIn]
 |Please update
 
 |Evaly Limited
 |House 8, Road 14, Dhanmondi, Dhaka-1209
-|NodeJS, ExpressJS, Python, Django, GoLang, REST, Microservices, SQL, NoSQL, SQS, SNS, MQTT
+|Node.js, Express.js, Python, Django, Go, REST, Microservices, SQL, NoSQL, SQS, SNS, MQTT
 |https://evaly.com.bd/career/[Website]
 |Please update
 
 |Exabyting Technologies
 |8th Floor, House# 470, Road# 31, Mohakhali DOHS, Dhaka 1212, Bangladesh
-|JAVA, Spring, PHP, Laravel, JavaScript, NodeJS, ExpressJS, Python, Django, REST, Microservices, SQL, NoSQL, SQS, SNS
+|Java, Spring, PHP, Laravel, JavaScript, Node.js, Express.js, Python, Django, REST, Microservices, SQL, NoSQL, SQS, SNS
 |http://exabyting.com/[Website]
 |Please update
 
@@ -417,7 +417,6 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |Core Banking, Islamic Banking, Micro-finance, ERP, HR & Payroll, AI/ML, IoT, RPA, Web Applications, SQL, Oracle, .NET, Java, Python
 |https://www.erainfotechbd.com/[Website]
 https://www.linkedin.com/company/era-infotech-ltd/posts/[LinkedIn]
-https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 |Please update
 
 |Fieldbuzz (Germany)
@@ -428,7 +427,7 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 
 |Fieldnation (USA)
 |Sector 12, Uttara, Dhaka, Bangladesh, at 23 Shah Madum Avenue, 1230.
-|AWS, Docker, Kubernetes, PHP, React, NodeJS , TypeScript
+|AWS, Docker, Kubernetes, PHP, React, Node.js, TypeScript
 |https://jobs.lever.co/fieldnation?location=Dhaka[Website]
 |118
 
