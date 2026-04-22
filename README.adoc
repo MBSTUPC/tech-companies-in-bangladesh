@@ -444,6 +444,12 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[Facebook]
 |https://figlab.io/[Website]
 |Please update
 
+|Flinkeo
+|Remote
+|Next.js, React, Python
+|https://flinkeo.online/[Website]
+|Please update
+
 |Flyte Solutions
 |House 11, Level C1, The Reeve, Rd 33, Gulshan 1, Dhaka 1212, Bangladesh
 |JavaScript, Node, React, React Native, Android, iOS
