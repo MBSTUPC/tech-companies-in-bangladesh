@@ -83,6 +83,13 @@ https://www.linkedin.com/company/apurba-technologies-ltd[LinkedIn]
 |https://aqualinkbangladesh.com[Website]
 |Please update
 
+|Arraytics
+|House 666, 668 Rd No 9, Mirpur DOHS, Dhaka, Bangladesh, 1216
+|WordPress, PHP, Laravel, NodeJs, ReactJs, Ionic, Google NLP, Docker, and OpenAI GPT-3
+|https://arraytics.com[Website]
+https://www.linkedin.com/company/arraytics/[LinkedIn]
+|30+
+
 |Astha IT
 |Sel Rose N Dale, 116 Kazi Nazrul Islam Ave, Dhaka – 1205, Bangladesh.
 |C#, dotnet, Java, Spring Boot, JavaScript, React, Vue.js, Angular, HTML5, CSS, UI/UX, Flutter, Android, AWS, Docker, Kubernetes, Selenium, Testsigma, GO
