@@ -1182,6 +1182,12 @@ https://www.linkedin.com/company/selise/[LinkedIn]
 |https://www.siliconorchard.com/[Website]
 |Please update
 
+|Smart Software Limited
+|152/2/N, (4th F),  Panthopath,  Dhaka, Bangladesh
+|PHP, NodeJS, ReactJS, Blockchain, Android, iOS
+|https://www.smartsoftware.com.bd//[Website]
+|45
+
 |Singularity Limited
 |138/1, Level 4, Tejgaon I/A, Dhaka 1208, Bangladesh
 |Web and Mobile application, Virtual, Augmented and Mixed Reality, Motion Graphics, Animation, Visual Effects
