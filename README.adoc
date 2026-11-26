@@ -176,6 +176,12 @@ https://www.facebook.com/authLab/[Facebook]
 |https://www.bdtask.com/[Website]
 |Please update
 
+|BerryNodes
+|Nakla, Mymensingh 2150, Bangladesh
+|KVM, NVMe, Linux, VPS hosting
+|https://berrynodes.com/[Website]
+|Please update
+
 |Binate Solutions
 |House-1148 (1st, 3rd, & 4th floor), Road 9A(Old-48), Mirpur DOHS, Dhaka-1216, Bangladesh
 |Java, Python, Ruby, WordPress, Magento.
